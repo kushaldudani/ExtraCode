@@ -1,0 +1,1189 @@
+NSE/20MICRONS	20 Microns Limited	06/10/08	11/09/14	daily	12/09/14	20MICRONS
+NSE/3IINFOTECH	3i Infotech Limited	22/04/05	11/09/14	daily	12/09/14	3IINFOTECH
+NSE/8KMILES	8K Miles Software Services Limited	29/01/14	11/09/14	daily	12/09/14	8KMILES
+NSE/A2ZMES	A2Z Maintenance & Engineering Services Limited	23/12/10	11/09/14	daily	12/09/14	A2ZMES
+NSE/AARTIDRUGS	Aarti Drugs Limited	19/03/98	11/09/14	daily	12/09/14	AARTIDRUGS
+NSE/ABBOTINDIA	Abbott India Limited	08/01/10	11/09/14	daily	12/09/14	ABBOTINDIA
+NSE/AFL	Accel Frontline Limited	30/10/06	11/09/14	daily	12/09/14	AFL
+NSE/ACCELYA	Accelya Kale Solutions Limited	06/09/12	11/09/14	daily	12/09/14	ACCELYA
+NSE/ACROPETAL	Acropetal Technologies Limited	10/03/11	11/09/14	daily	12/09/14	ACROPETAL
+NSE/ACE	Action Construction Equipment Limited	26/09/06	11/09/14	daily	12/09/14	ACE
+NSE/ADFFOODS	ADF Foods Limited	15/09/10	11/09/14	daily	12/09/14	ADFFOODS
+NSE/ADHUNIK	Adhunik Metaliks Limited	05/04/06	11/09/14	daily	12/09/14	ADHUNIK
+NSE/ABCIL	Aditya Birla Chemicals (India) Limited	09/03/09	11/09/14	daily	12/09/14	ABCIL
+NSE/ADORWELD	Ador Welding Limited	27/09/04	11/09/14	daily	12/09/14	ADORWELD
+NSE/AMTL	Advance Metering Technology Limited	07/08/12	11/09/14	daily	12/09/14	AMTL
+NSE/ADVANIHOTR	Advani Hotels & Resorts (India) Limited	25/06/07	11/09/14	daily	12/09/14	ADVANIHOTR
+NSE/AEGISCHEM	Aegis Logistics Limited	20/03/98	11/09/14	daily	12/09/14	AEGISCHEM
+NSE/AGARIND	Agarwal Industrial Corporation Limited	26/05/14	11/09/14	daily	12/09/14	AGARIND
+NSE/AGCNET	AGC Networks Limited	08/06/10	11/09/14	daily	12/09/14	AGCNET
+NSE/AGRITECH	Agri-Tech (India) Limited	28/01/14	11/09/14	daily	12/09/14	AGRITECH
+NSE/AHLUCONT	Ahluwalia Contracts (India) Limited	14/12/09	11/09/14	daily	12/09/14	AHLUCONT
+NSE/AHMEDFORGE	Ahmednagar Forgings Limited	20/03/98	11/09/14	daily	12/09/14	AHMEDFORGE
+NSE/AJANTPHARM	Ajanta Pharma Limited	05/06/00	11/09/14	daily	12/09/14	AJANTPHARM
+NSE/AJMERA	Ajmera Realty & Infra India Limited	23/06/09	11/09/14	daily	12/09/14	AJMERA
+NSE/AKSHOPTFBR	Aksh Optifibre Limited	23/08/00	11/09/14	daily	12/09/14	AKSHOPTFBR
+NSE/ALCHEM	Alchemist Limited	31/07/07	11/09/14	daily	12/09/14	ALCHEM
+NSE/APLLTD	Alembic Pharmaceuticals Limited	20/09/11	11/09/14	daily	12/09/14	APLLTD
+NSE/ALICON	Alicon Castalloy Limited	07/03/11	11/09/14	daily	12/09/14	ALICON
+NSE/ALKALI	Alkali Metals Limited	06/11/08	11/09/14	daily	12/09/14	ALKALI
+NSE/ALKYLAMINE	Alkyl Amines Chemicals Limited	20/03/98	11/09/14	daily	12/09/14	ALKYLAMINE
+NSE/ADSL	Allied Digital Services Limited	25/07/07	11/09/14	daily	12/09/14	ADSL
+NSE/ALLSEC	Allsec Technologies Limited	09/05/05	11/09/14	daily	12/09/14	ALLSEC
+NSE/ALMONDZ	Almondz Global Securities Limited	16/06/08	11/09/14	daily	12/09/14	ALMONDZ
+NSE/ALPA	Alpa Laboratories Limited	06/08/07	11/09/14	daily	12/09/14	ALPA
+NSE/ALPHAGEO	Alphageo (India) Limited	11/05/07	11/09/14	daily	12/09/14	ALPHAGEO
+NSE/ALPINEHOU	Alpine Housing Development Corporation Limited	30/12/11	11/09/14	daily	12/09/14	ALPINEHOU
+NSE/AMARJOTHI	Amarjothi Spinning Mills Limited	08/01/10	11/09/14	daily	12/09/14	AMARJOTHI
+NSE/AMBIKCO	Ambika Cotton Mills Limited	29/01/08	11/09/14	daily	12/09/14	AMBIKCO
+NSE/AMDIND	AMD Industries Limited	25/02/08	11/09/14	daily	12/09/14	AMDIND
+NSE/AMRUTANJAN	Amrutanjan Health Care Limited	05/11/09	11/09/14	daily	12/09/14	AMRUTANJAN
+NSE/ANDHRACEMT	Andhra Cements Limited	08/11/10	11/09/14	daily	12/09/14	ANDHRACEMT
+NSE/ANGIND	ANG Industries Limited	16/06/10	11/09/14	daily	12/09/14	ANGIND
+NSE/ANIKINDS	Anik Industries Limited	21/05/08	11/09/14	daily	12/09/14	ANIKINDS
+NSE/ANKITMETAL	Ankit Metal & Power Limited	14/03/13	11/09/14	daily	12/09/14	ANKITMETAL
+NSE/ANSALHSG	Ansal Housing and Construction Limited	06/10/06	11/09/14	daily	12/09/14	ANSALHSG
+NSE/APARINDS	Apar Industries Limited	12/07/04	11/09/14	daily	12/09/14	APARINDS
+NSE/APCOTEXIND	Apcotex Industries Limited	01/11/06	11/09/14	daily	12/09/14	APCOTEXIND
+NSE/APLAPOLLO	APL Apollo Tubes Limited	14/12/11	11/09/14	daily	12/09/14	APLAPOLLO
+NSE/APLAB	Aplab Limited	30/06/10	11/09/14	daily	12/09/14	APLAB
+NSE/ARCHIDPLY	Archidply Industries Limited	04/07/08	11/09/14	daily	12/09/14	ARCHIDPLY
+NSE/ARCHIES	Archies Limited	02/09/98	11/09/14	daily	12/09/14	ARCHIES
+NSE/ARCOTECH	Arcotech Limited	16/04/14	11/09/14	daily	12/09/14	ARCOTECH
+NSE/ARIHANT	Arihant Foundations & Housing Limited	26/12/06	11/09/14	daily	11/09/14	ARIHANT
+NSE/AROGRANITE	Aro Granite Industries Limited	24/04/07	11/09/14	daily	12/09/14	AROGRANITE
+NSE/ARROWTEX	Arrow Textiles Limited	11/05/09	11/09/14	daily	12/09/14	ARROWTEX
+NSE/ARSSINFRA	ARSS Infrastructure Projects Limited	03/03/10	11/09/14	daily	12/09/14	ARSSINFRA
+NSE/ARVINDREM	Arvind Remedies Limited	08/06/12	11/09/14	daily	12/09/14	ARVINDREM
+NSE/ASAHISONG	Asahi Songwon Colors Limited	29/08/11	11/09/14	daily	12/09/14	ASAHISONG
+NSE/ASHAPURMIN	Ashapura Minechem Limited	17/03/98	11/09/14	daily	12/09/14	ASHAPURMIN
+NSE/ASHIANA	Ashiana Housing Limited	29/06/11	11/09/14	daily	12/09/14	ASHIANA
+NSE/ASHIMASYN	Ashima Limited	20/03/98	11/09/14	daily	12/09/14	ASHIMASYN
+NSE/ASHOKA	Ashoka Buildcon Limited	14/10/10	11/09/14	daily	12/09/14	ASHOKA
+NSE/ASIANTILES	Asian Granito India Limited	23/08/07	11/09/14	daily	12/09/14	ASIANTILES
+NSE/AHLEAST	Asian Hotels (East) Limited	11/08/10	11/09/14	daily	12/09/14	AHLEAST
+NSE/ASIANHOTNR	Asian Hotels (North) Limited	07/04/10	11/09/14	daily	12/09/14	ASIANHOTNR
+NSE/AHLWEST	Asian Hotels (West) Limited	05/08/10	11/09/14	daily	12/09/14	AHLWEST
+NSE/ASSAMCO	Assam Company India Limited	20/03/98	11/09/14	daily	12/09/14	ASSAMCO
+NSE/ASTEC	Astec LifeSciences Limited	25/11/09	11/09/14	daily	12/09/14	ASTEC
+NSE/ASTRAMICRO	Astra Microwave Products Limited	01/11/04	11/09/14	daily	12/09/14	ASTRAMICRO
+NSE/ASTRAL	Astral Poly Technik Limited	20/03/07	11/09/14	daily	12/09/14	ASTRAL
+NSE/ATLANTA	Atlanta  Limited	25/09/06	11/09/14	daily	12/09/14	ATLANTA
+NSE/ATNINTER	ATN International Limited	01/09/06	11/09/14	daily	12/09/14	ATNINTER
+NSE/ATULAUTO	Atul Auto Limited	26/06/13	11/09/14	daily	12/09/14	ATULAUTO
+NSE/AURIONPRO	Aurionpro Solutions Limited	25/10/05	11/09/14	daily	12/09/14	AURIONPRO
+NSE/AUSTRAL	Austral Coke & Projects Limited	04/09/08	11/09/14	daily	12/09/14	AUSTRAL
+NSE/AUTOIND	Autoline Industries Limited	31/01/07	11/09/14	daily	12/09/14	AUTOIND
+NSE/AUTOLITIND	Autolite (India) Limited	20/03/98	11/09/14	daily	12/09/14	AUTOLITIND
+NSE/AVTNPL	AVT Natural Products Limited	10/01/07	11/09/14	daily	12/09/14	AVTNPL
+NSE/AXISGOLD	Axis Mutual Fund - Axis Gold ETF	16/11/10	11/09/14	daily	12/09/14	AXISGOLD
+NSE/AXIS_ITT	Axis-IT&T Limited	16/08/05	11/09/14	daily	12/09/14	AXIS_ITT
+NSE/BLKASHYAP	B. L. Kashyap and Sons Limited	17/03/06	11/09/14	daily	12/09/14	BLKASHYAP
+NSE/BAFNAPHARM	Bafna Pharmaceuticals Limited	12/11/12	11/09/14	daily	12/09/14	BAFNAPHARM
+NSE/BAJAJCORP	Bajaj Corp Limited	18/08/10	11/09/14	daily	12/09/14	BAJAJCORP
+NSE/BALPHARMA	Bal Pharma Limited	08/05/06	11/09/14	daily	12/09/14	BALPHARMA
+NSE/BALAMINES	Balaji Amines Limited	05/04/07	11/09/14	daily	12/09/14	BALAMINES
+NSE/BANARBEADS	Banaras Beads Limited	20/03/98	11/09/14	daily	12/09/14	BANARBEADS
+NSE/BANCOINDIA	Banco Products (I) Limited	22/12/06	11/09/14	daily	12/09/14	BANCOINDIA
+NSE/BANG	Bang Overseas Limited	20/02/08	11/09/14	daily	12/09/14	BANG
+NSE/MAHABANK	Bank of Maharashtra	12/04/04	11/09/14	daily	12/09/14	MAHABANK
+NSE/BASML	Bannari Amman Spinning Mills Limited	14/11/05	11/09/14	daily	12/09/14	BASML
+NSE/BANSWRAS	Banswara Syntex Limited	11/04/07	11/09/14	daily	12/09/14	BANSWRAS
+NSE/BVCL	Barak Valley Cements Limited	23/11/07	11/09/14	daily	12/09/14	BVCL
+NSE/BARTRONICS	Bartronics India Limited	12/01/06	11/09/14	daily	12/09/14	BARTRONICS
+NSE/BAYERCROP	Bayer Cropscience Limited	08/01/10	11/09/14	daily	12/09/14	BAYERCROP
+NSE/BEARDSELL	Beardsell Limited	08/01/10	11/09/14	daily	12/09/14	BEARDSELL
+NSE/BEDMUTHA	Bedmutha Industries Limited	14/10/10	11/09/14	daily	12/09/14	BEDMUTHA
+NSE/BFINVEST	BF Investment Limited	14/01/11	11/09/14	daily	12/09/14	BFINVEST
+NSE/BHAGYNAGAR	Bhagyanagar India Limited	12/09/06	11/09/14	daily	12/09/14	BHAGYNAGAR
+NSE/BEPL	Bhansali Engineering Polymers Limited	21/03/05	11/09/14	daily	12/09/14	BEPL
+NSE/BBL	Bharat Bijlee Limited	21/11/06	11/09/14	daily	12/09/14	BBL
+NSE/BHARATRAS	Bharat Rasayan Limited	20/03/98	11/09/14	daily	12/09/14	BHARATRAS
+NSE/BHARTISHIP	Bharati Shipyard Limited	30/12/04	11/09/14	daily	12/09/14	BHARTISHIP
+NSE/BGLOBAL	Bharatiya Global Infomedia Limited	28/07/11	11/09/14	daily	12/09/14	BGLOBAL
+NSE/BIL	Bhartiya International Limited	12/04/00	11/09/14	daily	11/09/14	BIL
+NSE/BILENERGY	Bil Energy Systems Limited	15/02/11	11/09/14	daily	12/09/14	BILENERGY
+NSE/BILPOWER	Bilpower  Limited	29/01/07	11/09/14	daily	12/09/14	BILPOWER
+NSE/BIMETAL	Bimetal Bearings Limited	05/11/09	11/09/14	daily	12/09/14	BIMETAL
+NSE/BINANIIND	Binani Industries Limited	27/09/06	11/09/14	daily	12/09/14	BINANIIND
+NSE/BIRLACOT	Birla Cotsyn (India) Limited	30/07/08	11/09/14	daily	12/09/14	BIRLACOT
+NSE/BIRLAERIC	Birla Ericsson Optical Limited	20/03/98	11/09/14	daily	12/09/14	BIRLAERIC
+NSE/BSLGOLDETF	BIRLA SL GOLD ETF	23/05/11	11/09/14	daily	12/09/14	BSLGOLDETF
+NSE/BSLNIFTY	Birla Sun Life Nifty ETF - Growth	27/07/11	11/09/14	daily	12/09/14	BSLNIFTY
+NSE/BLBLIMITED	BLB Limited	31/05/00	11/09/14	daily	12/09/14	BLBLIMITED
+NSE/BLISSGVS	Bliss GVS Pharma Limited	26/07/10	11/09/14	daily	12/09/14	BLISSGVS
+NSE/BLUECHIP	Blue Chip India Limited	24/02/98	11/09/14	daily	12/09/14	BLUECHIP
+NSE/BLUESTINFO	Blue Star Infotech Limited	27/09/00	11/09/14	daily	12/09/14	BLUESTINFO
+NSE/BODALCHEM	Bodal Chemicals Limited	22/08/11	11/09/14	daily	12/09/14	BODALCHEM
+NSE/BPL	BPL Limited	20/03/98	11/09/14	daily	12/09/14	BPL
+NSE/BRANDHOUSE	Brandhouse Retails Limited	27/03/09	11/09/14	daily	12/09/14	BRANDHOUSE
+NSE/BROADCAST	Broadcast Initiatives Limited	07/03/07	11/09/14	daily	12/09/14	BROADCAST
+NSE/BROOKS	Brooks Laboratories Limited	05/09/11	11/09/14	daily	12/09/14	BROOKS
+NSE/BSLIMITED	BS LIMITED	29/11/12	11/09/14	daily	12/09/14	BSLIMITED
+NSE/BSELINFRA	BSEL Infrastructure Realty Limited	12/03/04	11/09/14	daily	12/09/14	BSELINFRA
+NSE/BSL	BSL Limited	20/03/98	11/09/14	daily	12/09/14	BSL
+NSE/BUTTERFLY	Butterfly Gandhimathi Appliances Limited	28/04/14	11/09/14	daily	12/09/14	BUTTERFLY
+NSE/CANDC	C & C Constructions Limited	26/02/07	11/09/14	daily	12/09/14	CANDC
+NSE/CMAHENDRA	C. Mahendra Exports Limited	20/01/11	11/09/14	daily	12/09/14	CMAHENDRA
+NSE/CANTABIL	Cantabil Retail India Limited	12/10/10	11/09/14	daily	12/09/14	CANTABIL
+NSE/CAPLIPOINT	Caplin Point Laboratories Limited	23/06/14	11/09/14	daily	12/09/14	CAPLIPOINT
+NSE/CGCL	Capri Global Capital Limited	14/10/13	11/09/14	daily	12/09/14	CGCL
+NSE/CAREERP	Career Point Limited	16/11/11	11/09/14	daily	12/09/14	CAREERP
+NSE/CCL	CCL Products (India) Limited	07/06/04	11/09/14	daily	12/09/14	CCL
+NSE/CEATLTD	CEAT Limited	01/02/08	11/09/14	daily	12/09/14	CEATLTD
+NSE/CELEBRITY	Celebrity Fashions Limited	12/01/06	11/09/14	daily	12/09/14	CELEBRITY
+NSE/CELESTIAL	Celestial Biolabs Limited	17/07/07	11/09/14	daily	12/09/14	CELESTIAL
+NSE/CENTUM	Centum Electronics Limited	05/10/07	11/09/14	daily	12/09/14	CENTUM
+NSE/CENTEXT	Century Extrusions Limited	20/07/04	11/09/14	daily	12/09/14	CENTEXT
+NSE/CENTURYPLY	Century Plyboards (India) Limited	23/03/06	11/09/14	daily	12/09/14	CENTURYPLY
+NSE/CERA	Cera Sanitaryware Limited	02/11/07	11/09/14	daily	12/09/14	CERA
+NSE/CEREBRAINT	Cerebra Integrated Technologies Limited	26/06/13	11/09/14	daily	12/09/14	CEREBRAINT
+NSE/CHEMFALKAL	Chemfab Alkalis Limited	18/05/06	11/09/14	daily	12/09/14	CHEMFALKAL
+NSE/CHESLINTEX	Cheslind Textiles Limited	20/03/98	11/09/14	daily	12/09/14	CHESLINTEX
+NSE/CHROMATIC	Chromatic India Limited	29/05/12	11/09/14	daily	12/09/14	CHROMATIC
+NSE/CNOVAPETRO	CIL Nova Petrochemicals Limited	03/02/14	11/09/14	daily	12/09/14	CNOVAPETRO
+NSE/CIMMCO	Cimmco Limited	08/09/11	11/09/14	daily	12/09/14	CIMMCO
+NSE/CINELINE	Cineline India Limited	13/01/14	11/09/14	daily	12/09/14	CINELINE
+NSE/CINEVISTA	Cinevista Limited	03/05/00	11/09/14	daily	12/09/14	CINEVISTA
+NSE/CLASSIC	Classic Diamonds (India) Limited	05/05/04	11/09/14	daily	12/09/14	CLASSIC
+NSE/CLUTCHAUTO	Clutch Auto Limited	23/01/07	11/09/14	daily	12/09/14	CLUTCHAUTO
+NSE/CEBBCO	Commercial Engineers & Body Builders Co Limited	18/10/10	11/09/14	daily	12/09/14	CEBBCO
+NSE/COMPUAGE	Compuage Infocom Limited	01/10/10	11/09/14	daily	12/09/14	COMPUAGE
+NSE/COMPUSOFT	Compucom Software Limited	02/03/12	11/09/14	daily	12/09/14	COMPUSOFT
+NSE/CCCL	Consolidated Construction Consortium Limited	15/10/07	11/09/14	daily	12/09/14	CCCL
+NSE/CONSOFINVT	Consolidated Finvest & Holdings Limited	29/03/05	11/09/14	daily	12/09/14	CONSOFINVT
+NSE/CORDSCABLE	Cords Cable Industries Limited	13/02/08	11/09/14	daily	12/09/14	CORDSCABLE
+NSE/COROENGG	Coromandel Engineering Company Limited	17/02/11	11/09/14	daily	12/09/14	COROENGG
+NSE/COSMOFILMS	Cosmo Films Limited	20/03/98	11/09/14	daily	12/09/14	COSMOFILMS
+NSE/COUNCODOS	Country Condo's Limited	31/08/12	11/09/14	daily	12/09/14	COUNCODOS
+NSE/CREATIVEYE	Creative Eye Limited	20/12/00	11/09/14	daily	12/09/14	CREATIVEYE
+NSE/CARERATING	Credit Analysis And Research Limited	26/12/12	11/09/14	daily	12/09/14	CARERATING
+NSE/CUBEXTUB	Cubex Tubings Limited	20/03/98	11/09/14	daily	11/09/14	CUBEXTUB
+NSE/CURATECH	Cura Technologies Limited	23/11/10	11/09/14	daily	12/09/14	CURATECH
+NSE/CYBERTECH	Cybertech Systems And Software Limited	27/01/99	11/09/14	daily	12/09/14	CYBERTECH
+NSE/DLINKINDIA	D-Link (India) Limited	18/12/09	11/09/14	daily	12/09/14	DLINKINDIA
+NSE/DALMIABHA	Dalmia Bharat Limited	09/01/13	11/09/14	daily	12/09/14	DALMIABHA
+NSE/DALMIASUG	Dalmia Bharat Sugar and Industries Limited	30/09/10	11/09/14	daily	12/09/14	DALMIASUG
+NSE/DALMIAREF	Dalmia Refractories Limited	22/05/14	11/09/14	daily	12/09/14	DALMIAREF
+NSE/DATAMATICS	Datamatics Global Services Limited	20/04/09	11/09/14	daily	12/09/14	DATAMATICS
+NSE/DBSTOCKBRO	DB (International) Stock Brokers Limited	29/02/12	11/09/14	daily	12/09/14	DBSTOCKBRO
+NSE/DCM	DCM  Limited	20/03/98	11/09/14	daily	12/09/14	DCM
+NSE/DENORA	De Nora India Limited	21/08/07	11/09/14	daily	12/09/14	DENORA
+NSE/DECCANCE	Deccan Cements Limited	02/08/07	11/09/14	daily	12/09/14	DECCANCE
+NSE/DECOLIGHT	Decolight Ceramics Limited	19/06/07	11/09/14	daily	12/09/14	DECOLIGHT
+NSE/DEEPIND	Deep Industries Limited	09/03/10	11/09/14	daily	12/09/14	DEEPIND
+NSE/DEEPAKNTR	Deepak Nitrite Limited	29/09/10	11/09/14	daily	12/09/14	DEEPAKNTR
+NSE/DHAMPURSUG	Dhampur Sugar Mills Limited	20/03/98	11/09/14	daily	12/09/14	DHAMPURSUG
+NSE/DHANUKA	Dhanuka Agritech Limited	29/06/11	11/09/14	daily	12/09/14	DHANUKA
+NSE/DHARSUGAR	Dharani Sugars & Chemicals Limited	20/03/98	11/09/14	daily	12/09/14	DHARSUGAR
+NSE/DHUNINV	Dhunseri Investments Limited	18/03/11	11/09/14	daily	12/09/14	DHUNINV
+NSE/DPTL	Dhunseri Petrochem & Tea Limited	26/07/10	11/09/14	daily	12/09/14	DPTL
+NSE/DIAPOWER	Diamond Power Infra Ltd	29/09/10	11/09/14	daily	12/09/14	DIAPOWER
+NSE/DICIND	DIC India Limited	06/09/04	11/09/14	daily	12/09/14	DICIND
+NSE/DIGJAM	Digjam Limited	28/04/08	11/09/14	daily	12/09/14	DIGJAM
+NSE/DOLPHINOFF	Dolphin Offshore Enterprises (India) Limited	06/10/06	11/09/14	daily	12/09/14	DOLPHINOFF
+NSE/DONEAR	Donear Industries Limited	20/12/06	11/09/14	daily	12/09/14	DONEAR
+NSE/DPSCLTD	DPSC Limited	21/04/08	11/09/14	daily	12/09/14	DPSCLTD
+NSE/DQE	DQ Entertainment (International) Limited	20/06/11	11/09/14	daily	12/09/14	DQE
+NSE/DSKULKARNI	DS Kulkarni Developers Limited	09/03/98	11/09/14	daily	12/09/14	DSKULKARNI
+NSE/DUNCANSLTD	Duncans Industries Limited	05/07/13	11/09/14	daily	12/09/14	DUNCANSLTD
+NSE/DYNATECH	Dynacons Technologies Limited	09/10/12	11/09/14	daily	12/09/14	DYNATECH
+NSE/EASTSILK	Eastern Silk Industries Limited	19/03/98	11/09/14	daily	12/09/14	EASTSILK
+NSE/ECEIND	ECE Industries Limited	24/09/07	11/09/14	daily	12/09/14	ECEIND
+NSE/EIHAHOTELS	EIH Associated Hotels Limited	08/04/08	11/09/14	daily	12/09/14	EIHAHOTELS
+NSE/EIMCOELECO	Eimco Elecon (India) Limited	18/03/98	11/09/14	daily	12/09/14	EIMCOELECO
+NSE/ELFORGE	EL Forge Limited	05/11/09	11/09/14	daily	12/09/14	ELFORGE
+NSE/ELECON	Elecon Engineering Company Limited	29/09/06	11/09/14	daily	12/09/14	ELECON
+NSE/ESL	Electrosteel Steels Limited	08/10/10	11/09/14	daily	12/09/14	ESL
+NSE/ELECTHERM	Electrotherm (India) Limited	04/07/97	11/09/14	daily	12/09/14	ELECTHERM
+NSE/ELGIRUBCO	Elgi Rubber Company Limited	10/08/11	11/09/14	daily	12/09/14	ELGIRUBCO
+NSE/ELNET	Elnet Technologies Limited	05/11/09	11/09/14	daily	12/09/14	ELNET
+NSE/EMAMIINFRA	Emami Infrastructure Limited	28/07/10	11/09/14	daily	12/09/14	EMAMIINFRA
+NSE/EMCO	Emco Limited	15/12/05	11/09/14	daily	12/09/14	EMCO
+NSE/EMMBI	Emmbi Industries Limited	24/02/10	11/09/14	daily	12/09/14	EMMBI
+NSE/EDL	Empee Distilleries Limited	26/11/07	11/09/14	daily	12/09/14	EDL
+NSE/EMPEESUG	Empee Sugars and Chemicals Limited	09/08/10	11/09/14	daily	12/09/14	EMPEESUG
+NSE/ENERGYDEV	Energy Development Company Limited	02/11/07	11/09/14	daily	12/09/14	ENERGYDEV
+NSE/ENTEGRA	Entegra Limited	25/04/07	11/09/14	daily	12/09/14	ENTEGRA
+NSE/EON	Eon Electric Limited	07/06/12	11/09/14	daily	12/09/14	EON
+NSE/ESSARPORTS	Essar Ports Limited	31/05/11	11/09/14	daily	12/09/14	ESSARPORTS
+NSE/ESSARSHPNG	Essar Shipping Limited	15/11/11	11/09/14	daily	12/09/14	ESSARSHPNG
+NSE/ESTER	Ester Industries Limited	20/06/11	11/09/14	daily	12/09/14	ESTER
+NSE/EUROTEXIND	Eurotex Industries and Exports Limited	20/03/98	11/09/14	daily	12/09/14	EUROTEXIND
+NSE/EVEREADY	Eveready Industries India Limited	27/04/05	11/09/14	daily	12/09/14	EVEREADY
+NSE/EVERESTIND	Everest Industries Limited	27/05/05	11/09/14	daily	12/09/14	EVERESTIND
+NSE/EKC	Everest Kanto Cylinder Limited	15/12/05	11/09/14	daily	12/09/14	EKC
+NSE/EVERONN	Everonn Education Limited	01/08/07	11/09/14	daily	12/09/14	EVERONN
+NSE/EXCELINDUS	Excel Industries Limited	16/06/04	11/09/14	daily	12/09/14	EXCELINDUS
+NSE/EXCELINFO	Excel Infoways Limited	03/08/09	11/09/14	daily	12/09/14	EXCELINFO
+NSE/FARMAXIND	Farmax India Limited	17/08/10	11/09/14	daily	12/09/14	FARMAXIND
+NSE/FCSSOFT	FCS Software Solutions Limited	21/09/05	11/09/14	daily	12/09/14	FCSSOFT
+NSE/FEDDERLOYD	Fedders Lloyd Corporation Limited	20/03/98	11/09/14	daily	11/09/14	FEDDERLOYD
+NSE/FACT	Fertilizers and Chemicals Travancore Limited	19/03/98	11/09/14	daily	12/09/14	FACT
+NSE/FIEMIND	Fiem Industries Limited	19/10/06	11/09/14	daily	12/09/14	FIEMIND
+NSE/FILATEX	Filatex India Limited	29/08/11	11/09/14	daily	12/09/14	FILATEX
+NSE/FOSECOIND	Foseco India Limited	20/03/98	11/09/14	daily	12/09/14	FOSECOIND
+NSE/FCEL	Future Consumer Enterprise Limited	17/10/13	11/09/14	daily	12/09/14	FCEL
+NSE/FLFL	Future Lifestyle Fashions Limited	01/10/13	11/09/14	daily	12/09/14	FLFL
+NSE/FMNL	Future Market Networks Limited	06/03/12	11/09/14	daily	12/09/14	FMNL
+NSE/FRLDVR	Future Retail Limited DVR	11/04/13	11/09/14	daily	12/09/14	FRLDVR
+NSE/GALLISPAT	Gallantt Ispat Limited	11/10/10	11/09/14	daily	12/09/14	GALLISPAT
+NSE/GALLANTT	Gallantt Metal Limited	04/04/06	11/09/14	daily	12/09/14	GALLANTT
+NSE/GANESHHOUC	Ganesh Housing Corporation Limited	02/03/07	11/09/14	daily	12/09/14	GANESHHOUC
+NSE/GARDENSILK	Garden Silk Mills Limited	20/03/98	11/09/14	daily	12/09/14	GARDENSILK
+NSE/GARWALLROP	Garware  Wall Ropes Limited	20/03/98	11/09/14	daily	12/09/14	GARWALLROP
+NSE/GAYAPROJ	Gayatri Projects Limited	22/08/11	11/09/14	daily	12/09/14	GAYAPROJ
+NSE/GEECEE	GeeCee Ventures Limited	05/03/10	11/09/14	daily	12/09/14	GEECEE
+NSE/GEINDSYS	GEI Industrial Systems Limited	13/08/10	11/09/14	daily	12/09/14	GEINDSYS
+NSE/GEMINI	Gemini Communication Limited	18/01/07	11/09/14	daily	12/09/14	GEMINI
+NSE/GENESYS	Genesys International Corporation Limited	23/01/03	11/09/14	daily	12/09/14	GENESYS
+NSE/GICHSGFIN	GIC Housing Finance Limited	20/03/98	11/09/14	daily	12/09/14	GICHSGFIN
+NSE/GILLANDERS	Gillanders Arbuthnot & Company Limited	14/12/09	11/09/14	daily	12/09/14	GILLANDERS
+NSE/GINNIFILA	Ginni Filaments Limited	20/03/98	11/09/14	daily	12/09/14	GINNIFILA
+NSE/GKB	GKB Ophthalmics Limited	02/03/10	11/09/14	daily	12/09/14	GKB
+NSE/GKWLIMITED	GKW Limited	20/07/09	11/09/14	daily	12/09/14	GKWLIMITED
+NSE/GLOBOFFS	Global Offshore Services Limited	07/06/11	11/09/14	daily	12/09/14	GLOBOFFS
+NSE/GLOBALVECT	Global Vectra Helicorp Limited	27/10/06	11/09/14	daily	12/09/14	GLOBALVECT
+NSE/GLODYNE	Glodyne Technoserve Limited	19/11/07	11/09/14	daily	12/09/14	GLODYNE
+NSE/GMBREW	GM Breweries Limited	19/03/98	11/09/14	daily	12/09/14	GMBREW
+NSE/GOACARBON	Goa Carbon Limited	05/06/07	11/09/14	daily	12/09/14	GOACARBON
+NSE/GPIL	Godawari Power And Ispat limited	25/04/06	11/09/14	daily	12/09/14	GPIL
+NSE/GOENKA	Goenka Diamond and Jewels Limited	16/04/10	11/09/14	daily	12/09/14	GOENKA
+NSE/GOKEX	Gokaldas Exports Limited	27/04/05	11/09/14	daily	12/09/14	GOKEX
+NSE/GOKUL	Gokul Refoils and Solvent Limited	04/06/08	11/09/14	daily	12/09/14	GOKUL
+NSE/GOLDENTOBC	Golden Tobacco Limited	29/09/08	11/09/14	daily	12/09/14	GOLDENTOBC
+NSE/GOLDIAM	Goldiam International Limited	29/08/05	11/09/14	daily	12/09/14	GOLDIAM
+NSE/BANKBEES	Goldman Sachs Mutual Fund - Bank Nifty ETF	04/06/04	11/09/14	daily	12/09/14	BANKBEES
+NSE/GOLDBEES	Goldman Sachs Mutual Fund - Gold ETF	19/03/07	11/09/14	daily	12/09/14	GOLDBEES
+NSE/HNGSNGBEES	Goldman Sachs Mutual Fund - Hang Seng ETF	18/03/10	11/09/14	daily	12/09/14	HNGSNGBEES
+NSE/INFRABEES	Goldman Sachs Mutual Fund - Infra Goldman Sachs ETS	05/10/10	11/09/14	daily	12/09/14	INFRABEES
+NSE/LIQUIDBEES	Goldman Sachs Mutual Fund - Liquidbees ETF	16/07/03	11/09/14	daily	12/09/14	LIQUIDBEES
+NSE/NIFTYBEES	Goldman Sachs Mutual Fund - Nifty ETF	08/01/02	11/09/14	daily	12/09/14	NIFTYBEES
+NSE/JUNIORBEES	Goldman Sachs Mutual Fund - Nifty Junior ETF	06/03/03	11/09/14	daily	12/09/14	JUNIORBEES
+NSE/PSUBNKBEES	Goldman Sachs Mutual Fund - PSU Bank ETF	01/11/07	11/09/14	daily	12/09/14	PSUBNKBEES
+NSE/SHARIABEES	Goldman Sachs Mutual Fund - Shariah Index ETF	01/04/09	11/09/14	daily	12/09/14	SHARIABEES
+NSE/CPSEETF	GOLDMANAMC - CPSEETF	04/04/14	11/09/14	daily	12/09/14	CPSEETF
+NSE/GOLDINFRA	Goldstone Infratech Limited	29/02/08	11/09/14	daily	12/09/14	GOLDINFRA
+NSE/GOLDTECH	Goldstone Technologies Limited	11/04/01	11/09/14	daily	12/09/14	GOLDTECH
+NSE/GRANULES	Granules India Limited	20/06/05	11/09/14	daily	12/09/14	GRANULES
+NSE/GRAVITA	Gravita India Limited	16/11/10	11/09/14	daily	12/09/14	GRAVITA
+NSE/GREENPLY	Greenply Industries Limited	09/12/04	11/09/14	daily	12/09/14	GREENPLY
+NSE/GRINDWELL	Grindwell Norton Limited	11/09/06	11/09/14	daily	12/09/14	GRINDWELL
+NSE/GSLNOVA	GSL Nova Petrochemicals Limited	18/12/09	11/09/14	daily	12/09/14	GSLNOVA
+NSE/GSS	GSS Infotech Limited	24/08/11	11/09/14	daily	12/09/14	GSS
+NSE/GTL	GTL Limited	14/01/05	11/09/14	daily	12/09/14	GTL
+NSE/GTNIND	GTN Industries Limited	24/02/06	11/09/14	daily	12/09/14	GTNIND
+NSE/GUFICBIO	Gufic Biosciences Limited	19/10/04	11/09/14	daily	12/09/14	GUFICBIO
+NSE/GAEL	Gujarat Ambuja Exports Limited	12/02/01	11/09/14	daily	12/09/14	GAEL
+NSE/GUJAPOLLO	Gujarat Apollo Industries Limited	06/07/07	11/09/14	daily	12/09/14	GUJAPOLLO
+NSE/GUJNREDVR	Gujarat NRE Coke Limited DVR	26/05/10	11/09/14	daily	12/09/14	GUJNREDVR
+NSE/GSCLCEMENT	Gujarat Sidhee Cement Limited	15/05/13	11/09/14	daily	12/09/14	GSCLCEMENT
+NSE/GULFCORP	Gulf Oil Corporation Limited	26/06/14	11/09/14	daily	12/09/14	GULFCORP
+NSE/GAL	Gyscoal Alloys Limited	27/10/10	11/09/14	daily	12/09/14	GAL
+NSE/HANUNG	Hanung Toys and Textiles Limited	20/10/06	11/09/14	daily	12/09/14	HANUNG
+NSE/HARITASEAT	Harita Seating Systems Limited	06/04/09	11/09/14	daily	12/09/14	HARITASEAT
+NSE/HARRMALAYA	Harrisons  Malayalam Limited	20/03/98	11/09/14	daily	12/09/14	HARRMALAYA
+NSE/HATSUN	Hatsun Agro Product Limited	20/06/14	11/09/14	daily	12/09/14	HATSUN
+NSE/HBSTOCK	HB Stockholdings Limited	20/03/98	11/09/14	daily	12/09/14	HBSTOCK
+NSE/HBLPOWER	HBL Power Systems Limited	04/01/07	11/09/14	daily	12/09/14	HBLPOWER
+NSE/HDFCMFGETF	HDFC Mutual Fund - HDFC Gold Exchange Traded Fund	19/08/10	11/09/14	daily	12/09/14	HDFCMFGETF
+NSE/HEIDELBERG	HeidelbergCement India Limited	15/05/09	11/09/14	daily	12/09/14	HEIDELBERG
+NSE/HELIOSMATH	Helios And Matheson Information Technology Limited	24/02/05	11/09/14	daily	12/09/14	HELIOSMATH
+NSE/HERCULES	Hercules Hoists Limited	20/02/08	11/09/14	daily	12/09/14	HERCULES
+NSE/HEXATRADEX	Hexa Tradex Limited	20/04/12	11/09/14	daily	12/09/14	HEXATRADEX
+NSE/HITECHGEAR	Hi-Tech Gears Limited	14/08/97	11/09/14	daily	12/09/14	HITECHGEAR
+NSE/HIKAL	Hikal Limited	14/02/01	11/09/14	daily	12/09/14	HIKAL
+NSE/HIL	HIL Limited	26/10/12	11/09/14	daily	12/09/14	HIL
+NSE/HCIL	Himadri Chemicals and Industries Limited	02/03/07	11/09/14	daily	12/09/14	HCIL
+NSE/HIRECT	Hind Rectifiers Limited	26/12/06	11/09/14	daily	12/09/14	HIRECT
+NSE/HINDSYNTEX	Hind Syntex Limited	20/03/98	11/09/14	daily	12/09/14	HINDSYNTEX
+NSE/HGS	Hinduja Global Solutions Limited	30/11/11	11/09/14	daily	12/09/14	HGS
+NSE/HINDUJAVEN	Hinduja Ventures Limited	29/11/07	11/09/14	daily	12/09/14	HINDUJAVEN
+NSE/HINDCOMPOS	Hindustan Composites Limited	06/03/98	11/09/14	daily	12/09/14	HINDCOMPOS
+NSE/HINDDORROL	Hindustan Dorr-Oliver Limited	19/03/98	11/09/14	daily	12/09/14	HINDDORROL
+NSE/HMVL	Hindustan Media Ventures Limited	21/07/10	11/09/14	daily	12/09/14	HMVL
+NSE/HINDMOTORS	Hindustan Motors Limited	21/02/11	11/09/14	daily	12/09/14	HINDMOTORS
+NSE/HINDNATGLS	Hindusthan National Glass & Industries Limited	15/04/09	11/09/14	daily	12/09/14	HINDNATGLS
+NSE/HITACHIHOM	Hitachi Home and Life Solutions (India) Limited	04/04/06	11/09/14	daily	12/09/14	HITACHIHOM
+NSE/HITECHPLAS	Hitech Plast Limited	20/12/07	11/09/14	daily	12/09/14	HITECHPLAS
+NSE/HMT	HMT Limited	20/03/98	11/09/14	daily	12/09/14	HMT
+NSE/HONDAPOWER	Honda Siel Power Products Limited	04/04/06	11/09/14	daily	12/09/14	HONDAPOWER
+NSE/HOVS	HOV Services Limited	27/09/06	11/09/14	daily	12/09/14	HOVS
+NSE/HYDROSS	Hydro S & S Industries Limited	11/01/10	11/09/14	daily	12/09/14	HYDROSS
+NSE/ICNX100	ICICI Prudential CNX 100 ETF - Growth	05/05/14	11/09/14	daily	12/09/14	ICNX100
+NSE/IGOLD	ICICI Prudential Mutual Fund-ICICI Prudential Gold Exchange Traded Fund	05/05/14	11/09/14	daily	12/09/14	IGOLD
+NSE/ICSA	ICSA (India) Limited	28/09/06	11/09/14	daily	12/09/14	ICSA
+NSE/IDBIGOLD	IDBI Mutual Fund - IDBI Gold ETF	17/11/11	11/09/14	daily	12/09/14	IDBIGOLD
+NSE/IFBAGRO	IFB Agro Industries Limited	20/03/98	11/09/14	daily	12/09/14	IFBAGRO
+NSE/IFBIND	IFB Industries Limited	20/03/98	11/09/14	daily	12/09/14	IFBIND
+NSE/IFGLREFRAC	IFGL Refractories Limited	20/03/98	11/09/14	daily	12/09/14	IFGLREFRAC
+NSE/IGPL	IG Petrochemicals Limited	29/01/07	11/09/14	daily	12/09/14	IGPL
+NSE/IGARASHI	Igarashi Motors India Limited	21/04/05	11/09/14	daily	12/09/14	IGARASHI
+NSE/IIFLNIFTY	IIFL Mutual Fund - Nifty ETF	25/10/11	11/09/14	daily	12/09/14	IIFLNIFTY
+NSE/INDLMETER	IMP Powers Limited	20/03/98	11/09/14	daily	12/09/14	INDLMETER
+NSE/IMPEXFERRO	Impex Ferro Tech Limited	03/02/05	11/09/14	daily	12/09/14	IMPEXFERRO
+NSE/INDSWFTLAB	Ind-Swift Laboratories Limited	20/03/98	11/09/14	daily	12/09/14	INDSWFTLAB
+NSE/INDSWFTLTD	Ind-Swift Limited	18/10/04	11/09/14	daily	12/09/14	INDSWFTLTD
+NSE/IMPAL	India Motor Parts and Accessories Limited	07/10/05	11/09/14	daily	12/09/14	IMPAL
+NSE/INDNIPPON	India Nippon Electricals Limited	20/03/98	11/09/14	daily	12/09/14	INDNIPPON
+NSE/IBULHSGFIN	Indiabulls Housing Finance Limited	23/07/13	11/09/14	daily	12/09/14	IBULHSGFIN
+NSE/IBIPL	Indiabulls Infrastructure and Power Limited	30/07/12	11/09/14	daily	12/09/14	IBIPL
+NSE/IBWSL	Indiabulls Wholesale Services Limited	18/08/11	11/09/14	daily	12/09/14	IBWSL
+NSE/INDIANCARD	Indian Card Clothing Company Limited	20/03/98	11/09/14	daily	12/09/14	INDIANCARD
+NSE/INDIANHUME	Indian Hume Pipe Company Limited	10/03/98	11/09/14	daily	12/09/14	INDIANHUME
+NSE/INDTERRAIN	Indian Terrain Fashions Limited	11/03/11	11/09/14	daily	12/09/14	INDTERRAIN
+NSE/ICIL	Indo Count Industries Limited	12/09/05	11/09/14	daily	12/09/14	ICIL
+NSE/INDORAMA	Indo Rama Synthetics (India) Limited	20/06/03	11/09/14	daily	12/09/14	INDORAMA
+NSE/INDOTECH	Indo Tech Transformers Limited	16/03/06	11/09/14	daily	12/09/14	INDOTECH
+NSE/INDOTHAI	Indo Thai Securities Limited	02/11/11	11/09/14	daily	12/09/14	INDOTHAI
+NSE/NIPPOBATRY	Indo-National Limited	07/10/99	11/09/14	daily	12/09/14	NIPPOBATRY
+NSE/INDOCO	Indoco Remedies Limited	14/01/05	11/09/14	daily	12/09/14	INDOCO
+NSE/INDOSOLAR	Indosolar Limited	29/09/10	11/09/14	daily	12/09/14	INDOSOLAR
+NSE/INDOWIND	Indowind Energy Limited	14/09/07	11/09/14	daily	12/09/14	INDOWIND
+NSE/IITL	Industrial Investment Trust Limited	17/08/10	11/09/14	daily	12/09/14	IITL
+NSE/INFODRIVE	Info-Drive Software Limited	08/01/10	11/09/14	daily	12/09/14	INFODRIVE
+NSE/INOXLEISUR	INOX Leisure Limited	23/02/06	11/09/14	daily	12/09/14	INOXLEISUR
+NSE/INSECTICID	Insecticides (India) Limited	11/05/09	11/09/14	daily	12/09/14	INSECTICID
+NSE/IPAPPM	International Paper APPM Limited	21/01/14	11/09/14	daily	12/09/14	IPAPPM
+NSE/ISFT	Intrasoft Technologies Limited	12/04/10	11/09/14	daily	12/09/14	ISFT
+NSE/INVENTURE	Inventure Growth & Securities Limited	04/08/11	11/09/14	daily	12/09/14	INVENTURE
+NSE/IOLCP	IOL Chemicals and Pharmaceuticals Limited	08/11/10	11/09/14	daily	12/09/14	IOLCP
+NSE/IPRINGLTD	IP Rings Limited	05/11/09	11/09/14	daily	12/09/14	IPRINGLTD
+NSE/ISMTLTD	ISMT Limited	28/08/07	11/09/14	daily	12/09/14	ISMTLTD
+NSE/ITDCEM	ITD Cementation India Limited	16/08/05	11/09/14	daily	12/09/14	ITDCEM
+NSE/ITI	ITI Limited	20/03/98	11/09/14	daily	12/09/14	ITI
+NSE/IVP	IVP Limited	17/03/98	11/09/14	daily	12/09/14	IVP
+NSE/JAGSNPHARM	Jagsonpal Pharmaceuticals Limited	20/03/98	11/09/14	daily	12/09/14	JAGSNPHARM
+NSE/JAIBALAJI	Jai Balaji Industries Limited	10/08/07	11/09/14	daily	12/09/14	JAIBALAJI
+NSE/JAIHINDPRO	Jaihind Projects Limited	29/02/12	11/09/14	daily	12/09/14	JAIHINDPRO
+NSE/JISLDVREQS	Jain Irrigation Systems Limited DVR	30/11/11	11/09/14	daily	12/09/14	JISLDVREQS
+NSE/JAINSTUDIO	Jain Studios Limited	17/03/98	11/09/14	daily	11/09/14	JAINSTUDIO
+NSE/JAMNAAUTO	Jamna Auto Industries Limited	10/12/10	11/09/14	daily	12/09/14	JAMNAAUTO
+NSE/JAYBARMARU	Jay Bharat Maruti Limited	16/03/98	11/09/14	daily	12/09/14	JAYBARMARU
+NSE/JAYNECOIND	Jayaswal Neco Industries Limited	22/02/08	11/09/14	daily	12/09/14	JAYNECOIND
+NSE/JAYSREETEA	Jayshree Tea & Industries Limited	20/03/98	11/09/14	daily	12/09/14	JAYSREETEA
+NSE/JBMA	JBM Auto Limited	04/01/06	11/09/14	daily	12/09/14	JBMA
+NSE/JCTEL	JCT Electronics Limited	21/11/07	11/09/14	daily	12/09/14	JCTEL
+NSE/JETAIRWAYS	Jet Airways (India) Limited	14/03/05	11/09/14	daily	12/09/14	JETAIRWAYS
+NSE/JHS	JHS Svendgaard Laboratories Limited	21/10/06	11/09/14	daily	12/09/14	JHS
+NSE/JIKIND	JIK Industries Limited	26/11/08	11/09/14	daily	12/09/14	JIKIND
+NSE/JINDCOT	Jindal Cotex Limited	22/09/09	11/09/14	daily	12/09/14	JINDCOT
+NSE/JINDALPHOT	Jindal Photo Limited	07/04/05	11/09/14	daily	12/09/14	JINDALPHOT
+NSE/JINDALPOLY	Jindal Poly Films Limited	20/03/98	11/09/14	daily	12/09/14	JINDALPOLY
+NSE/JPOLYINVST	Jindal Poly Investment and Finance Company Limited	11/11/13	11/09/14	daily	12/09/14	JPOLYINVST
+NSE/JINDWORLD	Jindal Worldwide Limited	25/11/10	11/09/14	daily	12/09/14	JINDWORLD
+NSE/JKCEMENT	JK Cement Limited	14/03/06	11/09/14	daily	12/09/14	JKCEMENT
+NSE/JKPAPER	JK Paper Limited	16/06/05	11/09/14	daily	12/09/14	JKPAPER
+NSE/JMCPROJECT	JMC Projects (India)  Limited	20/03/98	11/09/14	daily	12/09/14	JMCPROJECT
+NSE/JOCIL	Jocil Limited	08/10/08	11/09/14	daily	12/09/14	JOCIL
+NSE/JUBLINDS	Jubilant Industries Limited	14/02/11	11/09/14	daily	12/09/14	JUBLINDS
+NSE/JUSTDIAL	Just Dial Limited	05/06/13	11/09/14	daily	12/09/14	JUSTDIAL
+NSE/JVLAGRO	JVL Agro Industries Limited	17/06/11	11/09/14	daily	12/09/14	JVLAGRO
+NSE/JYOTHYLAB	Jyothy Laboratories Limited	19/12/07	11/09/14	daily	12/09/14	JYOTHYLAB
+NSE/KMSUGAR	K.M.Sugar Mills Limited	31/05/07	11/09/14	daily	12/09/14	KMSUGAR
+NSE/KPRMILL	K.P.R. Mill Limited	28/08/07	11/09/14	daily	12/09/14	KPRMILL
+NSE/KABRAEXTRU	Kabra Extrusion Technik Limited	18/03/98	11/09/14	daily	12/09/14	KABRAEXTRU
+NSE/KAKATCEM	Kakatiya Cement Sugar & Industries Limited	20/03/98	11/09/14	daily	12/09/14	KAKATCEM
+NSE/KALINDEE	Kalindee Rail Nirman (Engineers) Limited	08/06/07	11/09/14	daily	12/09/14	KALINDEE
+NSE/KALYANIFRG	Kalyani Forge Limited	20/12/07	11/09/14	daily	12/09/14	KALYANIFRG
+NSE/KICL	Kalyani Investment Company Limited	14/01/11	11/09/14	daily	12/09/14	KICL
+NSE/KSL	Kalyani Steels Limited	19/05/10	11/09/14	daily	12/09/14	KSL
+NSE/KAMATHOTEL	Kamat Hotels (I) Limited	17/03/98	11/09/14	daily	12/09/14	KAMATHOTEL
+NSE/KIL	Kamdhenu Ispat Limited	09/05/06	11/09/14	daily	12/09/14	KIL
+NSE/KANANIIND	Kanani Industries Limited	14/12/11	11/09/14	daily	12/09/14	KANANIIND
+NSE/KANORICHEM	Kanoria Chemicals & Industries Limited	20/03/98	11/09/14	daily	12/09/14	KANORICHEM
+NSE/KARURKCP	Karur K.C.P. Packkagings Limited	02/03/10	11/09/14	daily	12/09/14	KARURKCP
+NSE/KAUSHALYA	Kaushalya Infrastructure Development Corporation Limited	14/12/07	11/09/14	daily	12/09/14	KAUSHALYA
+NSE/KAVVERITEL	Kavveri Telecom Products Limited	29/01/08	11/09/14	daily	12/09/14	KAVVERITEL
+NSE/KCPSUGIND	KCP Sugar and Industries Corporation Limited	20/03/98	11/09/14	daily	12/09/14	KCPSUGIND
+NSE/KEI	KEI Industries Limited	23/03/06	11/09/14	daily	12/09/14	KEI
+NSE/KESARENT	Kesar Enterprises Limited	02/01/07	11/09/14	daily	12/09/14	KESARENT
+NSE/KTIL	Kesar Terminals & Infrastructure Limited	22/12/10	11/09/14	daily	12/09/14	KTIL
+NSE/KHAITANLTD	Khaitan (India) Limited	20/03/98	11/09/14	daily	12/09/14	KHAITANLTD
+NSE/KHAITANELE	Khaitan Electricals Limited	28/06/00	11/09/14	daily	12/09/14	KHAITANELE
+NSE/KHANDSE	Khandwala Securities Limited	12/02/01	11/09/14	daily	12/09/14	KHANDSE
+NSE/KFA	Kingfisher Airlines Limited	06/10/08	11/09/14	daily	12/09/14	KFA
+NSE/KIRIINDUS	Kiri Industries Limited	28/03/11	11/09/14	daily	12/09/14	KIRIINDUS
+NSE/KBIL	Kirloskar Brothers Investments Limited	04/01/11	11/09/14	daily	12/09/14	KBIL
+NSE/KIRLOSBROS	Kirloskar Brothers Limited	20/04/10	11/09/14	daily	12/09/14	KIRLOSBROS
+NSE/KECL	Kirloskar Electric Company Limited	09/03/10	11/09/14	daily	12/09/14	KECL
+NSE/KIRLOSIND	Kirloskar Industries Limited	24/06/10	11/09/14	daily	12/09/14	KIRLOSIND
+NSE/KIRLOSENG	Kirloskar Oil Engines Limited	24/12/10	11/09/14	daily	12/09/14	KIRLOSENG
+NSE/KITEX	Kitex Garments Limited	25/09/12	11/09/14	daily	12/09/14	KITEX
+NSE/KLRF	KLRF Limited	02/03/10	11/09/14	daily	12/09/14	KLRF
+NSE/KNRCON	KNR Constructions Limited	18/02/08	11/09/14	daily	12/09/14	KNRCON
+NSE/KOHINOOR	Kohinoor Foods Limited	18/08/06	11/09/14	daily	12/09/14	KOHINOOR
+NSE/KOKUYOCMLN	Kokuyo Camlin Limited	14/02/12	11/09/14	daily	12/09/14	KOKUYOCMLN
+NSE/KOPRAN	Kopran Limited	20/03/98	11/09/14	daily	12/09/14	KOPRAN
+NSE/KOTAKGOLD	Kotak Mutual Fund - Gold ETF	08/08/07	11/09/14	daily	12/09/14	KOTAKGOLD
+NSE/KOTAKNIFTY	Kotak Mutual Fund - Nifty ETF	11/02/10	11/09/14	daily	12/09/14	KOTAKNIFTY
+NSE/KOTAKPSUBK	Kotak Mutual Fund - PSU Bank Index ETF	16/11/07	11/09/14	daily	12/09/14	KOTAKPSUBK
+NSE/KOTHARIPET	Kothari Petrochemicals Limited	10/03/98	11/09/14	daily	12/09/14	KOTHARIPET
+NSE/KOTHARIPRO	Kothari Products Limited	04/06/98	11/09/14	daily	12/09/14	KOTHARIPRO
+NSE/KOTARISUG	Kothari Sugars And Chemicals Limited	13/12/04	11/09/14	daily	12/09/14	KOTARISUG
+NSE/KOVAI	Kovai Medical Center & Hospital Limited	02/03/10	11/09/14	daily	12/09/14	KOVAI
+NSE/KRBL	KRBL Limited	24/01/02	11/09/14	daily	12/09/14	KRBL
+NSE/KSE	KSE Limited	05/11/09	11/09/14	daily	12/09/14	KSE
+NSE/KSERASERA	KSS Limited	07/03/11	11/09/14	daily	12/09/14	KSERASERA
+NSE/KWALITY	kwality limited	08/01/10	11/09/14	daily	12/09/14	KWALITY
+NSE/LAOPALA	La Opala RG Limited	16/03/07	11/09/14	daily	12/09/14	LAOPALA
+NSE/LAKPRE	Lakshmi Precision Screws Limited	26/09/06	11/09/14	daily	12/09/14	LAKPRE
+NSE/LANCOIN	Lanco Industries Limited	28/08/07	11/09/14	daily	11/09/14	LANCOIN
+NSE/LPDC	Landmark Property Development Company Limited	12/08/08	11/09/14	daily	12/09/14	LPDC
+NSE/LGBBROSLTD	LG Balakrishnan & Bros Limited	30/03/10	11/09/14	daily	12/09/14	LGBBROSLTD
+NSE/LGBFORGE	LGB Forge Limited	01/08/08	11/09/14	daily	12/09/14	LGBFORGE
+NSE/LIBERTSHOE	Liberty Shoes Limited	20/03/98	11/09/14	daily	12/09/14	LIBERTSHOE
+NSE/LLOYDELENG	Lloyd Electric & Engineering Limited	19/03/98	11/09/14	daily	12/09/14	LLOYDELENG
+NSE/LML	LML Limited	20/03/98	11/09/14	daily	12/09/14	LML
+NSE/LOGIXMICRO	Logix Microsystems Limited	05/02/07	11/09/14	daily	12/09/14	LOGIXMICRO
+NSE/LOKESHMACH	Lokesh Machines Limited	05/05/06	11/09/14	daily	12/09/14	LOKESHMACH
+NSE/LOTUSEYE	Lotus Eye Care Hospital Limited	11/07/08	11/09/14	daily	12/09/14	LOTUSEYE
+NSE/DAAWAT	LT Foods Limited	18/12/06	11/09/14	daily	12/09/14	DAAWAT
+NSE/LUMAXTECH	Lumax Auto Technologies Limited	16/01/07	11/09/14	daily	12/09/14	LUMAXTECH
+NSE/LUMAXAUTO	Lumax Automotive Systems Limited	24/08/04	11/09/14	daily	12/09/14	LUMAXAUTO
+NSE/LUMAXIND	Lumax Industries Limited	20/03/98	11/09/14	daily	12/09/14	LUMAXIND
+NSE/LYKALABS	Lyka Labs Limited	20/03/98	11/09/14	daily	12/09/14	LYKALABS
+NSE/LYPSAGEMS	Lypsa Gems & Jewellery Limited	05/11/13	11/09/14	daily	12/09/14	LYPSAGEMS
+NSE/MAANALU	Maan Aluminium Limited	16/03/11	11/09/14	daily	12/09/14	MAANALU
+NSE/MADHAV	Madhav Marbles and Granites Limited	20/12/07	11/09/14	daily	12/09/14	MADHAV
+NSE/MADHUCON	Madhucon Projects Limited	05/10/06	11/09/14	daily	12/09/14	MADHUCON
+NSE/MADRASFERT	Madras Fertilizers Limited	20/03/98	11/09/14	daily	12/09/14	MADRASFERT
+NSE/MAHINDCIE	Mahindra CIE Automotive Limited	17/12/13	11/09/14	daily	12/09/14	MAHINDCIE
+NSE/MAHINDUGIN	Mahindra Ugine Steel Company Limited	20/03/98	11/09/14	daily	12/09/14	MAHINDUGIN
+NSE/MAITHANALL	Maithan Alloys Limited	05/07/11	11/09/14	daily	12/09/14	MAITHANALL
+NSE/MALUPAPER	Malu Paper Mills Limited	05/04/06	11/09/14	daily	12/09/14	MALUPAPER
+NSE/MALWACOTT	Malwa Cotton Spg. Mills Limited	20/03/98	11/09/14	daily	12/09/14	MALWACOTT
+NSE/MANAKSIA	Manaksia Limited	08/01/08	11/09/14	daily	12/09/14	MANAKSIA
+NSE/MANALIPETC	Manali Petrochemicals Limited	06/12/06	11/09/14	daily	12/09/14	MANALIPETC
+NSE/MANAPPURAM	Manappuram Finance Limited	30/06/10	11/09/14	daily	12/09/14	MANAPPURAM
+NSE/MANGLMCEM	Mangalam Cement Limited	20/03/98	11/09/14	daily	12/09/14	MANGLMCEM
+NSE/MANGTIMBER	Mangalam Timber Products Limited	17/03/98	11/09/14	daily	12/09/14	MANGTIMBER
+NSE/MANJUSHREE	Manjushree Technopack Limited	29/12/10	11/09/14	daily	12/09/14	MANJUSHREE
+NSE/MANUGRAPH	Manugraph India Limited	14/09/06	11/09/14	daily	12/09/14	MANUGRAPH
+NSE/MARALOVER	Maral Overseas Limited	20/03/98	11/09/14	daily	12/09/14	MARALOVER
+NSE/MARG	Marg Limited	05/11/09	11/09/14	daily	12/09/14	MARG
+NSE/MARICO	Marico Limited	14/06/05	11/09/14	daily	12/09/14	MARICO
+NSE/MARKSANS	Marksans Pharma Limited	14/11/05	11/09/14	daily	12/09/14	MARKSANS
+NSE/MAWANASUG	Mawana Sugars Limited	20/03/09	11/09/14	daily	12/09/14	MAWANASUG
+NSE/MAXWELL	Maxwell Industries Limited	06/08/07	11/09/14	daily	12/09/14	MAXWELL
+NSE/MAYURUNIQ	Mayur Uniquoters Ltd	25/09/12	11/09/14	daily	12/09/14	MAYURUNIQ
+NSE/MBLINFRA	MBL Infrastructures Limited	11/01/10	11/09/14	daily	12/09/14	MBLINFRA
+NSE/MCDHOLDING	McDowell Holdings Limited	30/05/07	11/09/14	daily	12/09/14	MCDHOLDING
+NSE/MBECL	Mcnally Bharat Engineering Company Limited	06/10/06	11/09/14	daily	12/09/14	MBECL
+NSE/MMWL	Media Matrix Worldwide Limited	26/03/14	11/09/14	daily	12/09/14	MMWL
+NSE/MEGASOFT	Megasoft Limited	19/07/07	11/09/14	daily	12/09/14	MEGASOFT
+NSE/MELSTAR	Melstar Information Technologies Limited	09/03/00	11/09/14	daily	12/09/14	MELSTAR
+NSE/METKORE	Metkore Alloys & Industries Limited	02/04/12	11/09/14	daily	12/09/14	METKORE
+NSE/MICROSEC	Microsec Financial Services Limited	05/10/10	11/09/14	daily	12/09/14	MICROSEC
+NSE/MINDACORP	Minda Corporation Limited	19/03/12	11/09/14	daily	12/09/14	MINDACORP
+NSE/MINDAIND	Minda Industries Limited	02/02/07	11/09/14	daily	12/09/14	MINDAIND
+NSE/MIRCELECTR	MIRC Electronics Limited	20/03/98	11/09/14	daily	12/09/14	MIRCELECTR
+NSE/MIRZAINT	Mirza International Limited	05/07/06	11/09/14	daily	12/09/14	MIRZAINT
+NSE/MMFL	MM Forgings Limited	20/12/06	11/09/14	daily	12/09/14	MMFL
+NSE/MOHITIND	Mohit Industries Limited	14/03/13	11/09/14	daily	12/09/14	MOHITIND
+NSE/MORARJEE	Morarjee Textiles Limited	18/09/12	11/09/14	daily	12/09/14	MORARJEE
+NSE/MOSERBAER	Moser-Baer (I) Limited	20/03/98	11/09/14	daily	12/09/14	MOSERBAER
+NSE/M100	Motilal Oswal Mutual Fund - Midcap ETF	04/02/11	11/09/14	daily	12/09/14	M100
+NSE/MGOLD	Motilal Oswal Mutual Fund - Motilal Oswal MOSt Shares Gold ETF	27/03/12	11/09/14	daily	12/09/14	MGOLD
+NSE/N100	Motilal Oswal Mutual Fund - Nasdaq ETF	31/03/11	11/09/14	daily	12/09/14	N100
+NSE/MPSLTD	MPS Limited	11/09/09	11/09/14	daily	12/09/14	MPSLTD
+NSE/MUDRA	Mudra Lifestyle Limited	09/03/07	11/09/14	daily	12/09/14	MUDRA
+NSE/MUKANDENGG	Mukand Engineers Limited	29/06/00	11/09/14	daily	12/09/14	MUKANDENGG
+NSE/MUKANDLTD	Mukand Limited	23/02/04	11/09/14	daily	12/09/14	MUKANDLTD
+NSE/MUKTAARTS	Mukta Arts Limited	13/09/00	11/09/14	daily	12/09/14	MUKTAARTS
+NSE/MCX	Multi Commodity Exchange of India Limited	09/03/12	11/09/14	daily	12/09/14	MCX
+NSE/MUNJALAU	Munjal Auto Industries Limited	19/07/06	11/09/14	daily	12/09/14	MUNJALAU
+NSE/MUNJALSHOW	Munjal Showa Limited	20/03/98	11/09/14	daily	12/09/14	MUNJALSHOW
+NSE/MURLIIND	Murli Industries Limited	19/02/07	11/09/14	daily	12/09/14	MURLIIND
+NSE/MURUDCERA	Murudeshwar Ceramics Limited	17/02/98	11/09/14	daily	12/09/14	MURUDCERA
+NSE/MVL	MVL Limited	30/06/08	11/09/14	daily	12/09/14	MVL
+NSE/NAGAROIL	Nagarjuna Oil Refinery Limited	28/03/12	11/09/14	daily	12/09/14	NAGAROIL
+NSE/NAGREEKCAP	Nagreeka Capital & Infrastructure Limited	18/09/07	11/09/14	daily	12/09/14	NAGREEKCAP
+NSE/NAGREEKEXP	Nagreeka Exports Limited	18/06/07	11/09/14	daily	12/09/14	NAGREEKEXP
+NSE/NAHARCAP	Nahar Capital and Financial Services Limited	11/03/08	11/09/14	daily	12/09/14	NAHARCAP
+NSE/NAHARINDUS	Nahar Industrial Enterprises Limited	15/12/05	11/09/14	daily	12/09/14	NAHARINDUS
+NSE/NAHARPOLY	Nahar Poly Films Limited	16/06/11	11/09/14	daily	12/09/14	NAHARPOLY
+NSE/NAHARSPING	Nahar Spinning Mills Limited	23/03/07	11/09/14	daily	12/09/14	NAHARSPING
+NSE/NAKODA	Nakoda Limited	14/03/13	11/09/14	daily	12/09/14	NAKODA
+NSE/NSIL	Nalwa Sons Investments Limited	07/06/05	11/09/14	daily	12/09/14	NSIL
+NSE/NDL	Nandan Denim Limited	21/11/13	11/09/14	daily	12/09/14	NDL
+NSE/NATCOPHARM	Natco Pharma Limited	20/03/98	11/09/14	daily	12/09/14	NATCOPHARM
+NSE/NATHBIOGEN	Nath Bio-Genes (India) Limited	28/01/14	11/09/14	daily	12/09/14	NATHBIOGEN
+NSE/NATHSEED	Nath Seeds  Limited	08/09/11	11/09/14	daily	12/09/14	NATHSEED
+NSE/NBCC	National Buildings Construction Corporation Limited	12/04/12	11/09/14	daily	12/09/14	NBCC
+NSE/NFL	National Fertilizers Limited	28/12/06	11/09/14	daily	12/09/14	NFL
+NSE/NOL	National Oxygen Limited	30/06/10	11/09/14	daily	11/09/14	NOL
+NSE/NATNLSTEEL	National Steel And Agro Industries Limited	20/03/98	11/09/14	daily	12/09/14	NATNLSTEEL
+NSE/NAVINFLUOR	Navin Fluorine International Limited	01/06/07	11/09/14	daily	12/09/14	NAVINFLUOR
+NSE/NCLIND	NCL Industries Limited	03/04/07	11/09/14	daily	12/09/14	NCLIND
+NSE/NECLIFE	Nectar Lifesciences Limited	18/07/05	11/09/14	daily	12/09/14	NECLIFE
+NSE/NEHAINT	Neha International Limited	09/08/10	11/09/14	daily	12/09/14	NEHAINT
+NSE/NELCAST	Nelcast Limited	27/06/07	11/09/14	daily	12/09/14	NELCAST
+NSE/NELCO	NELCO Limited	20/03/98	11/09/14	daily	12/09/14	NELCO
+NSE/NEOCORP	Neo Corp International Limited	02/03/12	11/09/14	daily	12/09/14	NEOCORP
+NSE/NEPCMICON	NEPC India Limited	20/03/98	11/09/14	daily	12/09/14	NEPCMICON
+NSE/NESCO	Nesco Limited	08/04/08	11/09/14	daily	12/09/14	NESCO
+NSE/NESTLEIND	Nestle India Limited	08/01/10	11/09/14	daily	12/09/14	NESTLEIND
+NSE/NET4	Net 4 India Limited	28/02/11	11/09/14	daily	12/09/14	NET4
+NSE/NEULANDLAB	Neuland Laboratories Limited	20/03/98	11/09/14	daily	12/09/14	NEULANDLAB
+NSE/NEXTMEDIA	Next Mediaworks Limited	15/06/11	11/09/14	daily	12/09/14	NEXTMEDIA
+NSE/NILKAMAL	Nilkamal Limited	05/01/07	11/09/14	daily	12/09/14	NILKAMAL
+NSE/NCOPPER	Nissan Copper Limited	17/10/11	11/09/14	daily	12/09/14	NCOPPER
+NSE/NITCO	Nitco Limited	21/03/06	11/09/14	daily	12/09/14	NITCO
+NSE/NITESHEST	Nitesh Estates Limited	13/05/10	11/09/14	daily	12/09/14	NITESHEST
+NSE/NITINSPIN	Nitin Spinners Limited	02/02/06	11/09/14	daily	12/09/14	NITINSPIN
+NSE/NOCIL	NOCIL Limited	20/03/98	11/09/14	daily	12/09/14	NOCIL
+NSE/NGCT	Northgate Com Tech Limited	13/11/13	11/09/14	daily	12/09/14	NGCT
+NSE/NOVOPANIND	Novopan Industries Limited	21/11/00	11/09/14	daily	12/09/14	NOVOPANIND
+NSE/NRBBEARING	NRB Bearing Limited	08/03/00	11/09/14	daily	12/09/14	NRBBEARING
+NSE/NIBL	NRB Industrial Bearings Limited	16/04/13	11/09/14	daily	12/09/14	NIBL
+NSE/NUTEK	Nu Tek India Limited	27/08/08	11/09/14	daily	12/09/14	NUTEK
+NSE/NUCLEUS	Nucleus Software Exports Limited	19/12/02	11/09/14	daily	12/09/14	NUCLEUS
+NSE/OCL	OCL India Limited	15/09/04	11/09/14	daily	12/09/14	OCL
+NSE/OISL	OCL Iron and Steel Limited	01/08/08	11/09/14	daily	12/09/14	OISL
+NSE/OILCOUNTUB	Oil Country Tubular Limited	20/03/98	11/09/14	daily	12/09/14	OILCOUNTUB
+NSE/OMMETALS	OM Metals Infraprojects Limited	17/06/11	11/09/14	daily	12/09/14	OMMETALS
+NSE/OMAXAUTO	Omax Autos Limited	24/02/03	11/09/14	daily	12/09/14	OMAXAUTO
+NSE/OMKARCHEM	Omkar Speciality Chemicals Limited	10/02/11	11/09/14	daily	12/09/14	OMKARCHEM
+NSE/ONELIFECAP	Onelife Capital Advisors Limited	17/10/11	11/09/14	daily	12/09/14	ONELIFECAP
+NSE/ONMOBILE	OnMobile Global Limited	19/02/08	11/09/14	daily	12/09/14	ONMOBILE
+NSE/ONWARDTEC	Onward Technologies Limited	20/03/98	11/09/14	daily	12/09/14	ONWARDTEC
+NSE/ORBTEXP	Orbit Exports Limited	05/11/13	11/09/14	daily	12/09/14	ORBTEXP
+NSE/ORIENTABRA	Orient Abrasives Limited	15/12/05	11/09/14	daily	12/09/14	ORIENTABRA
+NSE/ORIENTBELL	Orient Bell Limited	17/04/12	11/09/14	daily	12/09/14	ORIENTBELL
+NSE/ORIENTCEM	Orient Cement Limited	12/07/13	11/09/14	daily	12/09/14	ORIENTCEM
+NSE/GREENPOWER	Orient Green Power Company Limited	08/10/10	11/09/14	daily	12/09/14	GREENPOWER
+NSE/ORIENTPPR	Orient Paper & Industries Limited	20/03/98	11/09/14	daily	12/09/14	ORIENTPPR
+NSE/ORIENTREF	Orient Refractories Limited	12/03/12	11/09/14	daily	12/09/14	ORIENTREF
+NSE/ORIENTALTL	Oriental Trimex Limited	17/12/09	11/09/14	daily	12/09/14	ORIENTALTL
+NSE/PALRED	Palred Technologies Limited	16/01/14	11/09/14	daily	12/09/14	PALRED
+NSE/PANAMAPET	Panama Petrochem Limited	30/09/11	11/09/14	daily	12/09/14	PANAMAPET
+NSE/PANASONIC	Panasonic Appliances India Company Limited	08/01/10	11/09/14	daily	12/09/14	PANASONIC
+NSE/PANCARBON	Panasonic Carbon India Company Limited	03/03/10	11/09/14	daily	12/09/14	PANCARBON
+NSE/PANORAMUNI	Panoramic Universal Limited	03/01/07	11/09/14	daily	12/09/14	PANORAMUNI
+NSE/PFRL	Pantaloons Fashion & Retail Limited	17/07/13	11/09/14	daily	12/09/14	PFRL
+NSE/PARACABLES	Paramount Communications Limited	03/01/07	11/09/14	daily	12/09/14	PARACABLES
+NSE/PARAPRINT	Paramount Printpackaging Limited	09/05/11	11/09/14	daily	12/09/14	PARAPRINT
+NSE/PARASPETRO	Paras Petrofils Limited	16/03/98	11/09/14	daily	12/09/14	PARASPETRO
+NSE/PDPL	Parenteral Drugs (India) Limited	19/08/10	11/09/14	daily	12/09/14	PDPL
+NSE/PARRYSUGAR	Parrys Sugar Industries Limited	02/12/10	11/09/14	daily	12/09/14	PARRYSUGAR
+NSE/PATINTLOG	Patel Integrated Logistics Limited	11/01/08	11/09/14	daily	12/09/14	PATINTLOG
+NSE/PATSPINLTD	Patspin India Limited	20/03/98	11/09/14	daily	12/09/14	PATSPINLTD
+NSE/PBAINFRA	PBA Infrastructure Limited	24/11/05	11/09/14	daily	12/09/14	PBAINFRA
+NSE/PCJEWELLER	PC Jeweller Limited	27/12/12	11/09/14	daily	12/09/14	PCJEWELLER
+NSE/PILIND	Peacock Industries Limited	13/01/14	11/09/14	daily	12/09/14	PILIND
+NSE/PGIL	Pearl Global Industries Limited	02/07/12	11/09/14	daily	12/09/14	PGIL
+NSE/PENIND	Pennar Industries Limited	25/11/10	11/09/14	daily	12/09/14	PENIND
+NSE/PETRONENGG	Petron Engineering Construction Limited	20/03/98	11/09/14	daily	12/09/14	PETRONENGG
+NSE/PGEL	PG Electroplast Limited	26/09/11	11/09/14	daily	12/09/14	PGEL
+NSE/PHILIPCARB	Phillips Carbon Black Limited	20/03/98	11/09/14	daily	12/09/14	PHILIPCARB
+NSE/PHOENIXLL	Phoenix Lamps Limited	13/01/14	11/09/14	daily	12/09/14	PHOENIXLL
+NSE/PIIND	PI Industries Limited	15/06/11	11/09/14	daily	12/09/14	PIIND
+NSE/PILANIINV	Pilani Investment and Industries Corporation Limited	25/10/11	11/09/14	daily	12/09/14	PILANIINV
+NSE/PIONEEREMB	Pioneer Embroideries Limited	16/05/06	11/09/14	daily	12/09/14	PIONEEREMB
+NSE/PIRPHYTO	Piramal Phytocare Limited	23/10/13	11/09/14	daily	12/09/14	PIRPHYTO
+NSE/PITTILAM	Pitti Laminations Limited	02/02/07	11/09/14	daily	12/09/14	PITTILAM
+NSE/PLASTIBLEN	Plastiblends India Limited	28/12/06	11/09/14	daily	12/09/14	PLASTIBLEN
+NSE/PNBGILTS	PNB Gilts Limited	21/09/00	11/09/14	daily	12/09/14	PNBGILTS
+NSE/POLYMED	Poly Medicure Limited	07/12/11	11/09/14	daily	12/09/14	POLYMED
+NSE/POLYPLEX	Polyplex Corporation Limited	20/03/98	11/09/14	daily	12/09/14	POLYPLEX
+NSE/PONDYOXIDE	Pondy Oxides & Chemicals Limited	01/10/10	11/09/14	daily	12/09/14	PONDYOXIDE
+NSE/PONNIERODE	Ponni Sugars (Erode) Limited	16/04/02	11/09/14	daily	12/09/14	PONNIERODE
+NSE/PRADIP	Pradip Overseas Limited	05/04/10	11/09/14	daily	12/09/14	PRADIP
+NSE/PRAENG	Prajay Engineers Syndicate Limited	02/01/07	11/09/14	daily	12/09/14	PRAENG
+NSE/PRAKASHCON	Prakash Constrowell Limited	04/10/11	11/09/14	daily	12/09/14	PRAKASHCON
+NSE/PRAKASHSTL	Prakash Steelage Limited	25/08/10	11/09/14	daily	12/09/14	PRAKASHSTL
+NSE/PRATIBHA	Pratibha Industries Limited	16/03/06	11/09/14	daily	12/09/14	PRATIBHA
+NSE/PPAP	Precision Pipes And Profiles Company Limited	11/01/08	11/09/14	daily	12/09/14	PPAP
+NSE/PRECWIRE	Precision Wires India Limited	19/03/98	11/09/14	daily	12/09/14	PRECWIRE
+NSE/PRECOT	Precot Meridian Limited	01/11/06	11/09/14	daily	12/09/14	PRECOT
+NSE/PREMIER	Premier Limited	14/06/05	11/09/14	daily	12/09/14	PREMIER
+NSE/PRESSMN	Pressman Advertising Limited	11/09/13	11/09/14	daily	12/09/14	PRESSMN
+NSE/PRICOL	Pricol Limited	16/08/05	11/09/14	daily	12/09/14	PRICOL
+NSE/PRIMESECU	Prime Securities Limited	17/06/05	11/09/14	daily	12/09/14	PRIMESECU
+NSE/PRITHVI	Prithvi Information Solutions Limited	16/11/05	11/09/14	daily	12/09/14	PRITHVI
+NSE/PRITHVISOF	Prithvi Softech Limited	01/10/10	11/09/14	daily	12/09/14	PRITHVISOF
+NSE/PNC	Pritish Nandy Communications Limited	11/12/00	11/09/14	daily	12/09/14	PNC
+NSE/PROVOGE	Provogue (India) Limited	26/03/12	11/09/14	daily	12/09/14	PROVOGE
+NSE/PROZONECSC	Prozone Capital Shopping Centres Limited	24/09/12	11/09/14	daily	12/09/14	PROZONECSC
+NSE/PFS	PTC India Financial Services Limited	30/03/11	11/09/14	daily	12/09/14	PFS
+NSE/PTL	PTL Enterprises Limited	29/01/07	11/09/14	daily	12/09/14	PTL
+NSE/PDUMJEIND	Pudumjee Industries Limited	28/03/08	11/09/14	daily	11/09/14	PDUMJEIND
+NSE/PSB	Punjab & Sind Bank	30/12/10	11/09/14	daily	12/09/14	PSB
+NSE/PVP	PVP Ventures Limited	23/06/08	11/09/14	daily	12/09/14	PVP
+NSE/QGOLDHALF	Quantum Mutual Fund - Gold ETF	28/02/08	11/09/14	daily	12/09/14	QGOLDHALF
+NSE/QNIFTY	Quantum Mutual Fund - Nifty ETF	18/07/08	11/09/14	daily	12/09/14	QNIFTY
+NSE/RELCNX100	R Shares CNX 100 Fund	28/03/13	11/09/14	daily	12/09/14	RELCNX100
+NSE/RSYSTEMS	R Systems International Limited	26/04/06	11/09/14	daily	12/09/14	RSYSTEMS
+NSE/RPPINFRA	R.P.P. Infra Projects Limited	06/12/10	11/09/14	daily	12/09/14	RPPINFRA
+NSE/RADAAN	Radaan Mediaworks India Limited	03/03/03	11/09/14	daily	12/09/14	RADAAN
+NSE/RAIN	Rain Industries Limited	23/08/13	11/09/14	daily	12/09/14	RAIN
+NSE/RAINBOWPAP	Rainbow Papers Limited	02/06/10	11/09/14	daily	12/09/14	RAINBOWPAP
+NSE/RAIREKMOH	Raisaheb Reckhchand Mohota Spinning & Weaving Mills Limited	09/01/98	11/09/14	daily	12/09/14	RAIREKMOH
+NSE/RAJOIL	Raj Oil Mills Limited	12/08/09	11/09/14	daily	12/09/14	RAJOIL
+NSE/RAJRAYON	Raj Rayon Industries Limited	04/01/07	11/09/14	daily	12/09/14	RAJRAYON
+NSE/RAJPALAYAM	Rajapalayam Mills Limited	11/01/10	11/09/14	daily	12/09/14	RAJPALAYAM
+NSE/RAJSREESUG	Rajshree Sugars & Chemicals Limited	20/03/98	11/09/14	daily	12/09/14	RAJSREESUG
+NSE/RAJVIR	Rajvir Industries Limited	20/09/05	11/09/14	daily	12/09/14	RAJVIR
+NSE/RAMCOSYS	Ramco Systems Limited	12/04/00	11/09/14	daily	12/09/14	RAMCOSYS
+NSE/RKFORGE	Ramkrishna Forgings Limited	05/05/04	11/09/14	daily	12/09/14	RKFORGE
+NSE/RAMKY	Ramky Infrastructure Limited	08/10/10	11/09/14	daily	12/09/14	RAMKY
+NSE/RAMSARUP	Ramsarup Industries Limited	09/07/07	11/09/14	daily	12/09/14	RAMSARUP
+NSE/RANASUG	Rana Sugars Limited	20/03/98	11/09/14	daily	12/09/14	RANASUG
+NSE/RML	Rane (Madras) Limited	30/08/05	11/09/14	daily	12/09/14	RML
+NSE/RANEHOLDIN	Rane Holdings Limited	22/08/05	11/09/14	daily	12/09/14	RANEHOLDIN
+NSE/RATNAMANI	Ratnamani Metals & Tubes Limited	09/05/06	11/09/14	daily	12/09/14	RATNAMANI
+NSE/RKDL	Ravi Kumar Distilleries Limited	27/12/10	11/09/14	daily	12/09/14	RKDL
+NSE/REFEX	Refex Refrigerants Limited	03/12/09	11/09/14	daily	12/09/14	REFEX
+NSE/REGENCERAM	Regency Ceramics Limited	20/03/98	11/09/14	daily	12/09/14	REGENCERAM
+NSE/REISIXTEN	REI Six Ten Retail Limited	27/04/09	11/09/14	daily	12/09/14	REISIXTEN
+NSE/RELAXO	Relaxo Footwears Limited	17/06/11	11/09/14	daily	12/09/14	RELAXO
+NSE/RELCONS	RELCAPAMC - RELCONS	22/04/14	11/09/14	daily	12/09/14	RELCONS
+NSE/RELDIVOPP	RELCAPAMC - RELDIVOPP	22/05/14	11/09/14	daily	12/09/14	RELDIVOPP
+NSE/RELNIFTY	RELCAPAMC - RELNIFTY	27/11/13	11/09/14	daily	12/09/14	RELNIFTY
+NSE/RELBANK	Reliance Mutual Fund - Bank Nifty ETF	27/06/08	11/09/14	daily	12/09/14	RELBANK
+NSE/RELGOLD	Reliance Mutual Fund - Gold ETF	26/11/07	11/09/14	daily	12/09/14	RELGOLD
+NSE/RELGRNIFTY	RELIGARE MF - NIFTY ETF	17/06/11	11/09/14	daily	12/09/14	RELGRNIFTY
+NSE/RELIGAREGO	Religare Mutual Fund - Gold ETF	22/03/10	11/09/14	daily	12/09/14	RELIGAREGO
+NSE/REPCOHOME	Repco Home Finance Limited	01/04/13	11/09/14	daily	12/09/14	REPCOHOME
+NSE/REPRO	Repro India Limited	22/12/05	11/09/14	daily	12/09/14	REPRO
+NSE/RESPONIND	Responsive Industries Limited	29/10/10	11/09/14	daily	12/09/14	RESPONIND
+NSE/RMMIL	Resurgere Mines & Minerals Limited	27/06/12	11/09/14	daily	12/09/14	RMMIL
+NSE/REVATHI	Revathi Equipment Limited	11/08/05	11/09/14	daily	12/09/14	REVATHI
+NSE/RICOAUTO	Rico Auto Industries Limited	20/03/98	11/09/14	daily	12/09/14	RICOAUTO
+NSE/ROHITFERRO	Rohit Ferro-Tech Limited	13/04/06	11/09/14	daily	12/09/14	ROHITFERRO
+NSE/ROSSELLIND	Rossell India Limited	25/09/12	11/09/14	daily	12/09/14	ROSSELLIND
+NSE/ROHLTD	Royal Orchid Hotels Limited	06/02/06	11/09/14	daily	12/09/14	ROHLTD
+NSE/RPGLIFE	RPG Life Sciences Limited	10/06/08	11/09/14	daily	12/09/14	RPGLIFE
+NSE/RSWM	RSWM Limited	01/09/06	11/09/14	daily	12/09/14	RSWM
+NSE/RUCHINFRA	Ruchi Infrastructure Limited	23/02/98	11/09/14	daily	12/09/14	RUCHINFRA
+NSE/RUCHIRA	Ruchira Papers Limited	20/12/06	11/09/14	daily	12/09/14	RUCHIRA
+NSE/RUPA	Rupa & Company Limited	07/12/11	11/09/14	daily	12/09/14	RUPA
+NSE/RUSHIL	Rushil Decor Limited	07/07/11	11/09/14	daily	12/09/14	RUSHIL
+NSE/SALSTEEL	S.A.L. Steel Limited	24/11/04	11/09/14	daily	12/09/14	SALSTEEL
+NSE/SEPOWER	S.E. Power Limited	27/07/12	11/09/14	daily	12/09/14	SEPOWER
+NSE/SABERORGAN	Sabero Organics Gujarat Limited	20/03/98	11/09/14	daily	12/09/14	SABERORGAN
+NSE/SAGCEM	Sagar Cements Limited	29/01/07	11/09/14	daily	12/09/14	SAGCEM
+NSE/SAHPETRO	Sah Petroleums Limited	24/09/04	11/09/14	daily	12/09/14	SAHPETRO
+NSE/SAKSOFT	Saksoft Limited	09/05/05	11/09/14	daily	12/09/14	SAKSOFT
+NSE/SAKTHIFIN	Sakthi Finance Limited	09/08/10	11/09/14	daily	12/09/14	SAKTHIFIN
+NSE/SAKHTISUG	Sakthi Sugars Limited	20/03/98	11/09/14	daily	12/09/14	SAKHTISUG
+NSE/SAKUMA	Sakuma Exports Limited	08/03/06	11/09/14	daily	12/09/14	SAKUMA
+NSE/SALORAINTL	Salora International Limited	20/03/98	11/09/14	daily	12/09/14	SALORAINTL
+NSE/SAMINDUS	SAM Industries Limited	28/08/12	11/09/14	daily	12/09/14	SAMINDUS
+NSE/SAMBANDAM	Sambandam Spinning Mills Limited	09/08/10	11/09/14	daily	12/09/14	SAMBANDAM
+NSE/SAMBHAAV	Sambhaav Media Limited	18/10/05	11/09/14	daily	12/09/14	SAMBHAAV
+NSE/SAMTEL	Samtel Color Limited	20/03/98	11/09/14	daily	12/09/14	SAMTEL
+NSE/SANGAMIND	Sangam (India) Limited	06/03/98	11/09/14	daily	12/09/14	SANGAMIND
+NSE/SANGHIIND	Sanghi Industries Limited	20/03/98	11/09/14	daily	12/09/14	SANGHIIND
+NSE/SANGHVIFOR	Sanghvi Forging and Engineering Limited	23/05/11	11/09/14	daily	12/09/14	SANGHVIFOR
+NSE/SANGHVIMOV	Sanghvi Movers Limited	24/01/07	11/09/14	daily	12/09/14	SANGHVIMOV
+NSE/SAREGAMA	Saregama India Limited	20/08/01	11/09/14	daily	12/09/14	SAREGAMA
+NSE/SARLAPOLY	Sarla Performance Fibers Limited	19/01/07	11/09/14	daily	12/09/14	SARLAPOLY
+NSE/SASKEN	Sasken Communication Technologies Limited	09/09/05	11/09/14	daily	12/09/14	SASKEN
+NSE/SATHAISPAT	Sathavahana Ispat Limited	27/12/06	11/09/14	daily	12/09/14	SATHAISPAT
+NSE/SAVERA	Savera Industries Limited	30/06/10	11/09/14	daily	12/09/14	SAVERA
+NSE/SAYAJIHOTL	Sayaji Hotels Limited	28/08/12	11/09/14	daily	12/09/14	SAYAJIHOTL
+NSE/SBIGETS	SBI Mutual Fund - Gold ETF	28/05/09	11/09/14	daily	12/09/14	SBIGETS
+NSE/SCHNEIDER	Schneider Electric Infrastructure Limited	20/03/12	11/09/14	daily	12/09/14	SCHNEIDER
+NSE/SELMCL	SEL Manufacturing Company Limited	21/08/07	11/09/14	daily	12/09/14	SELMCL
+NSE/SELAN	Selan Exploration Technology Limited	26/09/06	11/09/14	daily	12/09/14	SELAN
+NSE/SERVALL	Servalakshmi Paper Limited	12/05/11	11/09/14	daily	12/09/14	SERVALL
+NSE/SESHAPAPER	Seshasayee Paper and Boards Limited	20/03/98	11/09/14	daily	12/09/14	SESHAPAPER
+NSE/SEZAL	Sezal Glass Limited	22/11/11	11/09/14	daily	12/09/14	SEZAL
+NSE/SHAHALLOYS	Shah Alloys Limited	16/06/05	11/09/14	daily	12/09/14	SHAHALLOYS
+NSE/SHAKTIPUMP	Shakti Pumps (India) Limited	25/10/11	11/09/14	daily	12/09/14	SHAKTIPUMP
+NSE/SHALPAINTS	Shalimar Paints Limited	03/03/08	11/09/14	daily	12/09/14	SHALPAINTS
+NSE/SHARONBIO	Sharon Bio-Medicine Limited	07/12/11	11/09/14	daily	12/09/14	SHARONBIO
+NSE/SHARRESLTD	Sharyans Resources Limited	27/12/06	11/09/14	daily	12/09/14	SHARRESLTD
+NSE/SPYL	Shekhawati Poly-Yarn Limited	12/01/11	11/09/14	daily	12/09/14	SPYL
+NSE/SHILPAMED	Shilpa Medicare Limited	03/12/09	11/09/14	daily	12/09/14	SHILPAMED
+NSE/SHILPI	Shilpi Cable Technologies Limited	08/04/11	11/09/14	daily	12/09/14	SHILPI
+NSE/SHIVTEX	Shiva Texyarn Limited	22/01/04	11/09/14	daily	12/09/14	SHIVTEX
+NSE/SHIVAMAUTO	Shivam Autotech Limited	21/11/06	11/09/14	daily	12/09/14	SHIVAMAUTO
+NSE/SGFL	Shree Ganesh Forgings Limited	22/05/07	11/09/14	daily	12/09/14	SGFL
+NSE/SGJHL	SHREE GANESH JEWELLERY HOUSE (I) LIMITED	09/04/10	11/09/14	daily	12/09/14	SGJHL
+NSE/SHREERAMA	Shree Rama Multi-Tech Limited	21/03/00	11/09/14	daily	12/09/14	SHREERAMA
+NSE/RAMANEWS	Shree Rama Newsprint Limited	20/09/06	11/09/14	daily	12/09/14	RAMANEWS
+NSE/SHREYANIND	Shreyans Industries Limited	20/03/98	11/09/14	daily	12/09/14	SHREYANIND
+NSE/SHREYAS	Shreyas Shipping & Logistics Limited	03/04/06	11/09/14	daily	12/09/14	SHREYAS
+NSE/SHRIASTER	SHRI ASTER SILICATES LIMITED	03/02/14	11/09/14	daily	12/09/14	SHRIASTER
+NSE/SHLAKSHMI	Shri Lakshmi Cotsyn Limited	03/12/07	11/09/14	daily	12/09/14	SHLAKSHMI
+NSE/SHRIRAMEPC	Shriram EPC Limited	20/02/08	11/09/14	daily	12/09/14	SHRIRAMEPC
+NSE/SHYAMTEL	Shyam Telecom Limited	06/11/06	11/09/14	daily	12/09/14	SHYAMTEL
+NSE/SICAGEN	Sicagen India Limited	21/08/08	11/09/14	daily	12/09/14	SICAGEN
+NSE/SICAL	Sical Logistics Limited	07/05/99	11/09/14	daily	12/09/14	SICAL
+NSE/SIGNETIND	Signet Industries Limited	30/05/12	11/09/14	daily	12/09/14	SIGNETIND
+NSE/SILINV	SIL Investments Limited	21/06/07	11/09/14	daily	11/09/14	SILINV
+NSE/SIMBHSUGAR	Simbhaoli Sugars Limited	27/06/06	11/09/14	daily	12/09/14	SIMBHSUGAR
+NSE/SIMPLEXCAS	Simplex Castings Limited	29/08/12	11/09/14	daily	12/09/14	SIMPLEXCAS
+NSE/SIMPLEX	Simplex Projects Limited	03/08/07	11/09/14	daily	12/09/14	SIMPLEX
+NSE/SITASHREE	Sita Shree Food Products Limited	07/04/08	11/09/14	daily	12/09/14	SITASHREE
+NSE/SITICABLE	Siti Cable Network Limited	03/10/12	11/09/14	daily	12/09/14	SITICABLE
+NSE/SIYSIL	Siyaram Silk Mills Limited	29/01/07	11/09/14	daily	12/09/14	SIYSIL
+NSE/SKIL	SKIL Infrastructure Limited	24/03/14	11/09/14	daily	12/09/14	SKIL
+NSE/SKMEGGPROD	SKM Egg Products Export (India) Limited	19/03/98	11/09/14	daily	12/09/14	SKMEGGPROD
+NSE/SMARTLINK	Smartlink Network Systems Limited	29/07/09	11/09/14	daily	12/09/14	SMARTLINK
+NSE/SMLISUZU	SML Isuzu Limited	17/01/11	11/09/14	daily	12/09/14	SMLISUZU
+NSE/SOLARINDS	Solar Industries India Limited	13/04/09	11/09/14	daily	12/09/14	SOLARINDS
+NSE/SDBL	Som Distilleries & Breweries Limited	01/04/14	11/09/14	daily	12/09/14	SDBL
+NSE/SOMANYCERA	Somany Ceramics Limited	21/03/07	11/09/14	daily	12/09/14	SOMANYCERA
+NSE/SONASTEER	Sona Koyo Steering Systems Limited	20/03/98	11/09/14	daily	12/09/14	SONASTEER
+NSE/SOUISPAT	Southern Ispat And Energy Limited	01/10/10	11/09/14	daily	12/09/14	SOUISPAT
+NSE/SPIC	Southern Petrochemicals Industries Corporation  Limited	20/03/98	11/09/14	daily	12/09/14	SPIC
+NSE/SPECIALITY	Speciality Restaurants Limited	30/05/12	11/09/14	daily	12/09/14	SPECIALITY
+NSE/SPECTACLE	Spectacle Ventures Limited	09/03/10	11/09/14	daily	12/09/14	SPECTACLE
+NSE/SPENTEX	Spentex Industries Limited	20/12/06	11/09/14	daily	12/09/14	SPENTEX
+NSE/SPLIL	SPL Industries Limited	26/07/05	11/09/14	daily	12/09/14	SPLIL
+NSE/SPMLINFRA	SPML Infra Limited	14/05/10	11/09/14	daily	12/09/14	SPMLINFRA
+NSE/SRHHYPOLTD	Sree Rayalaseema Hi-Strength Hypo Limited	08/05/07	11/09/14	daily	12/09/14	SRHHYPOLTD
+NSE/SREEL	Sreeleathers Limited	01/01/14	11/09/14	daily	11/09/14	SREEL
+NSE/SRGINFOTEC	SRG Infotec (India) Limited	20/03/98	11/09/14	daily	12/09/14	SRGINFOTEC
+NSE/SABTN	Sri Adhikari Brothers Television Network Limited	16/11/07	11/09/14	daily	12/09/14	SABTN
+NSE/SRSLTD	SRS Limited	16/09/11	11/09/14	daily	12/09/14	SRSLTD
+NSE/SIL	Standard Industries Limited	28/01/04	11/09/14	daily	12/09/14	SIL
+NSE/SFCL	Star Ferro and Cement Limited	24/10/13	11/09/14	daily	12/09/14	SFCL
+NSE/STARPAPER	Star Paper Mills Limited	19/03/98	11/09/14	daily	12/09/14	STARPAPER
+NSE/MYSOREBANK	State Bank of Mysore	28/07/09	11/09/14	daily	12/09/14	MYSOREBANK
+NSE/SSWL	Steel Strips Wheels Limited	06/06/05	11/09/14	daily	12/09/14	SSWL
+NSE/STEL	Stel Holdings Limited	08/11/11	11/09/14	daily	12/09/14	STEL
+NSE/STERLINBIO	Sterling Biotech Limited	09/07/03	11/09/14	daily	12/09/14	STERLINBIO
+NSE/STERTOOLS	Sterling Tools Limited	20/03/98	11/09/14	daily	12/09/14	STERTOOLS
+NSE/STOREONE	Store One Retail India Limited	26/10/09	11/09/14	daily	12/09/14	STOREONE
+NSE/STYABS	Styrolution ABS (India) Limited	20/06/12	11/09/14	daily	12/09/14	STYABS
+NSE/SUBROS	Subros Limited	20/03/98	11/09/14	daily	12/09/14	SUBROS
+NSE/SUDAR	Sudar Industries Limited	11/03/11	11/09/14	daily	12/09/14	SUDAR
+NSE/SUDARSCHEM	Sudarshan Chemical Industries Limited	20/03/98	11/09/14	daily	12/09/14	SUDARSCHEM
+NSE/SUJANATWR	Sujana Tower Limited	11/09/13	11/09/14	daily	12/09/14	SUJANATWR
+NSE/SUJANAUNI	Sujana Universal Industries Limited	19/02/08	11/09/14	daily	12/09/14	SUJANAUNI
+NSE/SUMEETINDS	Sumeet Industries Limited	10/12/10	11/09/14	daily	12/09/14	SUMEETINDS
+NSE/SUMMITSEC	Summit Securities Limited	28/01/11	11/09/14	daily	12/09/14	SUMMITSEC
+NSE/SPARC	Sun Pharma Advanced Research Company Limited	18/07/07	11/09/14	daily	12/09/14	SPARC
+NSE/SUNDRMBRAK	Sundaram Brake Linings Limited	20/03/98	11/09/14	daily	12/09/14	SUNDRMBRAK
+NSE/SUNCLAYLTD	Sundaram Clayton Limited	23/10/12	11/09/14	daily	12/09/14	SUNCLAYLTD
+NSE/SUNDARAM	Sundaram Multi Pap Limited	02/06/10	11/09/14	daily	12/09/14	SUNDARAM
+NSE/SUNFLAG	Sunflag Iron And Steel Company Limited	29/09/05	11/09/14	daily	12/09/14	SUNFLAG
+NSE/SUNILHITEC	Sunil Hitech Engineers Limited	02/03/06	11/09/14	daily	12/09/14	SUNILHITEC
+NSE/SUPER	Super Sales India Limited	11/01/10	11/09/14	daily	12/09/14	SUPER
+NSE/SUPERSPIN	Super Spinning Mills Limited	18/03/98	11/09/14	daily	12/09/14	SUPERSPIN
+NSE/SUPRAJIT	Suprajit Engineering Limited	18/02/05	11/09/14	daily	12/09/14	SUPRAJIT
+NSE/SUPREMETEX	Supreme Tex Mart Limited	15/02/08	11/09/14	daily	12/09/14	SUPREMETEX
+NSE/SURANACORP	Surana Corporation Limited	27/05/08	11/09/14	daily	12/09/14	SURANACORP
+NSE/SURANATP	Surana Telecom and Power Limited	08/02/10	11/09/14	daily	12/09/14	SURANATP
+NSE/SURANAVEL	Surana Ventures Limited	07/01/11	11/09/14	daily	12/09/14	SURANAVEL
+NSE/SURYAPHARM	Surya Pharmaceutical Limited	21/01/04	11/09/14	daily	12/09/14	SURYAPHARM
+NSE/SURYAROSNI	Surya Roshni Limited	20/03/98	11/09/14	daily	12/09/14	SURYAROSNI
+NSE/SURYAJYOTI	Suryajyoti Spinning Mills Limited	02/03/06	11/09/14	daily	12/09/14	SURYAJYOTI
+NSE/SURYALAXMI	Suryalakshmi Cotton Mills Limited	15/06/05	11/09/14	daily	12/09/14	SURYALAXMI
+NSE/SUTLEJTEX	Sutlej Textiles and Industries Limited	14/12/06	11/09/14	daily	12/09/14	SUTLEJTEX
+NSE/SUVEN	Suven Life Sciences Limited	24/10/03	11/09/14	daily	12/09/14	SUVEN
+NSE/SWELECTES	Swelect Energy Systems Limited	09/07/12	11/09/14	daily	12/09/14	SWELECTES
+NSE/SYMPHONY	Symphony Limited	15/06/11	11/09/14	daily	12/09/14	SYMPHONY
+NSE/SYNCOM	Syncom Healthcare Limited	15/02/10	11/09/14	daily	12/09/14	SYNCOM
+NSE/TAINWALCHM	Tainwala Chemical and Plastic (I) Limited	20/03/98	11/09/14	daily	12/09/14	TAINWALCHM
+NSE/TAJGVK	Taj GVK Hotels & Resorts Limited	20/12/00	11/09/14	daily	12/09/14	TAJGVK
+NSE/TAKE	Take Solutions Limited	27/08/07	11/09/14	daily	12/09/14	TAKE
+NSE/TALBROAUTO	Talbros Automotive Components Limited	29/09/06	11/09/14	daily	12/09/14	TALBROAUTO
+NSE/TALWALKARS	Talwalkars Better Value Fitness Limited	10/05/10	11/09/14	daily	12/09/14	TALWALKARS
+NSE/TNPETRO	Tamilnadu PetroProducts Limited	20/03/98	11/09/14	daily	12/09/14	TNPETRO
+NSE/TANLA	Tanla Solutions Limited	05/01/07	11/09/14	daily	12/09/14	TANLA
+NSE/TANTIACONS	Tantia Constructions Limited	19/02/08	11/09/14	daily	12/09/14	TANTIACONS
+NSE/TARAJEWELS	Tara Jewels Limited	06/12/12	11/09/14	daily	12/09/14	TARAJEWELS
+NSE/TARMAT	Tarmat Limited	12/09/12	11/09/14	daily	12/09/14	TARMAT
+NSE/TATAMETALI	Tata Metaliks Limited	20/03/98	11/09/14	daily	12/09/14	TATAMETALI
+NSE/TATAMTRDVR	Tata Motors Limited DVR	05/11/08	11/09/14	daily	12/09/14	TATAMTRDVR
+NSE/TTML	Tata Teleservices (Maharashtra) Limited	14/01/05	11/09/14	daily	12/09/14	TTML
+NSE/TCIDEVELOP	TCI Developers Limited	19/04/11	11/09/14	daily	12/09/14	TCIDEVELOP
+NSE/TCIFINANCE	TCI Finance Limited	20/03/98	11/09/14	daily	12/09/14	TCIFINANCE
+NSE/TIIL	Technocraft Industries (India) Limited	12/02/07	11/09/14	daily	12/09/14	TIIL
+NSE/TECHNOFAB	Technofab Engineering Limited	16/07/10	11/09/14	daily	12/09/14	TECHNOFAB
+NSE/TECPRO	Tecpro Systems Limited	12/10/10	11/09/14	daily	12/09/14	TECPRO
+NSE/TEXINFRA	Texmaco Infrastructure & Holdings Limited	20/03/12	11/09/14	daily	12/09/14	TEXINFRA
+NSE/TEXRAIL	Texmaco Rail & Engineering Limited	03/03/11	11/09/14	daily	12/09/14	TEXRAIL
+NSE/TEXMOPIPES	Texmo Pipes and Products Limited	10/03/10	11/09/14	daily	12/09/14	TEXMOPIPES
+NSE/TGBHOTELS	TGB BANQUETS AND HOTELS LIMITED	31/05/13	11/09/14	daily	12/09/14	TGBHOTELS
+NSE/THANGAMAYL	Thangamayil Jewellery Limited	19/02/10	11/09/14	daily	12/09/14	THANGAMAYL
+NSE/ANDHRSUGAR	The Andhra Sugars Limited	20/03/98	11/09/14	daily	12/09/14	ANDHRSUGAR
+NSE/THEBYKE	The Byke Hospitality Limited	30/12/11	11/09/14	daily	12/09/14	THEBYKE
+NSE/JEYPORE	The Jeypore Sugar Company Limited	30/06/10	11/09/14	daily	12/09/14	JEYPORE
+NSE/LAKSHMIMIL	The Lakshmi Mills Company Limited	13/11/09	11/09/14	daily	12/09/14	LAKSHMIMIL
+NSE/MOTOGENFIN	The Motor & General Finance Limited	20/03/98	11/09/14	daily	12/09/14	MOTOGENFIN
+NSE/PAPERPROD	The Paper Products Limited	20/03/98	11/09/14	daily	12/09/14	PAPERPROD
+NSE/PERIATEA	The Peria Karamalai Tea & Produce Company Limited	30/06/10	11/09/14	daily	12/09/14	PERIATEA
+NSE/RUBYMILLS	The Ruby Mills Limited	17/03/98	11/09/14	daily	12/09/14	RUBYMILLS
+NSE/SANDESH	The Sandesh Limited	20/03/98	11/09/14	daily	12/09/14	SANDESH
+NSE/SIRPAPER	The Sirpur Paper Mills Limited	16/03/98	11/09/14	daily	12/09/14	SIRPAPER
+NSE/STCINDIA	The State Trading Corporation of India Limited	01/04/03	11/09/14	daily	12/09/14	STCINDIA
+NSE/UGARSUGAR	The Ugar Sugar Works Limited	23/08/10	11/09/14	daily	12/09/14	UGARSUGAR
+NSE/UNITEDTEA	The United Nilgiri Tea Estates Company Limited	08/01/10	11/09/14	daily	12/09/14	UNITEDTEA
+NSE/THINKSOFT	Thinksoft Global Services Limited	26/10/09	11/09/14	daily	12/09/14	THINKSOFT
+NSE/THIRUSUGAR	Thiru Arooran Sugars Limited	20/03/98	11/09/14	daily	12/09/14	THIRUSUGAR
+NSE/THOMASCOTT	Thomas Scott (India) Limited	30/01/12	11/09/14	daily	12/09/14	THOMASCOTT
+NSE/TIDEWATER	Tide Water Oil Company (India) Limited	16/01/07	11/09/14	daily	12/09/14	TIDEWATER
+NSE/TIL	TIL Limited	20/03/98	11/09/14	daily	12/09/14	TIL
+NSE/TI	Tilaknagar Industries Limited	16/07/10	11/09/14	daily	12/09/14	TI
+NSE/TIMBOR	Timbor Home Limited	22/06/11	11/09/14	daily	12/09/14	TIMBOR
+NSE/TIMETECHNO	Time Technoplast Limited	13/06/07	11/09/14	daily	12/09/14	TIMETECHNO
+NSE/TIMESGTY	Times Guaranty Limited	11/06/02	11/09/14	daily	12/09/14	TIMESGTY
+NSE/TIMKEN	Timken India Limited	06/02/07	11/09/14	daily	12/09/14	TIMKEN
+NSE/TIPSINDLTD	TIPS Industries Limited	20/11/00	11/09/14	daily	12/09/14	TIPSINDLTD
+NSE/TWL	Titagarh Wagons Limited	21/04/08	11/09/14	daily	12/09/14	TWL
+NSE/TOKYOPLAST	Tokyo Plast International Limited	20/03/98	11/09/14	daily	12/09/14	TOKYOPLAST
+NSE/TFCILTD	Tourism Finance Corporation of India Limited	20/03/98	11/09/14	daily	12/09/14	TFCILTD
+NSE/TRIL	Transformers And Rectifiers (India) Limited	28/12/07	11/09/14	daily	12/09/14	TRIL
+NSE/TCI	Transport Corporation of India Limited	22/01/02	11/09/14	daily	12/09/14	TCI
+NSE/TFL	Transwarranty Finance Limited	26/02/07	11/09/14	daily	12/09/14	TFL
+NSE/TRF	TRF Limited	08/01/10	11/09/14	daily	12/09/14	TRF
+NSE/TRICOM	Tricom India Limited	20/12/06	11/09/14	daily	12/09/14	TRICOM
+NSE/TRIDENT	Trident Limited	03/05/11	11/09/14	daily	12/09/14	TRIDENT
+NSE/TRIGYN	Trigyn Technologies Limited	26/07/05	11/09/14	daily	12/09/14	TRIGYN
+NSE/TRIVENI	Triveni Engineering & Industries Limited	13/12/05	11/09/14	daily	12/09/14	TRIVENI
+NSE/TRITURBINE	Triveni Turbine Limited	28/10/11	11/09/14	daily	12/09/14	TRITURBINE
+NSE/TULSI	Tulsi Extrusions Limited	25/02/08	11/09/14	daily	12/09/14	TULSI
+NSE/TULSYAN	Tulsyan Nec Limited	05/11/09	11/09/14	daily	11/09/14	TULSYAN
+NSE/TVTODAY	TV Today Network Limited	16/01/04	11/09/14	daily	12/09/14	TVTODAY
+NSE/TVSELECT	TVS Electronics Limited	26/12/03	11/09/14	daily	12/09/14	TVSELECT
+NSE/TVSSRICHAK	TVS Srichakra Limited	13/02/07	11/09/14	daily	12/09/14	TVSSRICHAK
+NSE/UBENGG	UB Engineering Limited	20/03/98	11/09/14	daily	12/09/14	UBENGG
+NSE/UCALFUEL	Ucal Fuel Systems Limited	20/03/98	11/09/14	daily	12/09/14	UCALFUEL
+NSE/UJAAS	Ujaas Energy Limited	23/09/13	11/09/14	daily	12/09/14	UJAAS
+NSE/UNIENTER	Uniphos Enterprises Limited	23/01/04	11/09/14	daily	12/09/14	UNIENTER
+NSE/UNITEDBNK	United Bank of India	18/03/10	11/09/14	daily	12/09/14	UNITEDBNK
+NSE/UNITY	Unity Infraprojects Limited	12/06/06	11/09/14	daily	12/09/14	UNITY
+NSE/UNIVCABLES	Universal Cables Limited	20/03/98	11/09/14	daily	12/09/14	UNIVCABLES
+NSE/UPERGANGES	Upper Ganges Sugar & Industries Limited	17/03/98	11/09/14	daily	12/09/14	UPERGANGES
+NSE/UMESLTD	Usha Martin Education & Solutions Limited	12/07/10	11/09/14	daily	12/09/14	UMESLTD
+NSE/USHERAGRO	Usher Agro Limited	30/07/10	11/09/14	daily	12/09/14	USHERAGRO
+NSE/GOLDSHARE	UTI Mutual Fund - Gold ETF	17/04/07	11/09/14	daily	12/09/14	GOLDSHARE
+NSE/UTTAMVALUE	Uttam Value Steels Limited	29/04/13	11/09/14	daily	12/09/14	UTTAMVALUE
+NSE/VGUARD	V-Guard Industries Limited	13/03/08	11/09/14	daily	12/09/14	VGUARD
+NSE/VMART	V-Mart Retail Limited	20/02/13	11/09/14	daily	12/09/14	VMART
+NSE/VSTTILLERS	V.S.T Tillers Tractors Limited	20/06/11	11/09/14	daily	12/09/14	VSTTILLERS
+NSE/V2RETAIL	V2 Retail Limited	24/02/12	11/09/14	daily	12/09/14	V2RETAIL
+NSE/WABAG	VA Tech Wabag Limited	15/12/10	11/09/14	daily	12/09/14	WABAG
+NSE/VADILALIND	Vadilal Industries Limited	15/06/11	11/09/14	daily	12/09/14	VADILALIND
+NSE/VAIBHAVGBL	Vaibhav Global Limited	24/12/12	11/09/14	daily	12/09/14	VAIBHAVGBL
+NSE/VAKRANGEE	VAKANGEE LIMITED	27/11/13	11/09/14	daily	12/09/14	VAKRANGEE
+NSE/VALECHAENG	Valecha Engineering Limited	11/09/06	11/09/14	daily	12/09/14	VALECHAENG
+NSE/VARDHACRLC	Vardhman Acrylics Limited	30/09/03	11/09/14	daily	12/09/14	VARDHACRLC
+NSE/VARDMNPOLY	Vardhman Polytex Limited	20/03/98	11/09/14	daily	12/09/14	VARDMNPOLY
+NSE/VSSL	Vardhman Special Steels Limited	17/05/12	11/09/14	daily	12/09/14	VSSL
+NSE/VARUN	Varun Industries Limited	22/11/07	11/09/14	daily	12/09/14	VARUN
+NSE/VARUNSHIP	Varun Shipping Company Limited	20/03/98	11/09/14	daily	12/09/14	VARUNSHIP
+NSE/VASCONEQ	Vascon Engineers Limited	15/02/10	11/09/14	daily	12/09/14	VASCONEQ
+NSE/VICEROY	Viceroy Hotels Limited	21/08/07	11/09/14	daily	12/09/14	VICEROY
+NSE/VIJSHAN	Vijay Shanthi Builders Limited	21/05/08	11/09/14	daily	12/09/14	VIJSHAN
+NSE/VIKASGLOB	Vikas GlobalOne Limited	12/12/11	11/09/14	daily	12/09/14	VIKASGLOB
+NSE/VIMALOIL	Vimal Oil & Foods Limited	21/05/13	11/09/14	daily	12/09/14	VIMALOIL
+NSE/VIMTALABS	Vimta Labs Limited	15/12/05	11/09/14	daily	12/09/14	VIMTALABS
+NSE/VINATIORGA	Vinati Organics Limited	28/07/09	11/09/14	daily	12/09/14	VINATIORGA
+NSE/VINDHYATEL	Vindhya Telelinks Limited	20/03/98	11/09/14	daily	12/09/14	VINDHYATEL
+NSE/VIPUL	Vipul Limited	08/01/10	11/09/14	daily	12/09/14	VIPUL
+NSE/VISASTEEL	Visa Steel Limited	17/03/06	11/09/14	daily	12/09/14	VISASTEEL
+NSE/VIVIDHA	Visagar Polytex Limited	21/05/13	11/09/14	daily	12/09/14	VIVIDHA
+NSE/VISAKAIND	Visaka Industries Limited	19/03/98	11/09/14	daily	12/09/14	VISAKAIND
+NSE/VISESHINFO	Visesh Infotecnics Limited	24/01/00	11/09/14	daily	12/09/14	VISESHINFO
+NSE/VIVIMEDLAB	Vivimed Labs Limited	17/08/05	11/09/14	daily	12/09/14	VIVIMEDLAB
+NSE/VKSPL	VKS Projects Limited	18/07/12	11/09/14	daily	12/09/14	VKSPL
+NSE/VLSFINANCE	VLS Finance Limited	20/03/98	11/09/14	daily	12/09/14	VLSFINANCE
+NSE/VOLTAMP	Voltamp Transformers Limited	20/09/06	11/09/14	daily	12/09/14	VOLTAMP
+NSE/VTMLTD	VTM Limited	30/12/11	11/09/14	daily	12/09/14	VTMLTD
+NSE/WSI	W S Industries (I) Limited	01/08/07	11/09/14	daily	12/09/14	WSI
+NSE/WALCHANNAG	Walchandnagar Industries Limited	20/03/98	11/09/14	daily	12/09/14	WALCHANNAG
+NSE/WANBURY	Wanbury Limited	29/01/07	11/09/14	daily	12/09/14	WANBURY
+NSE/WEBELSOLAR	Websol Energy System Limited	15/05/07	11/09/14	daily	12/09/14	WEBELSOLAR
+NSE/WEIZFOREX	Weizmann Forex Limited	28/06/11	11/09/14	daily	12/09/14	WEIZFOREX
+NSE/WEIZMANIND	Weizmann Limited	20/03/98	11/09/14	daily	12/09/14	WEIZMANIND
+NSE/WELCORP	Welspun Corp Limited	17/05/10	11/09/14	daily	12/09/14	WELCORP
+NSE/WELINV	Welspun Investments and Commercials Limited	20/09/10	11/09/14	daily	12/09/14	WELINV
+NSE/WELPROJ	Welspun Projects Limited	04/01/11	11/09/14	daily	12/09/14	WELPROJ
+NSE/WENDT	Wendt (India) Limited	07/08/06	11/09/14	daily	12/09/14	WENDT
+NSE/WHEELS	Wheels India Limited	20/03/98	11/09/14	daily	12/09/14	WHEELS
+NSE/WILLAMAGOR	Williamson Magor & Company Limited	27/02/98	11/09/14	daily	12/09/14	WILLAMAGOR
+NSE/WINDMACHIN	Windsor Machines Limited	17/08/11	11/09/14	daily	12/09/14	WINDMACHIN
+NSE/WINSOMEDJ	Winsome Diamonds and Jewellery Limited	24/07/12	11/09/14	daily	12/09/14	WINSOMEDJ
+NSE/WINSOME	Winsome Yarns Limited	25/08/11	11/09/14	daily	12/09/14	WINSOME
+NSE/WONDERLA	Wonderla Holidays Limited	09/05/14	11/09/14	daily	12/09/14	WONDERLA
+NSE/XCHANGING	Xchanging Solutions Limited	25/06/12	11/09/14	daily	12/09/14	XCHANGING
+NSE/XPROINDIA	Xpro India Limited	27/04/04	11/09/14	daily	12/09/14	XPROINDIA
+NSE/ZANDUREALT	Zandu Realty Limited	10/03/10	11/09/14	daily	12/09/14	ZANDUREALT
+NSE/ZEELEARN	Zee Learn Limited	20/12/10	11/09/14	daily	12/09/14	ZEELEARN
+NSE/ZEEMEDIA	Zee Media Corporation Limited	30/07/13	11/09/14	daily	12/09/14	ZEEMEDIA
+NSE/ZENITHBIR	Zenith Birla (India) Limited	30/04/07	11/09/14	daily	12/09/14	ZENITHBIR
+NSE/ZENITHEXPO	Zenith Exports Limited	12/03/98	11/09/14	daily	11/09/14	ZENITHEXPO
+NSE/ZICOM	Zicom Electronic Security Systems Limited	18/04/06	11/09/14	daily	12/09/14	ZICOM
+NSE/ZUARI	Zuari Agro Chemicals Limited	27/11/12	11/09/14	daily	12/09/14	ZUARI
+NSE/ZUARIGLOB	ZUARI GLOBAL LIMITED	25/09/12	11/09/14	daily	12/09/14	ZUARIGLOB
+NSE/AARVEEDEN	Aarvee Denims & Exports Limited	21/11/06	10/09/14	daily	11/09/14	AARVEEDEN
+NSE/BIRLAMONEY	Aditya Birla Money Limited	09/09/09	10/09/14	daily	11/09/14	BIRLAMONEY
+NSE/AFTEK	Aftek Limited	27/11/06	10/09/14	daily	11/09/14	AFTEK
+NSE/AICHAMP	AI Champdany Industries Limited	14/02/07	10/09/14	daily	10/09/14	AICHAMP
+NSE/ALEMBICLTD	Alembic Limited	22/09/99	10/09/14	daily	11/09/14	ALEMBICLTD
+NSE/AMLSTEEL	AML Steel Limited	08/01/10	10/09/14	daily	12/09/14	AMLSTEEL
+NSE/ARIES	Aries Agro Limited	11/01/08	10/09/14	daily	11/09/14	ARIES
+NSE/ARSHIYA	Arshiya Limited	14/12/09	10/09/14	daily	11/09/14	ARSHIYA
+NSE/ATLASCYCLE	Atlas Cycles (Haryana) Limited	20/03/98	10/09/14	daily	11/09/14	ATLASCYCLE
+NSE/AUSOMENT	Ausom Enterprise Limited	02/12/09	10/09/14	daily	12/09/14	AUSOMENT
+NSE/ASAL	Automotive Stampings and Assemblies Limited	14/10/03	10/09/14	daily	11/09/14	ASAL
+NSE/AVANTI	Avanti Feeds Limited	08/01/10	10/09/14	daily	11/09/14	AVANTI
+NSE/BAGFILMS	B.A.G Films and Media Limited	17/10/03	10/09/14	daily	11/09/14	BAGFILMS
+NSE/BALAJITELE	Balaji Telefilms Limited	22/11/00	10/09/14	daily	11/09/14	BALAJITELE
+NSE/BANARISUG	Bannari Amman Sugars Limited	20/03/98	10/09/14	daily	11/09/14	BANARISUG
+NSE/BECREL	Best & Crompton Engg. Limited	09/08/10	10/09/14	daily	12/09/14	BECREL
+NSE/BHARATGEAR	Bharat Gears Limited	20/03/98	10/09/14	daily	11/09/14	BHARATGEAR
+NSE/BODHTREE	Bodhtree Consulting Limited	09/08/10	10/09/14	daily	12/09/14	BODHTREE
+NSE/BURNPUR	Burnpur Cement Limited	03/01/08	10/09/14	daily	11/09/14	BURNPUR
+NSE/CRMFGETF	Canara Robeco Mutual Fund - Canara Robeco Gold Exchange Traded Fund	27/03/12	10/09/14	daily	12/09/14	CRMFGETF
+NSE/CYBERMEDIA	Cyber Media (India) Limited	10/06/05	10/09/14	daily	11/09/14	CYBERMEDIA
+NSE/DELTAMAGNT	Delta Magnets Limited	22/12/08	10/09/14	daily	12/09/14	DELTAMAGNT
+NSE/DISHTV	Dish TV India Limited	18/04/07	10/09/14	daily	11/09/14	DISHTV
+NSE/DWARKESH	Dwarikesh Sugar Industries Limited	31/12/04	10/09/14	daily	11/09/14	DWARKESH
+NSE/EASUNREYRL	Easun Reyrolle Limited	20/03/98	10/09/14	daily	11/09/14	EASUNREYRL
+NSE/EMKAY	Emkay Global Financial Services Limited	28/04/06	10/09/14	daily	11/09/14	EMKAY
+NSE/EUROCERA	Euro Ceramics Limited	09/03/07	10/09/14	daily	11/09/14	EUROCERA
+NSE/EXCELCROP	Excel Crop Care Limited	16/06/04	10/09/14	daily	11/09/14	EXCELCROP
+NSE/GANDHITUBE	Gandhi Special Tubes Limited	31/01/07	10/09/14	daily	11/09/14	GANDHITUBE
+NSE/GENUSPOWER	Genus Power Infrastructures Limited	14/01/08	10/09/14	daily	11/09/14	GENUSPOWER
+NSE/GLOBUSSPR	Globus Spirits Limited	23/09/09	10/09/14	daily	11/09/14	GLOBUSSPR
+NSE/HINDUJAFO	Hinduja Foundries Limited	24/03/08	10/09/14	daily	11/09/14	HINDUJAFO
+NSE/HOCL	Hindustan Organic Chemicals Limited	20/03/98	10/09/14	daily	11/09/14	HOCL
+NSE/IVC	IL&FS Investment Managers Limited	15/09/99	10/09/14	daily	11/09/14	IVC
+NSE/INDBANK	Indbank Merchant Banking Services Limited	08/10/08	10/09/14	daily	11/09/14	INDBANK
+NSE/INFOMEDIA	INFOMEDIA PRESS LIMITED	12/10/06	10/09/14	daily	11/09/14	INFOMEDIA
+NSE/JAYAGROGN	Jayant Agro Organics Limited	19/03/98	10/09/14	daily	11/09/14	JAYAGROGN
+NSE/JINDRILL	Jindal Drilling And Industries Limited	22/12/06	10/09/14	daily	11/09/14	JINDRILL
+NSE/JMTAUTOLTD	JMT Auto Limited	02/04/07	10/09/14	daily	11/09/14	JMTAUTOLTD
+NSE/KARMAENG	Karma Energy Limited	28/06/11	10/09/14	daily	12/09/14	KARMAENG
+NSE/KEMROCK	Kemrock Industries and Exports Limited	16/06/09	10/09/14	daily	11/09/14	KEMROCK
+NSE/KERNEX	Kernex Microsystems (India) Limited	20/12/05	10/09/14	daily	11/09/14	KERNEX
+NSE/KILITCH	Kilitch Drugs (India) Limited	29/09/10	10/09/14	daily	11/09/14	KILITCH
+NSE/KRITIIND	Kriti Industries (India) Limited	25/10/11	10/09/14	daily	12/09/14	KRITIIND
+NSE/LAKSHMIEFL	Lakshmi Energy and Foods Limited	06/02/07	10/09/14	daily	11/09/14	LAKSHMIEFL
+NSE/MANJEERA	Manjeera Constructions Limited	30/06/10	10/09/14	daily	12/09/14	MANJEERA
+NSE/MEGH	Meghmani Organics Limited	28/06/07	10/09/14	daily	11/09/14	MEGH
+NSE/MIC	MIC Electronics Limited	30/05/07	10/09/14	daily	11/09/14	MIC
+NSE/MOREPENLAB	Morepen Laboratories Limited	20/03/98	10/09/14	daily	11/09/14	MOREPENLAB
+NSE/M50	Motilal Oswal Mutual Fund - Nifty ETF	30/07/10	10/09/14	daily	11/09/14	M50
+NSE/MSPL	MSP Steel & Power Limited	18/07/05	10/09/14	daily	11/09/14	MSPL
+NSE/NITINFIRE	Nitin Fire Protection Industries Limited	05/06/07	10/09/14	daily	11/09/14	NITINFIRE
+NSE/NRC	NRC Limited	20/03/98	10/09/14	daily	12/09/14	NRC
+NSE/OMNITECH	Omnitech Infosolutions Limited	14/08/07	10/09/14	daily	11/09/14	OMNITECH
+NSE/ORIENTLTD	Orient Press Limited	03/03/10	10/09/14	daily	12/09/14	ORIENTLTD
+NSE/ORIENTHOT	Oriental Hotels Limited	20/03/98	10/09/14	daily	11/09/14	ORIENTHOT
+NSE/PANACEABIO	Panacea Biotec Limited	20/03/98	10/09/14	daily	11/09/14	PANACEABIO
+NSE/PANCHSHEEL	Panchsheel Organics Limited	25/10/11	10/09/14	daily	12/09/14	PANCHSHEEL
+NSE/PARABDRUGS	Parabolic Drugs Limited	01/07/10	10/09/14	daily	11/09/14	PARABDRUGS
+NSE/PEARLPOLY	Pearl Polymers Limited	20/03/98	10/09/14	daily	12/09/14	PEARLPOLY
+NSE/PLETHICO	Plethico Pharmaceuticals Limited	05/05/06	10/09/14	daily	11/09/14	PLETHICO
+NSE/POCHIRAJU	Pochiraju Industries Limited	09/02/07	10/09/14	daily	11/09/14	POCHIRAJU
+NSE/PREMIERPOL	Premier Polyfilm Limited	16/03/98	10/09/14	daily	12/09/14	PREMIERPOL
+NSE/PUNJABCHEM	Punjab Chemicals & Crop Protection Limited	20/03/98	10/09/14	daily	11/09/14	PUNJABCHEM
+NSE/RSSOFTWARE	R. S. Software (India) Limited	19/05/99	10/09/14	daily	11/09/14	RSSOFTWARE
+NSE/RMCL	Radha Madhav Corporation Limited	26/11/07	10/09/14	daily	11/09/14	RMCL
+NSE/RBL	Rane Brake Lining Limited	20/06/08	10/09/14	daily	11/09/14	RBL
+NSE/RANEENGINE	Rane Engine Valve Limited	24/06/08	10/09/14	daily	11/09/14	RANEENGINE
+NSE/RJL	Renaissance Jewellery Limited	12/12/07	10/09/14	daily	11/09/14	RJL
+NSE/SANWARIA	Sanwaria Agro Oils Limited	27/03/06	10/09/14	daily	11/09/14	SANWARIA
+NSE/SARDAEN	Sarda Energy & Minerals Limited	03/12/09	10/09/14	daily	11/09/14	SARDAEN
+NSE/SOTL	Savita Oil Technologies Limited	24/08/09	10/09/14	daily	11/09/14	SOTL
+NSE/SEAMECLTD	Seamec Limited	20/08/01	10/09/14	daily	11/09/14	SEAMECLTD
+NSE/SHIV_VANI	Shiv-Vani Oil & Gas Exploration Services Limited	22/07/05	10/09/14	daily	11/09/14	SHIV_VANI
+NSE/SJVN	SJVN Limited	20/05/10	10/09/14	daily	11/09/14	SJVN
+NSE/SMSPHARMA	SMS Pharmaceuticals Limited	28/02/07	10/09/14	daily	11/09/14	SMSPHARMA
+NSE/SRICHAMUND	Sri Chamundeswari Sugars Limited	04/10/10	10/09/14	daily	12/09/14	SRICHAMUND
+NSE/SUBEX	Subex Limited	05/09/03	10/09/14	daily	11/09/14	SUBEX
+NSE/SMPL	Sujana Metal Products Limited	09/03/10	10/09/14	daily	11/09/14	SMPL
+NSE/SURANAIND	Surana Industries Limited	28/12/06	10/09/14	daily	11/09/14	SURANAIND
+NSE/TTL	T T Limited	22/02/07	10/09/14	daily	11/09/14	TTL
+NSE/TNTELE	Tamilnadu Telecommunication Limited	20/03/98	10/09/14	daily	12/09/14	TNTELE
+NSE/TARAPUR	Tarapur Transformers Limited	18/05/10	10/09/14	daily	11/09/14	TARAPUR
+NSE/OUDHSUG	The Oudh Sugar Mills Limited	20/03/98	10/09/14	daily	11/09/14	OUDHSUG
+NSE/THEMISMED	Themis Medicare Limited	02/04/07	10/09/14	daily	11/09/14	THEMISMED
+NSE/TIRUMALCHM	Thirumalai Chemicals Limited	20/03/98	10/09/14	daily	11/09/14	TIRUMALCHM
+NSE/TTKHEALTH	TTK Healthcare Limited	08/01/10	10/09/14	daily	11/09/14	TTKHEALTH
+NSE/TWILITAKA	Twilight Litaka Pharma Limited	15/06/10	10/09/14	daily	11/09/14	TWILITAKA
+NSE/VALUEIND	Value Industries Limited	22/05/08	10/09/14	daily	11/09/14	VALUEIND
+NSE/VHL	Vardhman Holdings Limited	18/04/06	10/09/14	daily	11/09/14	VHL
+NSE/VENUSREM	Venus Remedies Limited	20/12/06	10/09/14	daily	11/09/14	VENUSREM
+NSE/VINYLINDIA	Vinyl Chemicals (India) Limited	21/07/08	10/09/14	daily	11/09/14	VINYLINDIA
+NSE/VTXIND	VTX Industries Limited	04/04/11	10/09/14	daily	12/09/14	VTXIND
+NSE/ZODJRDMKJ	Zodiac JRD- MKJ Limited	20/03/98	10/09/14	daily	11/09/14	ZODJRDMKJ
+NSE/ZYLOG	Zylog Systems Limited	17/08/07	10/09/14	daily	11/09/14	ZYLOG
+NSE/KANDAGIRI	Kandagiri Spinning Mills Limited	11/08/10	09/09/14	daily	12/09/14	KANDAGIRI
+NSE/KEYCORPSER	Keynote Corporate Services Limited	20/03/98	09/09/14	daily	12/09/14	KEYCORPSER
+NSE/QUINTEGRA	Quintegra Solutions Limited	22/08/05	09/09/14	daily	11/09/14	QUINTEGRA
+NSE/RANKLIN	Ranklin Solutions Limited	17/02/11	09/09/14	daily	12/09/14	RANKLIN
+NSE/STINDIA	STI India Limited	09/03/98	09/09/14	daily	12/09/14	STINDIA
+NSE/PIONDIST	Pioneer Distilleries Limited	15/06/10	08/09/14	daily	12/09/14	PIONDIST
+NSE/LAKSHMIFIN	The Lakshmi Finance & Industrial Corporation Limited	30/06/10	08/09/14	daily	12/09/14	LAKSHMIFIN
+NSE/BLUECOAST	Blue Coast Hotels Limited	05/12/06	05/09/14	daily	12/09/14	BLUECOAST
+NSE/FIRSTWIN	First Winner Industries Limited	08/07/08	05/09/14	daily	12/09/14	FIRSTWIN
+NSE/SMOBILITY	S Mobility Limited	26/07/11	18/08/14	daily	12/09/14	SMOBILITY
+NSE/TCPLTD	TCP Limited	02/03/10	12/08/14	daily	12/09/14	TCPLTD
+NSE/HIRAFERRO	Hira Ferro Alloys Limited	25/10/11	01/08/14	daily	12/09/14	HIRAFERRO
+NSE/PIRGLASS	Piramal Glass Limited	12/05/08	18/07/14	daily	12/09/14	PIRGLASS
+NSE/TIJARIA	Tijaria Polypipes Limited	14/10/11	11/07/14	daily	12/09/14	TIJARIA
+NSE/CRESTANI	Crest Animation Studios Limited	04/01/05	08/07/14	daily	12/09/14	CRESTANI
+NSE/PARAL	Parekh Aluminex Limited	21/11/06	08/07/14	daily	12/09/14	PARAL
+NSE/SHREEASHTA	Shree Ashtavinayak Cine Vision Limited	10/01/07	19/06/14	daily	12/09/14	SHREEASHTA
+NSE/MICROTECH	Micro Technologies (India) Limited	27/09/06	16/06/14	daily	12/09/14	MICROTECH
+NSE/INFOTECENT	Infotech Enterprises Limited	30/09/98	21/05/14	daily	19/08/14	INFOTECENT
+NSE/SHRINATRAJ	Shri Nataraj Ceramic and Chemical Industries Limited	02/01/12	21/05/14	daily	19/08/14	SHRINATRAJ
+NSE/RELMEDIA	Reliance MediaWorks Limited	20/10/09	28/04/14	daily	27/07/14	RELMEDIA
+NSE/AGRODUTCH	Agro Dutch Industries Limited	09/03/98	11/04/14	daily	10/07/14	AGRODUTCH
+NSE/ALPSINDUS	Alps Industries Limited	16/03/98	11/04/14	daily	10/07/14	ALPSINDUS
+NSE/ASIL	Amit Spinning Industries Limited	17/10/05	11/04/14	daily	10/07/14	ASIL
+NSE/CTE	Cambridge Technology Enterprises Limited	07/02/07	11/04/14	daily	10/07/14	CTE
+NSE/GLORY	Glory Polyfilms Limited	18/06/07	11/04/14	daily	10/07/14	GLORY
+NSE/GREENFIRE	Green Fire Agri Commodities Limited	16/10/12	11/04/14	daily	10/07/14	GREENFIRE
+NSE/INTEGRA	Integra Garments and Textiles Limited	20/08/13	11/04/14	daily	10/07/14	INTEGRA
+NSE/KRISHNAENG	Krishna Engineering Works Limited	20/03/98	11/04/14	daily	10/07/14	KRISHNAENG
+NSE/LCCINFOTEC	LCC Infotech Limited	02/03/00	11/04/14	daily	10/07/14	LCCINFOTEC
+NSE/MANGALAM	Mangalam Drugs And Organics Limited	23/05/05	11/04/14	daily	10/07/14	MANGALAM
+NSE/NICCO	Nicco Corporation Limited	18/12/06	11/04/14	daily	10/07/14	NICCO
+NSE/SOMATEX	Soma Textiles & Industries Limited	20/03/98	11/04/14	daily	10/07/14	SOMATEX
+NSE/VASWANI	Vaswani Industries Limited	24/10/11	11/04/14	daily	10/07/14	VASWANI
+NSE/VISUINTL	Visu International Limited	29/12/06	11/04/14	daily	10/07/14	VISUINTL
+NSE/GANGOTRI	Gangotri Textiles Limited	07/04/06	10/04/14	daily	09/07/14	GANGOTRI
+NSE/HORIZONINF	Horizon Infrastructure Limited	22/02/08	22/03/14	daily	20/06/14	HORIZONINF
+NSE/RBN	Reliance Broadcast Network Limited	20/08/10	20/03/14	daily	18/06/14	RBN
+NSE/DCMSRMCONS	DCM Shriram Consolidated Limited	19/03/98	12/03/14	daily	10/06/14	DCMSRMCONS
+NSE/INDIAINFO	India Infoline Limited	17/05/05	12/03/14	daily	10/06/14	INDIAINFO
+NSE/ASTERSILI	Aster Silicates Limited	28/07/10	31/01/14	daily	01/05/14	ASTERSILI
+NSE/APPAPER	The Andhra Pradesh Paper Mills Limited	20/03/98	20/01/14	daily	20/04/14	APPAPER
+NSE/FOURSOFT	Four Soft Limited	12/03/04	15/01/14	daily	15/04/14	FOURSOFT
+NSE/DCB	Development Credit Bank Limited	27/10/06	14/01/14	daily	14/04/14	DCB
+NSE/ANTGRAPHIC	Antarctica Limited	20/03/98	10/01/14	daily	30/06/14	ANTGRAPHIC
+NSE/FKONCO	Fresenius Kabi Oncology Limited	19/02/09	02/01/14	daily	02/04/14	FKONCO
+NSE/MAHINDFORG	Mahindra Forgings Limited	30/08/07	16/12/13	daily	31/03/14	MAHINDFORG
+NSE/AMAR	Amar Remedies Limited	16/09/05	09/12/13	daily	11/03/14	AMAR
+NSE/AQUA	Aqua Logistics Limited	23/02/10	09/12/13	daily	11/03/14	AQUA
+NSE/BIRLAPOWER	Birla Power Solutions Limited	06/06/07	09/12/13	daily	31/03/14	BIRLAPOWER
+NSE/EDSERV	Edserv Softsystems Limited	02/03/09	09/12/13	daily	31/03/14	EDSERV
+NSE/FIRSTLEASE	First Leasing Company of India Limited	20/03/98	09/12/13	daily	11/03/14	FIRSTLEASE
+NSE/GEODESIC	Geodesic Limited	06/10/08	09/12/13	daily	31/03/14	GEODESIC
+NSE/DENSO	Denso India Limited	30/06/10	28/10/13	daily	31/03/14	DENSO
+NSE/PIRLIFE	Piramal Life Sciences Limited	29/05/08	22/10/13	daily	31/03/14	PIRLIFE
+NSE/UNIPHOS	United Phosphorus Limited	23/01/04	22/10/13	daily	31/03/14	UNIPHOS
+NSE/JENSONICOL	Jenson & Nicholson (India) Limited	20/03/98	11/10/13	daily	30/06/14	JENSONICOL
+NSE/UNIPLY	Uniply Industries Limited	09/03/07	08/10/13	daily	30/06/14	UNIPLY
+NSE/SESAGOA	Sesa Goa Limited	20/03/98	03/10/13	daily	31/03/14	SESAGOA
+NSE/MADRASCEM	Madras Cements Limited	20/03/98	27/09/13	daily	13/12/13	MADRASCEM
+NSE/MBSWITCH	M AND B Switchgears Limited	20/10/11	20/09/13	daily	31/03/14	MBSWITCH
+NSE/NAVNETPUBL	Navneet Publications India Limited	20/03/98	18/09/13	daily	13/12/13	NAVNETPUBL
+NSE/ASHCONIUL	Ashco Niulab Industries Limited	04/10/10	16/09/13	daily	31/03/14	ASHCONIUL
+NSE/CREWBOS	Crew B.O.S. Products Limited	24/09/04	16/09/13	daily	31/03/14	CREWBOS
+NSE/DHANUS	Dhanus Technologies Limited	17/10/07	16/09/13	daily	31/03/14	DHANUS
+NSE/KOUTONS	Koutons Retail India Limited	12/10/07	16/09/13	daily	31/03/14	KOUTONS
+NSE/TAKSHEEL	Taksheel Solutions Limited	19/10/11	16/09/13	daily	31/03/14	TAKSHEEL
+NSE/ANKURDRUGS	Ankur Drugs And Pharma Limited	22/05/07	10/09/13	daily	31/03/14	ANKURDRUGS
+NSE/NUCENT	Nucent Finance Limited	05/01/05	10/09/13	daily	31/03/14	NUCENT
+NSE/AANJANEYA	Aanjaneya Lifecare Limited	27/05/11	30/08/13	daily	28/11/13	AANJANEYA
+NSE/STER	Sterlite Industries ( India ) Limited	28/05/04	26/08/13	daily	31/03/14	STER
+NSE/RAINCOM	Rain Commodities  Limited	03/03/08	22/08/13	daily	20/11/13	RAINCOM
+NSE/JINDALSWHL	Jindal South West Holdings Limited	21/06/05	29/07/13	daily	31/03/14	JINDALSWHL
+NSE/ZEENEWS	Zee News Limited	10/01/07	29/07/13	daily	27/10/13	ZEENEWS
+NSE/CINEPRO	Cinemax Properties Limited	13/06/12	05/07/13	daily	31/03/14	CINEPRO
+NSE/HALONIX	Halonix Limited	09/03/09	05/07/13	daily	31/03/14	HALONIX
+NSE/HOTELRUGBY	Hotel Rugby Limited	20/03/98	05/07/13	daily	30/06/14	HOTELRUGBY
+NSE/LLOYDFIN	Lloyds Finance Limited	20/03/98	05/07/13	daily	03/10/13	LLOYDFIN
+NSE/MRO_TEK	MRO-TEK Limited	03/11/00	05/07/13	daily	31/03/14	MRO_TEK
+NSE/POLARIND	Polar Industries Limited	05/02/98	05/07/13	daily	31/03/14	POLARIND
+NSE/PDUMJEPULP	Pudumjee Pulp & Paper Mills Limited	20/03/98	05/07/13	daily	03/10/13	PDUMJEPULP
+NSE/SPANCO	Spanco Limited	29/12/10	05/07/13	daily	31/03/14	SPANCO
+NSE/UTTAMSUGAR	Uttam Sugar Mills Limited	10/04/06	05/07/13	daily	03/10/13	UTTAMSUGAR
+NSE/XLENERGY	XL Energy Limited	13/12/10	05/07/13	daily	30/06/14	XLENERGY
+NSE/ZENITHINFO	Zenith Infotech Limited	14/02/00	05/07/13	daily	30/06/14	ZENITHINFO
+NSE/PAEL	PAE Limited	24/11/05	04/07/13	daily	30/06/14	PAEL
+NSE/SATYAMCOMP	Satyam Computer Services Limited	20/03/98	03/07/13	daily	01/10/13	SATYAMCOMP
+NSE/FUTUREVENT	Future Ventures India Limited	10/05/11	20/06/13	daily	31/03/14	FUTUREVENT
+NSE/KSOILS	K S Oils Limited	02/04/07	20/06/13	daily	31/03/14	KSOILS
+NSE/JSWISPAT	JSW ISPAT Steel Limited	16/08/11	10/06/13	daily	31/03/14	JSWISPAT
+NSE/BHAGWATIHO	Bhagwati Banquets and Hotels Limited	17/05/07	30/05/13	daily	31/03/14	BHAGWATIHO
+NSE/CHETTINAD	Chettinad Cement Corporation Limited	17/05/07	30/05/13	daily	31/03/14	CHETTINAD
+NSE/LLOYDSTEEL	Lloyds Steel Industries Limited	20/03/98	26/04/13	daily	31/03/14	LLOYDSTEEL
+NSE/PANTALOONR	Pantaloon Retail (India) Limited	05/11/01	10/04/13	daily	31/03/14	PANTALOONR
+NSE/PRETAILDVR	Pantaloon Retail (India) Limited DVR	13/02/09	10/04/13	daily	31/03/14	PRETAILDVR
+NSE/BOC	BOC India Limited	10/03/05	09/04/13	daily	27/08/13	BOC
+NSE/ABHISHEK	Abhishek Corporation Limited	26/06/08	05/04/13	daily	27/08/13	ABHISHEK
+NSE/CALSOFT	California Software Company Limited	28/06/00	05/04/13	daily	30/06/14	CALSOFT
+NSE/EUROMULTI	Euro Multivision Limited	15/10/09	05/04/13	daily	30/06/14	EUROMULTI
+NSE/FAME	Fame India Limited	25/02/08	05/04/13	daily	31/03/14	FAME
+NSE/GISOLUTION	GI Engineering Solutions Limited	30/01/09	05/04/13	daily	30/06/14	GISOLUTION
+NSE/GTNTEX	GTN Textiles Limited	18/05/06	05/04/13	daily	30/06/14	GTNTEX
+NSE/GLFL	Gujarat Lease Financing Limited	20/03/98	05/04/13	daily	30/06/14	GLFL
+NSE/INDUSFILA	Indus Fila Limited	08/03/07	05/04/13	daily	30/06/14	INDUSFILA
+NSE/JUMBO	Jumbo Bag Limited	05/11/09	05/04/13	daily	30/06/14	JUMBO
+NSE/KOPDRUGS	KDL Biotech Limited	12/04/00	05/04/13	daily	27/08/13	KOPDRUGS
+NSE/KITPLYIND	Kitply Industries Limited	20/03/98	05/04/13	daily	31/03/14	KITPLYIND
+NSE/KLGSYSTEL	KLG Systel Limited	08/09/99	05/04/13	daily	31/03/14	KLGSYSTEL
+NSE/MAGNUM	Magnum Ventures Limited	20/09/07	05/04/13	daily	30/06/14	MAGNUM
+NSE/MMFSL	Money Matters Financial Services Limited	29/10/10	05/04/13	daily	31/03/14	MMFSL
+NSE/MVLIND	MVL Industries Limited	20/02/09	05/04/13	daily	27/08/13	MVLIND
+NSE/NORBTEAEXP	Norben Tea & Exports Limited	20/03/98	05/04/13	daily	30/06/14	NORBTEAEXP
+NSE/SGL	STL Global Limited	10/04/06	05/04/13	daily	30/06/14	SGL
+NSE/TANFACIND	Tanfac Industries Limited	03/03/10	05/04/13	daily	30/06/14	TANFACIND
+NSE/TODAYS	Todays Writing Instruments Limited	08/10/01	05/04/13	daily	31/03/14	TODAYS
+NSE/ZENITHCOMP	Zenith Computers Limited	10/05/00	05/04/13	daily	30/06/14	ZENITHCOMP
+NSE/HILTON	Hilton Metal Forging Limited	24/05/07	04/04/13	daily	27/08/13	HILTON
+NSE/SOFTTECHGR	Software Technology Group International Limited	24/05/00	04/04/13	daily	30/06/14	SOFTTECHGR
+NSE/DSSL	Dynacons Systems & Solutions Limited	01/12/11	03/04/13	daily	30/06/14	DSSL
+NSE/JDORGOCHEM	JD Orgochem Limited	02/09/08	03/04/13	daily	30/06/14	JDORGOCHEM
+NSE/OSWALMIN	Oswal Minerals Limited	14/12/10	02/04/13	daily	30/06/14	OSWALMIN
+NSE/KINETICMOT	Kinetic Motor Company Limited	20/09/04	21/03/13	daily	31/03/14	KINETICMOT
+NSE/SALONACOT	Salona Cotspin Limited	09/08/10	21/03/13	daily	30/06/14	SALONACOT
+NSE/INDIABULLS	Indiabulls Financial Services Limited	24/09/04	18/03/13	daily	31/03/14	INDIABULLS
+NSE/REMSONSIND	Remsons Industries Limited	04/08/97	12/03/13	daily	30/06/14	REMSONSIND
+NSE/DCHL	Deccan Chronicle Holdings Limited	22/12/04	22/01/13	daily	31/03/14	DCHL
+NSE/IOLN	IOL Netcom Limited	18/02/08	22/01/13	daily	31/03/14	IOLN
+NSE/JUPITER	Jupiter Bioscience Limited	08/01/10	11/01/13	daily	31/03/14	JUPITER
+NSE/DALMIABEL	Dalmia Bharat Enterprises Limited	27/01/11	08/01/13	daily	31/03/14	DALMIABEL
+NSE/WELGLOB	Welspun Global Brands Limited	25/07/11	24/12/12	daily	31/03/14	WELGLOB
+NSE/VAIBHAVGEM	Vaibhav Gems Limited	06/04/04	21/12/12	daily	27/08/13	VAIBHAVGEM
+NSE/FCH	Future Capital Holdings Limited	01/02/08	05/12/12	daily	31/03/14	FCH
+NSE/BSTRANSCOM	BS TransComm Limited	27/10/10	27/11/12	daily	31/03/14	BSTRANSCOM
+NSE/SRHHLINDST	SRHHL Industries Limited	08/05/07	31/10/12	daily	31/03/14	SRHHLINDST
+NSE/HYDRBADIND	Hyderabad Industries Limited	20/03/98	25/10/12	daily	31/03/14	HYDRBADIND
+NSE/SBTINTL	SB&T International Limited	19/03/98	19/10/12	daily	31/03/14	SBTINTL
+NSE/TELEDATAIT	Teledata Technology Solutions Limited	15/07/09	19/10/12	daily	31/03/14	TELEDATAIT
+NSE/WWIL	Wire and Wireless (India) Limited	10/01/07	01/10/12	daily	31/03/14	WWIL
+NSE/ZUARIAGRO	Zuari Industries Limited	20/03/98	24/09/12	daily	31/03/14	ZUARIAGRO
+NSE/PIRHEALTH	Piramal Healthcare Limited	19/06/08	20/09/12	daily	31/03/14	PIRHEALTH
+NSE/KALECONSUL	Kale Consultants Limited	01/12/99	05/09/12	daily	13/01/14	KALECONSUL
+NSE/SARTHAKIND	Sarthak Industries Limited	19/12/11	05/09/12	daily	30/06/14	SARTHAKIND
+NSE/NEOCURE	Neocure Therapeutics Limited	22/01/09	30/08/12	daily	31/03/14	NEOCURE
+NSE/IVRCLAH	IVRCL Assets & Holdings Limited	13/04/10	14/08/12	daily	31/03/14	IVRCLAH
+NSE/SURAJDIAMN	Su-Raj Diamonds and Jewellery Limited	20/03/98	23/07/12	daily	31/03/14	SURAJDIAMN
+NSE/VIKASHMET	Vikash Metal & Power Limited	28/11/05	13/07/12	daily	31/03/14	VIKASHMET
+NSE/NORTHGATE	Northgate Technologies Limited	03/04/07	11/07/12	daily	31/03/14	NORTHGATE
+NSE/APIL	Alstom Projects India Limited	19/05/03	10/07/12	daily	31/03/14	APIL
+NSE/AVENTIS	Aventis Pharma Limited	19/05/03	10/07/12	daily	31/03/14	AVENTIS
+NSE/NUMERICPW	Numeric Power Systems Limited	09/05/06	06/07/12	daily	31/03/14	NUMERICPW
+NSE/HOPFL	House of Pearl Fashions Limited	15/02/07	29/06/12	daily	31/03/14	HOPFL
+NSE/CORAL_HUB	Coral Hub Limited	25/02/11	26/06/12	daily	31/03/14	CORAL_HUB
+NSE/CAMBRIDGE	Cambridge Solutions Limited	17/07/06	22/06/12	daily	31/03/14	CAMBRIDGE
+NSE/BATLIBOI	Batliboi Limited	20/12/06	20/06/12	daily	31/03/14	BATLIBOI
+NSE/INEABS	INEOS ABS (India) Limited	23/07/08	19/06/12	daily	31/03/14	INEABS
+NSE/CHEMPLAST	Chemplast Sanmar Limited	20/03/98	15/06/12	daily	31/03/14	CHEMPLAST
+NSE/RESURGERE	Resurgere Mines & Minerals India Limited	01/09/08	13/06/12	daily	31/03/14	RESURGERE
+NSE/BELLCERATL	Bell Ceramics Limited	08/09/10	25/05/12	daily	31/03/14	BELLCERATL
+NSE/PATNI	Patni Computer Systems Limited	25/02/04	18/05/12	daily	31/03/14	PATNI
+NSE/CINEMAX	Cinemax India Limited	14/02/07	16/05/12	daily	31/03/14	CINEMAX
+NSE/PEPL	Pearl Engineering Polymers Limited	14/07/03	25/04/12	daily	31/03/14	PEPL
+NSE/ORIENTCERA	Orient Ceramics and Industries Limited	14/02/07	16/04/12	daily	31/03/14	ORIENTCERA
+NSE/ALFALAVAL	Alfa Laval (India) Limited	20/03/98	11/04/12	daily	31/03/14	ALFALAVAL
+NSE/CRONIMET	Cronimet Alloys India Limited	02/06/10	30/03/12	daily	31/03/14	CRONIMET
+NSE/TEXMACOLTD	Texmaco Limited	09/09/04	19/03/12	daily	31/03/14	TEXMACOLTD
+NSE/GRABALALK	Grabal Alok Impex Limited	08/04/08	12/03/12	daily	31/03/14	GRABALALK
+NSE/UTISUNDER	Nifty	16/07/03	12/03/12	daily	31/03/14	UTISUNDER
+NSE/CAROLINFO	Carol Info Services Limited	27/09/04	09/03/12	daily	13/01/14	CAROLINFO
+NSE/NUCHEM	Nuchem Limited	20/03/98	09/03/12	daily	31/03/14	NUCHEM
+NSE/UTVSOF	UTV Software Communications Limited	17/03/05	07/03/12	daily	31/03/14	UTVSOF
+NSE/AGRE	Agre Developers Limited	31/12/10	05/03/12	daily	31/03/14	AGRE
+NSE/VISHALRET	Vishal Retail Limited	04/07/07	23/02/12	daily	31/03/14	VISHALRET
+NSE/CAMLIN	Camlin Limited	28/07/08	13/02/12	daily	31/03/14	CAMLIN
+NSE/MUNDRAPORT	Mundra Port and Special Economic Zone Limited	27/11/07	16/01/12	daily	31/03/14	MUNDRAPORT
+NSE/TELEMARINE	Teledata Marine Solutions Limited	01/07/11	23/12/11	daily	31/03/14	TELEMARINE
+NSE/ACKRUTI	Ackruti City Limited	30/06/09	14/11/11	daily	31/03/14	ACKRUTI
+NSE/SENTINEL	Sentinel Tea and Exports Limited	09/02/11	04/11/11	daily	31/03/14	SENTINEL
+NSE/GUJSTATFIN	Gujarat State Financial Corporation	06/03/98	22/11/00	daily	30/06/14	GUJSTATFIN

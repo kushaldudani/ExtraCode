@@ -1,0 +1,500 @@
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diversified/3mindia/MI42" class="bl_12"><b>3M India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/chemicals/aartiindustries/AI45" class="bl_12"><b>Aarti Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesmanmade/adityabirlanuvo/ABN01" class="bl_12"><b>AB Nuvo</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/oildrillingandexploration/abanoffshore/AO04" class="bl_12"><b>Aban Offshore</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/abb/ABB" class="bl_12"><b>ABB</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/shipping/abgshipyard/ABG01" class="bl_12"><b>ABG Shipyard</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cementmajor/acc/ACC06" class="bl_12"><b>ACC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/trading/adanienterprises/AE13" class="bl_12"><b>Adani Enterpris</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/adaniportsspecialeconomiczone/MPS" class="bl_12"><b>Adani Ports</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/adanipower/AP11" class="bl_12"><b>Adani Power</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/advanta/AI39" class="bl_12"><b>Advanta</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/edibleoilssolventextraction/agrotechfoods/ATF" class="bl_12"><b>Agro Tech Foods</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/engineeringheavy/aiaengineering/AIE01" class="bl_12"><b>AIA Engineering</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/paintsvarnishes/akzonobelindia/ICI" class="bl_12"><b>Akzo Nobel</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/allahabadbank/AB15" class="bl_12"><b>Allahabad Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/transportlogistics/allcargologistics/AGL02" class="bl_12"><b>Allcargo</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesweaving/alokindustries/AI54" class="bl_12"><b>Alok Industries</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powertransmissionequipment/alstomindia/AP29" class="bl_12"><b>ALSTOM India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powertransmissionequipment/alstomtdindia/ATD" class="bl_12"><b>Alstom T&D</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autoancillaries/amararajabatteries/ARB" class="bl_12"><b>Amara Raja Batt</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cementmajor/ambujacements/AC18" class="bl_12"><b>Ambuja Cements</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autoancillaries/amtekauto/AA01" class="bl_12"><b>Amtek Auto</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autoancillaries/amtekindia/AI49" class="bl_12"><b>Amtek India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/anantraj/ARI" class="bl_12"><b>Anant Raj</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/andhrabank/AB14" class="bl_12"><b>Andhra Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractinghousing/ansalpropertiesinfrastructure/API07" class="bl_12"><b>Ansal Propertie</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/hospitalsmedicalservices/apollohospitalsenterprises/AHE" class="bl_12"><b>Apollo Hospital</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/tyres/apollotyres/AT14" class="bl_12"><b>Apollo Tyres</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaretraining/aptech/A11" class="bl_12"><b>Aptech</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesdenim/arvind/A18" class="bl_12"><b>Arvind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/glassglassproducts/asahiindiaglass/AIG01" class="bl_12"><b>Asahi India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autolcvshcvs/ashokleyland/AL" class="bl_12"><b>Ashok Leyland</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/shreeashtavinayakcinevision/SAC03" class="bl_12"><b>Ashtavinayak</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/paintsvarnishes/asianpaints/AP31" class="bl_12"><b>Asian Paints</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/astrazenecapharma/AZP" class="bl_12"><b>AstraZeneca</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/dyespigments/atul/A06" class="bl_12"><b>Atul</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/aurobindopharma/AP" class="bl_12"><b>Aurobindo Pharm</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autoancillaries/automotiveaxles/AA06" class="bl_12"><b>Automotive Axle</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/axisbank/AB16" class="bl_12"><b>Axis Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/auto23wheelers/bajajauto/BA10" class="bl_12"><b>Bajaj Auto</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/domesticappliances/bajajelectricals/BE" class="bl_12"><b>Bajaj Electric</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeleasinghirepurchase/bajajfinance/BAF" class="bl_12"><b>Bajaj Finance</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeinvestments/bajajfinserv/BF04" class="bl_12"><b>Bajaj Finserv</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/sugar/bajajhindusthan/BH06" class="bl_12"><b>Bajaj Hind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeinvestments/bajajholdingsinvestment/BHI" class="bl_12"><b>Bajaj Holdings</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/tyres/balkrishnaindustries/BI03" class="bl_12"><b>Balkrishna Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/paper/ballarpurindustries/BI12" class="bl_12"><b>Ballarpur Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/packaging/balmerlawriecompany/BLC" class="bl_12"><b>Balmer Lawrie</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/sugar/balrampurchinimills/BCM" class="bl_12"><b>Balrampur Chini</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/bankofbaroda/BOB" class="bl_12"><b>Bank of Baroda</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/bankofindia/BOI" class="bl_12"><b>Bank of India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/chemicals/basfindia/BAS" class="bl_12"><b>BASF</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/leatherproducts/bataindia/BI01" class="bl_12"><b>Bata India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/beml/BEM03" class="bl_12"><b>BEML</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/paintsvarnishes/bergerpaintsindia/BPI02" class="bl_12"><b>Berger Paints</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/bfutilities/BFU" class="bl_12"><b>BF Utilities</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/bgrenergysystems/BES" class="bl_12"><b>BGR Energy</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/electricals/bharatelectronics/BE03" class="bl_12"><b>Bharat Elec</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/castingsforgings/bharatforge/BF03" class="bl_12"><b>Bharat Forge</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/telecommunicationsservice/bhartiairtel/BA08" class="bl_12"><b>Bharti Airtel</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/telecommunicationsequipment/bhartiinfratel/BI14" class="bl_12"><b>Bharti Infratel</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/bharatheavyelectricals/BHE" class="bl_12"><b>BHEL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steelcrhrstrips/bhushansteel/BS14" class="bl_12"><b>Bhushan</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/biocon/BL03" class="bl_12"><b>Biocon</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cementmajor/birlacorporation/BC07" class="bl_12"><b>Birla Corp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/couriers/bluedartexpress/BDE" class="bl_12"><b>Blue Dart</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/consumergoodswhitegoods/bluestar/BS" class="bl_12"><b>Blue Star</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/plantationsteacoffee/bombayburmahtradingcorporation/BBT" class="bl_12"><b>Bombay Burmah</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diversified/bombaydyeingmanufacturingcompany/BDM" class="bl_12"><b>Bombay Dyeing</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesgeneral/bombayrayonfashions/BRF" class="bl_12"><b>Bombay Rayon</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autoancillaries/bosch/B05" class="bl_12"><b>Bosch</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC" class="bl_12"><b>BPCL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/brigadeenterprises/BE08" class="bl_12"><b>Brigade Ent</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/foodprocessing/britanniaindustries/BI" class="bl_12"><b>Britannia</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/cadilahealthcare/CHC" class="bl_12"><b>Cadila Health</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/oildrillingandexploration/cairnindia/CI37" class="bl_12"><b>Cairn India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financehousing/canfinhomes/CFH" class="bl_12"><b>Can Fin Homes</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/canarabank/CB06" class="bl_12"><b>Canara Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financegeneral/capitalfirst/FCH" class="bl_12"><b>Capital First</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/abrasives/carborundumuniversal/CU" class="bl_12"><b>Carborundum</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/lubricants/castrolindia/CI01" class="bl_12"><b>Castrol</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/centralbankindia/CBO01" class="bl_12"><b>Central Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diversified/centurytextilesindustries/CTI" class="bl_12"><b>Century</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesmanmade/centuryenka/CE" class="bl_12"><b>Century Enka</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/cesc/CES" class="bl_12"><b>CESC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/fertilisers/chambalfertiliserschemicals/CFC" class="bl_12"><b>Chambal Fert</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/refineries/chennaipetroleumcorporation/CPC02" class="bl_12"><b>Chennai Petro</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeleasinghirepurchase/cholamandalaminvestmentfinancecompany/CDB" class="bl_12"><b>Cholamandalam</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/cipla/C" class="bl_12"><b>Cipla</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/cityunionbank/CUB" class="bl_12"><b>City Union Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/dyespigments/clariantchemicalsindia/CCI08" class="bl_12"><b>Clariant</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computershardware/cmc/CMC" class="bl_12"><b>CMC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miningminerals/coalindia/CI11" class="bl_12"><b>Coal India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/personalcare/colgatepalmoliveindia/CPI" class="bl_12"><b>Colgate</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/transportlogistics/containercorporationindia/CCI" class="bl_12"><b>Container Corp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaretraining/coreeducationtechnologies/CPT" class="bl_12"><b>CORE Education</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/fertilisers/coromandelinternational/CI45" class="bl_12"><b>Coromandel Int</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/corporationbank/CB" class="bl_12"><b>Corporation Bk</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/coxkings/CK" class="bl_12"><b>Cox & Kings</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/crisil/CRI" class="bl_12"><b>CRISIL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/electricequipment/cromptongreaves/CG" class="bl_12"><b>Crompton Greave</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/engines/cumminsindia/CI02" class="bl_12"><b>Cummins</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/cyient/IE07" class="bl_12"><b>Cyient</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/personalcare/daburindia/DI" class="bl_12"><b>Dabur India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/dbcorp/C13" class="bl_12"><b>DB Corp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/dbrealty/DR" class="bl_12"><b>DB Realty</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/dcbbank/DCB01" class="bl_12"><b>DCB Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diversified/dcmshriram/DCM02" class="bl_12"><b>DCM Shriram</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/petrochemicals/dcw/DCW" class="bl_12"><b>DCW</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/fertilisers/deepakfertilizerspetrochemicalscoprn/DFP" class="bl_12"><b>Deepak Fert</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financegeneral/deltacorp/DC11" class="bl_12"><b>Delta Corp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/dennetworks/DN02" class="bl_12"><b>Den Networks</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/denabank/DB" class="bl_12"><b>Dena Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financehousing/dewanhousingfinancecorporation/DHF" class="bl_12"><b>Dewan Housing</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/dhanlaxmibank/DB01" class="bl_12"><b>Dhanlaxmi Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/dishmanpharmaceuticalschemicals/DPC02" class="bl_12"><b>Dishman Pharma</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/divislaboratories/DL03" class="bl_12"><b>Divis Labs</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/dlf/D04" class="bl_12"><b>DLF</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/drdatsonlabs/AL02" class="bl_12"><b>Dr Datson Labs</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/drreddyslaboratories/DRL" class="bl_12"><b>Dr Reddys Labs</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/dredgingcorporationindia/DCI" class="bl_12"><b>Dredging Corp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pumps/dynamatictechnologies/DT05" class="bl_12"><b>Dynamatic Tech</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/eclerxservices/eS06" class="bl_12"><b>eClerx Services</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financegeneral/edelweissfinancialservices/EC01" class="bl_12"><b>Edelweiss</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaretraining/educompsolutions/ES8" class="bl_12"><b>Educomp Sol</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autolcvshcvs/eichermotors/EM" class="bl_12"><b>Eicher Motors</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/sugar/eidparryindia/EID" class="bl_12"><b>EID Parry</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/hotels/eih/EIH" class="bl_12"><b>EIH</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/elderpharmaceuticals/EP9" class="bl_12"><b>Elder Pharma</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/castingsforgings/electrosteelcastings/EC02" class="bl_12"><b>Electrosteel</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/compressors/elgiequipments/EE01" class="bl_12"><b>Elgi Equipments</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/personalcare/emami/E06" class="bl_12"><b>Emami</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/engineersindia/EI14" class="bl_12"><b>EngineersInd</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/entertainmentnetworkindia/ENI" class="bl_12"><b>Ent Network Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/erainfraengineering/EIE01" class="bl_12"><b>Era Infra Eng</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/erosinternationalmedia/EIM" class="bl_12"><b>Eros Intl</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/electrodesgraphite/esabindia/EI06" class="bl_12"><b>Esab India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autotractors/escorts/E" class="bl_12"><b>Escorts</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/packaging/essdeealuminium/ESS02" class="bl_12"><b>ESS DEE</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/refineries/essaroil/EO01" class="bl_12"><b>Essar Oil</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/packaging/esselpropack/EP11" class="bl_12"><b>Essel Propack</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autoancillaries/exideindustries/EI" class="bl_12"><b>Exide Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bearings/fagbearingsindia/FAG" class="bl_12"><b>FAG Bearings</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/fdc/FDC" class="bl_12"><b>FDC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/federalbank/FB" class="bl_12"><b>Federal Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autoancillaries/federalmogulgoetze/FMG" class="bl_12"><b>Federal-Mogul</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/financialtechnologies/FT02" class="bl_12"><b>Financial Tech</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cablestelephone/finolexcables/FC01" class="bl_12"><b>Finolex Cables</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/petrochemicals/finolexindustries/FI" class="bl_12"><b>Finolex Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/firstsourcesolutions/FS07" class="bl_12"><b>Firstsource Sol</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/packaging/flexituffinternational/FI08" class="bl_12"><b>Flexituff Intl</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/hospitalsmedicalservices/fortishealthcare/FH" class="bl_12"><b>Fortis Health</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/retail/futureretail/PR03" class="bl_12"><b>Future Retail</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autoancillaries/gabrielindia/GI02" class="bl_12"><b>Gabriel India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/oildrillingandexploration/gailindia/GAI" class="bl_12"><b>GAIL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/gammonindia/GI03" class="bl_12"><b>Gammon India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/gammoninfrastructureprojects/GIP01" class="bl_12"><b>Gammon Infra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/gatewaydistriparks/GD01" class="bl_12"><b>Gateway Distri</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/couriers/gati/G04" class="bl_12"><b>Gati</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/shipping/greateasternshippingcompany/GES" class="bl_12"><b>GE Shipping</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financegeneral/geojitbnpparibasfinancialservices/GBN01" class="bl_12"><b>Geojit BNP</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/geometric/G03" class="bl_12"><b>Geometric</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/personalcare/gilletteindia/GI22" class="bl_12"><b>Gillette India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diamondcuttingpreciousmetalsjewellery/gitanjaligems/GG03" class="bl_12"><b>Gitanjali Gems</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/foodprocessing/glaxosmithklineconsumerhealthcare/GSC04" class="bl_12"><b>GlaxoSmith Con</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/glaxosmithklinepharmaceuticals/GSK" class="bl_12"><b>GlaxoSmithKline</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/glenmarkpharma/GP08" class="bl_12"><b>Glenmark</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/gmrinfrastructure/GI27" class="bl_12"><b>GMR Infra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/fertilisers/gujaratnarmadavalleyfertilizerschemicals/GNV" class="bl_12"><b>GNFC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cigarettes/godfreyphillipsindia/GPI" class="bl_12"><b>Godfrey Phillip</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/personalcare/godrejconsumerproducts/GCP" class="bl_12"><b>Godrej Consumer</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/personalcare/godrejindustries/GI23" class="bl_12"><b>Godrej Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/godrejproperties/GP11" class="bl_12"><b>Godrej Prop</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/shipping/goloffshore/GO" class="bl_12"><b>GOL Offshore</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/electrodesgraphite/graphiteindia/GI13" class="bl_12"><b>Graphite India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diversified/grasimindustries/GI01" class="bl_12"><b>Grasim</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/engines/greavescotton/GC20" class="bl_12"><b>Greaves Cotton</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financehousing/gruhfinance/GRU" class="bl_12"><b>GRUH Finance</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/fertilisers/gujaratstatefertilizerschemicals/GSF" class="bl_12"><b>GSFC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/telecommunicationsequipment/gtlinfrastructure/GTL02" class="bl_12"><b>GTL Infra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/chemicals/gujaratalkalieschemicals/GAC01" class="bl_12"><b>Guj Alkali</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/chemicals/gujaratfluorochemicals/GF07" class="bl_12"><b>Guj Flourochem</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/oildrillingandexploration/gujaratgascompany/GGC" class="bl_12"><b>Guj Gas</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/chemicals/gujaratheavychemicals/GHC" class="bl_12"><b>Guj Heavy Chem</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/gujaratindustriespowerco/GIP" class="bl_12"><b>Guj Ind Power</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miningminerals/gujaratmineraldevelopmentcorporation/GMD" class="bl_12"><b>Guj Mineral</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/gujaratnrecoke/GNR" class="bl_12"><b>Guj NRE Coke</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/oildrillingandexploration/gujaratstatepetronet/GSP02" class="bl_12"><b>Guj State Petro</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/shipping/gujaratpipavavport/GPP03" class="bl_12"><b>Gujarat Pipavav</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/gvkpowerinfrastructure/GVK" class="bl_12"><b>GVK Power</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/hathwaycabledatacom/HCD" class="bl_12"><b>Hathway Cable</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/electricequipment/havellsindia/HI01" class="bl_12"><b>Havells India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computershardware/hclinfosystems/HCL" class="bl_12"><b>HCL Info</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/hcltechnologies/HCL02" class="bl_12"><b>HCL Tech</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financehousing/housingdevelopmentfinancecorporation/HDF" class="bl_12"><b>HDFC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/hdfcbank/HDF01" class="bl_12"><b>HDFC Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/housingdevelopmentinfrastructure/HDI" class="bl_12"><b>HDIL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/electrodesgraphite/heg/HEG" class="bl_12"><b>HEG</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/foodprocessing/heritagefoods/HFI" class="bl_12"><b>Heritage Foods</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/auto23wheelers/heromotocorp/HHM" class="bl_12"><b>Hero Motocorp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/hexawaretechnologies/HT02" class="bl_12"><b>Hexaware Tech</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/telecommunicationsequipment/himachalfuturisticcommunication/HFC" class="bl_12"><b>HFCL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilessyntheticsilk/himatsingkaseide/HS" class="bl_12"><b>Himatsingka Sei</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/hindustanconstructioncompany/HCC" class="bl_12"><b>Hind Constr</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/metalsnonferrous/hindustancopper/HC07" class="bl_12"><b>Hind Copper</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/metalsnonferrous/hindustanzinc/HZ" class="bl_12"><b>Hind Zinc</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/aluminium/hindalcoindustries/HI" class="bl_12"><b>Hindalco</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/oildrillingandexploration/hindustanoilexplorationcompany/HOE01" class="bl_12"><b>HOEC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/telecommunicationsequipment/honeywellautomation/HA04" class="bl_12"><b>Honeywell Autom</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/hotels/hotelleelaventure/HLV" class="bl_12"><b>Hotel Leela</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/refineries/hindustanpetroleumcorporation/HPC" class="bl_12"><b>HPCL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/ceramicsgranite/hsil/HSI02" class="bl_12"><b>HSIL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/htmedia/HT" class="bl_12"><b>HT Media</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/hubtown/AC24" class="bl_12"><b>Hubtown</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/personalcare/hindustanunilever/HU" class="bl_12"><b>HUL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/icicibank/ICI02" class="bl_12"><b>ICICI Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/icra/ICR" class="bl_12"><b>ICRA</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/idbibank/IDB05" class="bl_12"><b>IDBI Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/telecommunicationsservice/ideacellular/IC8" class="bl_12"><b>Idea Cellular</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financetermlendinginstitutions/idfc/IDF" class="bl_12"><b>IDFC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financetermlendinginstitutions/ifci/IFC02" class="bl_12"><b>IFCI</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/oildrillingandexploration/indraprasthagas/IG04" class="bl_12"><b>IGL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financegeneral/iiflholdings/II15" class="bl_12"><b>IIFL Holdings</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/ilandfsengineeringconstructioncompany/MI50" class="bl_12"><b>ILandFS Engg</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/ilandfstransportationnetworks/ITN" class="bl_12"><b>ILandFS Trans</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cementmajor/indiacements/IC" class="bl_12"><b>India Cements</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/chemicals/indiaglycols/IG" class="bl_12"><b>India Glycols</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/indiabullspower/IP09" class="bl_12"><b>IndiaBPower</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/indiabullsrealestate/IRE01" class="bl_12"><b>Indiabulls Real</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeinvestments/indiabullssecurities/IS13" class="bl_12"><b>Indiabulls Sec</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/indianbank/IB04" class="bl_12"><b>Indian Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/hotels/indianhotelscompany/IHC" class="bl_12"><b>Indian Hotels</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miningminerals/indianmetalsferroalloys/IMF01" class="bl_12"><b>Indian Metals</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/hospitalsmedicalservices/indraprasthamedicalcorporation/IMC03" class="bl_12"><b>Indraprastha</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/indusindbank/IIB" class="bl_12"><b>IndusInd Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/infinitecomputersolutionsindia/ICS01" class="bl_12"><b>Infinite Comp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/infoedgeindia/IEI01" class="bl_12"><b>Info Edge</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/infosys/IT" class="bl_12"><b>Infosys</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/ingvysyabank/ING" class="bl_12"><b>ING Vysya Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/compressors/ingersollrandindia/IRI01" class="bl_12"><b>Ingersoll Rand</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steeltubespipes/innoventiveindustries/II02" class="bl_12"><b>Innoventive Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/indianoverseasbank/IOB" class="bl_12"><b>IOB</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/refineries/indianoilcorporation/IOC" class="bl_12"><b>IOC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/ipcalaboratories/IL" class="bl_12"><b>Ipca Labs</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/irbinfrastructuredevelopers/IID01" class="bl_12"><b>IRB Infra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cigarettes/itc/ITC" class="bl_12"><b>ITC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/ivrcl/IVR" class="bl_12"><b>IVRCL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/jkumarinfraprojects/KI01" class="bl_12"><b>J Kumar Infra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/jagranprakashan/JP12" class="bl_12"><b>JagranPrakashan</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steelgpgcsheets/jaicorp/JC08" class="bl_12"><b>Jai Corp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/plastics/jainirrigationsystems/JIS02" class="bl_12"><b>Jain Irrigation</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/jaiprakashassociates/JA02" class="bl_12"><b>Jaiprakash Asso</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/jaiprakashpowerventures/JHP01" class="bl_12"><b>Jaiprakash Pow</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/jaypeeinfratech/JI09" class="bl_12"><b>Jaypee Infra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/jbchemicalspharmaceuticals/JBC01" class="bl_12"><b>JB Chemicals</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesmanmade/jbfindustries/JBF" class="bl_12"><b>JBF Industries</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steeltubespipes/jindalsaw/JS08" class="bl_12"><b>Jindal Saw</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steelmediumsmall/jindalstainless/JSL01" class="bl_12"><b>Jindal Stainles</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steelspongeiron/jindalsteelpower/JSP" class="bl_12"><b>Jindal Steel</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/jammukashmirbank/JKB" class="bl_12"><b>JK Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cementmajor/jklakshmicement/JKL01" class="bl_12"><b>JK Lakshmi Cem</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/tyres/jktyreindustries/JKT01" class="bl_12"><b>JK Tyre & Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeinvestments/jmfinancial/JMF" class="bl_12"><b>JM Financial</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/jswenergy/JE01" class="bl_12"><b>JSW Energy</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeinvestments/jswholdings/JSW" class="bl_12"><b>JSW Holdings</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steellarge/jswsteel/JSW01" class="bl_12"><b>JSW Steel</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/jubilantfoodworks/JF04" class="bl_12"><b>Jubilant Food</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/jubilantlifesciences/JO03" class="bl_12"><b>Jubilant Life</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powertransmissionequipment/jyotistructures/JS03" class="bl_12"><b>Jyoti Structure</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/ceramicsgranite/kajariaceramics/KC06" class="bl_12"><b>Kajaria Ceramic</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powertransmissionequipment/kalpatarupowertransmission/KPT" class="bl_12"><b>Kalpataru Power</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/paintsvarnishes/kansainerolacpaints/KNP" class="bl_12"><b>Kansai Nerolac</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/karnatakabank/KB04" class="bl_12"><b>Karnataka Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/karurvysyabank/KVB" class="bl_12"><b>Karur Vysya</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/karuturiglobal/KG03" class="bl_12"><b>Karuturi Global</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/kaveriseedcompany/KSC01" class="bl_12"><b>Kaveri Seed</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cementmajor/kcp/KCP" class="bl_12"><b>KCP</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powertransmissionequipment/kecinternational/KEC04" class="bl_12"><b>KEC Intl</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diversified/kesoramindustries/KI08" class="bl_12"><b>Kesoram</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/retail/kewalkiranclothing/KKC02" class="bl_12"><b>Kewal Kiran</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/koltepatildevelopers/KD07" class="bl_12"><b>Kolte-Patil</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/kotakmahindrabank/KMB" class="bl_12"><b>Kotak Mahindra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/kpittechnologies/KPI02" class="bl_12"><b>KPIT Tech</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pumps/ksbpumps/KSB" class="bl_12"><b>KSB Pumps</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/kskenergyventures/KEV" class="bl_12"><b>KSK Energy Vent</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeinvestments/ltfinanceholdings/LFH" class="bl_12"><b>L&T Finance</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesmachinery/lakshmimachineworks/LMW" class="bl_12"><b>Lakshmi Machine</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/lakshmivilasbank/LVB" class="bl_12"><b>Lakshmi Vilas</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/lancoinfratech/LI10" class="bl_12"><b>Lanco Infratech</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/larsentoubro/LT" class="bl_12"><b>Larsen</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financehousing/lichousingfinance/LIC" class="bl_12"><b>LIC Housing Fin</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/chemicals/lindeindia/BOC" class="bl_12"><b>Linde India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesreadymadeapparels/lovablelingerie/LL04" class="bl_12"><b>Lovable Lingeri</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/lupin/L" class="bl_12"><b>Lupin</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autocarsjeeps/mahindramahindra/MM" class="bl_12"><b>M&M</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeleasinghirepurchase/mahindramahindrafinancialservices/MMF04" class="bl_12"><b>M&M Financial</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeleasinghirepurchase/magmafincorp/MF20" class="bl_12"><b>Magma Fincorp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/auto23wheelers/maharashtrascooters/MS01" class="bl_12"><b>Mah Scooters</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steeltubespipes/maharashtraseamless/MS02" class="bl_12"><b>Mah Seamless</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/hotels/mahindraholidaysresortsindia/MHR" class="bl_12"><b>Mahindra Holida</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/mahindralifespacedevelopers/MLD" class="bl_12"><b>Mahindra Life</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steeltubespipes/manindustriesindia/MII" class="bl_12"><b>Man Industries</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/maninfraconstruction/MI37" class="bl_12"><b>Man Infra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesgeneral/mandhanaindustries/MI24" class="bl_12"><b>Mandhana Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/fertilisers/mangalorechemicalsfertilisers/MCF01" class="bl_12"><b>Mangalore Chem</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autocarsjeeps/marutisuzukiindia/MS24" class="bl_12"><b>Maruti Suzuki</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/mastek/M" class="bl_12"><b>Mastek</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/packaging/maxindia/MI" class="bl_12"><b>Max India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/plantationsteacoffee/mcleodrusselindia/MRI02" class="bl_12"><b>Mcleod</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/shipping/mercator/ML02" class="bl_12"><b>Mercator</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/merck/M12" class="bl_12"><b>Merck</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/mindtree/MT13" class="bl_12"><b>Mindtree</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/trading/mmtc/MMT" class="bl_12"><b>MMTC Ltd</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miningminerals/moil/M18" class="bl_12"><b>MOIL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steelspongeiron/monnetispat/MI16" class="bl_12"><b>Monnet Ispat</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pesticidesagrochemicals/monsantoindia/MI39" class="bl_12"><b>Monsanto India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autoancillaries/mothersonsumisystems/MSS01" class="bl_12"><b>Motherson Sumi</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financegeneral/motilaloswalfinancialservices/MOF01" class="bl_12"><b>Motilal Oswal</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/mphasis/MB02" class="bl_12"><b>MphasiS</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/tyres/mrf/MRF" class="bl_12"><b>MRF</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/refineries/mangalorerefinerypetrochemicals/MRP" class="bl_12"><b>MRPL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaretraining/mteducare/ME14" class="bl_12"><b>MT Educare</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/telecommunicationsservice/mahanagartelephonenigam/MTN" class="bl_12"><b>MTNL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeinvestments/muthootfinance/MF10" class="bl_12"><b>Muthoot Finance</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/aluminium/nationalaluminiumcompany/NAC" class="bl_12"><b>NALCO</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diversified/navabharatventures/NBV" class="bl_12"><b>Nava Bharat Ven</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/printingstationery/navneeteducation/NP01" class="bl_12"><b>Navneet</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/ncc/NCC01" class="bl_12"><b>NCC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/newdelhitelevision/NDT01" class="bl_12"><b>NDTV</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financegeneral/network18mediainvestments/NMI" class="bl_12"><b>Network 18</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/neyvelilignitecorporation/NLC" class="bl_12"><b>Neyveli Lignite</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/nhpc/N07" class="bl_12"><b>NHPC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaretraining/niit/NII" class="bl_12"><b>NIIT</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/niittechnologies/NII02" class="bl_12"><b>NIIT Tech</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miningminerals/nmdc/NMD02" class="bl_12"><b>NMDC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/noidatollbridgecompany/NTB" class="bl_12"><b>Noida Toll</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/ntpc/NTP" class="bl_12"><b>NTPC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/oberoirealty/OR" class="bl_12"><b>Oberoi Realty</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/oildrillingandexploration/oilindia/OI13" class="bl_12"><b>Oil India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/omaxe/O02" class="bl_12"><b>Omaxe</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/oildrillingandexploration/oilnaturalgascorporation/ONG" class="bl_12"><b>ONGC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/hospitalsmedicalservices/optocircuitsindia/OCI01" class="bl_12"><b>Opto Circuits</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/oraclefinancialservicessoftware/OFS01" class="bl_12"><b>Oracle Fin Serv</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/orbitcorporation/OC09" class="bl_12"><b>Orbit Corp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/orchidchemicalspharmaceuticals/OCP" class="bl_12"><b>Orchid Chemical</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/orientalbankcommerce/OBC" class="bl_12"><b>Oriental Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miningminerals/orissamineralsdevelopmentcompany/OMD" class="bl_12"><b>Orissa Minerals</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/fertilisers/oswalchemicalsfertilisers/OCF" class="bl_12"><b>Oswal ChemandFe</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/personalcare/proctergamblehygienehealthcare/PGH" class="bl_12"><b>P and G</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesreadymadeapparels/pageindustries/PI35" class="bl_12"><b>Page Industries</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/parsvnathdevelopers/PD05" class="bl_12"><b>Parsvnath</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/patelengineeringcompany/PEC" class="bl_12"><b>Patel Eng</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractinghousing/peninsulaland/PL10" class="bl_12"><b>Peninsula Land</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/persistentsystems/PS15" class="bl_12"><b>Persistent</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/oildrillingandexploration/petronetlng/PLN" class="bl_12"><b>Petronet LNG</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/pfizer/P" class="bl_12"><b>Pfizer</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesspinningcottonblended/phoenixmills/PM02" class="bl_12"><b>Phoenix Mills</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/chemicals/pidiliteindustries/PI11" class="bl_12"><b>Pidilite Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/shipping/pipavavdefenceoffshoreengineeringcompany/PS04" class="bl_12"><b>Pipavav Defence</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/piramalenterprises/PH05" class="bl_12"><b>Piramal Enter</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/punjabnationalbank/PNB05" class="bl_12"><b>PNB</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/polarisfinancialtechnology/PSL01" class="bl_12"><b>Polaris Tech</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financetermlendinginstitutions/powerfinancecorporation/PFC02" class="bl_12"><b>Power Finance</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/powergridcorporationindia/PGC" class="bl_12"><b>Power Grid Corp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/engineeringheavy/prajindustries/PI17" class="bl_12"><b>Praj Industries</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diversified/prakashindustries/PI18" class="bl_12"><b>Prakash Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/prestigeestatesprojects/PEP02" class="bl_12"><b>Prestige Estate</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/primefocus/PF13" class="bl_12"><b>Prime Focus</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cementmajor/prismcement/PC" class="bl_12"><b>Prism Cement</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steeltubespipes/psl/PSL" class="bl_12"><b>PSL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/trading/ptcindia/PTC02" class="bl_12"><b>PTC India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/punjlloyd/PL9" class="bl_12"><b>Punj Lloyd</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/puravankaraprojects/PP01" class="bl_12"><b>Puravankara</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/pvr/PVR" class="bl_12"><b>PVR</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/breweriesdistilleries/radicokhaitan/RK01" class="bl_12"><b>Radico Khaitan</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/rajtelevisionnetwork/RTN" class="bl_12"><b>Raj Television</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diamondcuttingpreciousmetalsjewellery/rajeshexports/RE07" class="bl_12"><b>Rajesh Exports</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pesticidesagrochemicals/rallisindia/RI03" class="bl_12"><b>Rallis India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cementmajor/theramcocements/MC" class="bl_12"><b>Ramco Cements</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cementproductsbuildingmaterials/ramcoindustries/RI26" class="bl_12"><b>Ramcoind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/ranbaxylaboratories/RL" class="bl_12"><b>Ranbaxy Labs</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/fertilisers/rashtriyachemicalsfertilisers/RCF01" class="bl_12"><b>Rashtriya Chem</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/edibleoilssolventextraction/rasoyaproteins/RP22" class="bl_12"><b>Rasoya Protein</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textileswoollenworsted/raymond/R" class="bl_12"><b>Raymond</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financetermlendinginstitutions/ruralelectrificationcorporation/REC02" class="bl_12"><b>REC</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computershardware/redingtonindia/RI37" class="bl_12"><b>Redington</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/foodprocessing/reiagro/RA06" class="bl_12"><b>Rei Agro</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeinvestments/reliancecapital/RC" class="bl_12"><b>Rel Capital</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/relianceindustrialinfrastructure/RII" class="bl_12"><b>Rel Ind Infra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/refineries/relianceindustries/RI" class="bl_12"><b>Reliance</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/telecommunicationsservice/reliancecommunications/RC13" class="bl_12"><b>Reliance Comm</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/relianceinfrastructure/RI38" class="bl_12"><b>Reliance Infra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/reliancepower/RP" class="bl_12"><b>Reliance Power</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeinvestments/religareenterprises/RE09" class="bl_12"><b>Religare Enterp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/roltaindia/RI15" class="bl_12"><b>Rolta</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/edibleoilssolventextraction/ruchisoyaindustries/RSI" class="bl_12"><b>Ruchi Soya</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilessyntheticsilk/skumarsnationwide/SKN" class="bl_12"><b>S Kumars Nation</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/sadbhavengineering/SE19" class="bl_12"><b>Sadbhav Engg</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steellarge/steelauthorityindia/SAI" class="bl_12"><b>SAIL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/sanofiindia/AP26" class="bl_12"><b>Sanofi India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/statebankindia/SBI" class="bl_12"><b>SBI</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeinvestments/seinvestments/SEI03" class="bl_12"><b>SE Investments</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miningminerals/sesasterlite/SG" class="bl_12"><b>Sesa Sterlite</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/engineering/shanthigears/SG04" class="bl_12"><b>Shanthi Gears</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/shasunpharmaceuticals/SCD" class="bl_12"><b>Shasun Pharma</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/shipping/shippingcorporationindia/SCI" class="bl_12"><b>Shipping Corp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/retail/shoppersstop/SS51" class="bl_12"><b>Shoppers Stop</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cementmajor/shreecements/SC12" class="bl_12"><b>Shree Cements</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/sugar/shreerenukasugars/SRS03" class="bl_12"><b>Shree Renuka</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diamondcuttingpreciousmetalsjewellery/shrenujcompany/SC13" class="bl_12"><b>Shrenuj and Co</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeleasinghirepurchase/shriramcityunionfinance/SCU" class="bl_12"><b>Shriram City</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeleasinghirepurchase/shriramtransportfinancecorporation/STF" class="bl_12"><b>Shriram Trans</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/siemens/S" class="bl_12"><b>Siemens</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/simplexinfrastructures/SI82" class="bl_12"><b>Simplex Infra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diversified/sintexindustries/SI27" class="bl_12"><b>Sintex Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bearings/skfindia/SKF01" class="bl_12"><b>SKF India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financegeneral/sksmicrofinance/SM11" class="bl_12"><b>SKS Microfin</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/sobhadevelopers/SD6" class="bl_12"><b>Sobha Developer</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/sonatasoftware/SS42" class="bl_12"><b>Sonata</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/southindianbank/SIB" class="bl_12"><b>South Ind Bk</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeleasinghirepurchase/sreiinfrastructurefinance/SRE02" class="bl_12"><b>SREI Infra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesmanmade/srf/SRF" class="bl_12"><b>SRF</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/statebankbikanerjaipur/SBB02" class="bl_12"><b>State B Bikaner</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/statebanktravancore/SBT" class="bl_12"><b>State Bk Travan</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cablestelephone/sterlitetechnologies/ST20" class="bl_12"><b>Sterlite Techno</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/stridesarcolab/SA10" class="bl_12"><b>Strides Arcolab</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/sunpharmaceuticalindustries/SPI" class="bl_12"><b>Sun Pharma</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/suntvnetwork/STN01" class="bl_12"><b>Sun TV Network</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeleasinghirepurchase/sundaramfinance/SF20" class="bl_12"><b>Sundaram Fin</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/fasteners/sundramfasteners/SF23" class="bl_12"><b>Sundram</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingrealestate/sunteckrealty/SR05" class="bl_12"><b>Sunteck Realty</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/plastics/supremeindustries/SI48" class="bl_12"><b>Supreme Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/supremeinfrastructureindia/SII03" class="bl_12"><b>Supreme Infra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/petrochemicals/supremepetrochem/SP" class="bl_12"><b>Supreme Petro</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/suzlonenergy/SE17" class="bl_12"><b>Suzlon Energy</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/trading/swanenergy/SM09" class="bl_12"><b>Swan Energy</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/engines/swarajengines/SE" class="bl_12"><b>Swaraj Engines</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/syndicatebank/SB9" class="bl_12"><b>Syndicate Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/paper/tamilnadunewsprintpapers/TNN" class="bl_12"><b>Tamil Newsprint</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/chemicals/tatachemicals/TC" class="bl_12"><b>Tata Chemicals</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/plantationsteacoffee/tatacoffee/TC14" class="bl_12"><b>Tata Coffee</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/telecommunicationsservice/tatacommunications/TC17" class="bl_12"><b>Tata Comm</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/tataelxsi/TE" class="bl_12"><b>Tata Elxsi</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/plantationsteacoffee/tataglobalbeverage/TT" class="bl_12"><b>Tata Global Bev</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/financeinvestments/tatainvestmentcorporation/TIC" class="bl_12"><b>Tata Inv Corp</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autolcvshcvs/tatamotors/TM03" class="bl_12"><b>Tata Motors</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/tatapowercompany/TPC" class="bl_12"><b>Tata Power</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steelspongeiron/tataspongeiron/TSI" class="bl_12"><b>Tata Sponge</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steellarge/tatasteel/TIS" class="bl_12"><b>Tata Steel</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/tataconsultancyservices/TCS" class="bl_12"><b>TCS</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/engineeringheavy/tdpowersystems/TPS01" class="bl_12"><b>TD Power System</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/techmahindra/TM4" class="bl_12"><b>Tech Mahindra</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/electricequipment/technoelectricengineeringcompany/TEE" class="bl_12"><b>Techno Electric</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/infrastructuregeneral/thermax/T" class="bl_12"><b>Thermax</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/thomascookindia/TCI" class="bl_12"><b>Thomas Cook</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/metalsnonferrous/tinplatecompanyindia/TCI02" class="bl_12"><b>Tinplate</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/titancompany/TI01" class="bl_12"><b>Titan Company</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/torrentpharmaceuticals/TP06" class="bl_12"><b>Torrent Pharma</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/powergenerationdistribution/torrentpower/TP14" class="bl_12"><b>Torrent Power</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaretraining/treehouseeducationaccessories/THE01" class="bl_12"><b>Tree House</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/retail/trent/T04" class="bl_12"><b>Trent</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diamondcuttingpreciousmetalsjewellery/tribhovandasbhimjizaveri/TBZ" class="bl_12"><b>Tribhovandas</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/domesticappliances/ttkprestige/TTK02" class="bl_12"><b>TTK Prestige</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/tubeinvestmentsindia/TII" class="bl_12"><b>Tube Investment</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/telecommunicationsservice/tuliptelecom/TT13" class="bl_12"><b>Tulip Telecom</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/tv18broadcast/IBN" class="bl_12"><b>TV18 Broadcast</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/auto23wheelers/tvsmotorcompany/TVS" class="bl_12"><b>TVS Motor</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/trading/unitedbreweriesholdings/UBH" class="bl_12"><b>UB Holdings</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/ucobank/UCO" class="bl_12"><b>UCO Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/packaging/uflex/U01" class="bl_12"><b>Uflex</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cementmajor/ultratechcement/UTC01" class="bl_12"><b>UltraTechCement</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/unichemlaboratories/UL02" class="bl_12"><b>Unichem Labs</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/unionbankindia/UBI01" class="bl_12"><b>Union Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/constructioncontractingcivil/unitech/U" class="bl_12"><b>Unitech</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/breweriesdistilleries/unitedbreweries/UB02" class="bl_12"><b>United Brewerie</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/breweriesdistilleries/unitedspirits/US" class="bl_12"><b>United Spirits</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/chemicals/upl/UP04" class="bl_12"><b>UPL</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steelmediumsmall/ushamartin/UM01" class="bl_12"><b>Usha Martin</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/steelgpgcsheets/uttamgalvasteel/UGS01" class="bl_12"><b>Uttam Galva</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/vakrangee/VS" class="bl_12"><b>Vakrangee</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesspinningcottonblended/vardhmantextiles/VT10" class="bl_12"><b>Vardhman Text</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/miscellaneous/venkys/V03" class="bl_12"><b>Venkys</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cementproductsbuildingmaterials/vesuviusindia/VI06" class="bl_12"><b>Vesuvius India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/consumergoodselectronic/videoconindustries/VLF" class="bl_12"><b>Videocon Ind</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/bankspublicsector/vijayabank/VB03" class="bl_12"><b>Vijaya Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/plastics/vipindustries/VIP" class="bl_12"><b>VIP Industries</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/diversified/voltas/V" class="bl_12"><b>Voltas</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/cigarettes/vstindustries/VST" class="bl_12"><b>VST</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/autoancillaries/wabcoindia/WAB" class="bl_12"><b>WABCO India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesweaving/welspunindia/WI03" class="bl_12"><b>Welspun India</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/paper/westcoastpapermills/WCP" class="bl_12"><b>West Coast Papr</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/consumergoodswhitegoods/whirlpoolindia/WI" class="bl_12"><b>Whirlpool</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/wipro/W" class="bl_12"><b>Wipro</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/wockhardt/W05" class="bl_12"><b>Wockhardt</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/pharmaceuticals/wyeth/W11" class="bl_12"><b>Wyeth</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/banksprivatesector/yesbank/YB" class="bl_12"><b>Yes Bank</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/mediaentertainment/zeeentertainmententerprises/ZEE" class="bl_12"><b>Zee Entertain</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/zensartechnologies/ZT02" class="bl_12"><b>Zensar Tech</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/textilesreadymadeapparels/zodiacclothingcompany/ZCC" class="bl_12"><b>Zodiac Clothing</b></a>
+									<td width="24%" class="brdrgtgry"><a href="/india/stockpricequote/vanaspatioils/zyduswellness/ZW01" class="bl_12"><b>Zydus Wellness</b></a>

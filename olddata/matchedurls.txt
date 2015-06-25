@@ -1,0 +1,499 @@
+/india/stockpricequote/diversified/3mindia/MI42 42334dqqqqqq3M India Limited
+/india/stockpricequote/chemicals/aartiindustries/AI45 4149qqqqqqAarti Industries Limited
+/india/stockpricequote/textilesmanmade/adityabirlanuvo/ABN01 495249qqqqqqAditya Birla Nuvo Limited
+/india/stockpricequote/oildrillingandexploration/abanoffshore/AO04 414c43qqqqqqAban Offshore Limited
+/india/stockpricequote/infrastructuregeneral/abb/ABB 414242qqqqqqABB India Limited
+/india/stockpricequote/shipping/abgshipyard/ABG01 4142473031qqqqqqABG Shipyard Limited
+/india/stockpricequote/cementmajor/acc/ACC06 414343qqqqqqACC Limited
+/india/stockpricequote/trading/adanienterprises/AE13 41453031qqqqqqAdani Enterprises Limited
+/india/stockpricequote/infrastructuregeneral/adaniportsspecialeconomiczone/MPS 4d5053qqqqqqAdani Ports and Special Economic Zone Limited
+/india/stockpricequote/powergenerationdistribution/adanipower/AP11 41503236qqqqqqAdani Power Limited
+/india/stockpricequote/miscellaneous/advanta/AI39 41493339qqqqqqAdvanta Limited
+/india/stockpricequote/edibleoilssolventextraction/agrotechfoods/ATF 4954433032qqqqqqAgro Tech Foods Limited
+/india/stockpricequote/engineeringheavy/aiaengineering/AIE01 4149453031qqqqqqAIA Engineering Limited
+/india/stockpricequote/paintsvarnishes/akzonobelindia/ICI 494349qqqqqqAkzo Nobel India Limited
+/india/stockpricequote/bankspublicsector/allahabadbank/AB15 41423135qqqqqqAllahabad Bank
+/india/stockpricequote/transportlogistics/allcargologistics/AGL02 41474c3032qqqqqqAllcargo Logistics Limited
+/india/stockpricequote/textilesweaving/alokindustries/AI54 415449qqqqqqAlok Industries Limited
+/india/stockpricequote/powertransmissionequipment/alstomindia/AP29 4142423031qqqqqqAlstom India Limited
+/india/stockpricequote/powertransmissionequipment/alstomtdindia/ATD 474543qqqqqqAlstom T&D India Limited
+/india/stockpricequote/autoancillaries/amararajabatteries/ARB 415242qqqqqqAmara Raja Batteries Limited
+/india/stockpricequote/cementmajor/ambujacements/AC18 474143qqqqqqAmbuja Cements Limited
+/india/stockpricequote/autoancillaries/amtekauto/AA01 41413031qqqqqqAmtek Auto Limited
+/india/stockpricequote/autoancillaries/amtekindia/AI49 41493439qqqqqqAmtek India Limited
+/india/stockpricequote/constructioncontractingrealestate/anantraj/ARI 415249qqqqqqAnant Raj Limited
+/india/stockpricequote/bankspublicsector/andhrabank/AB14 41423134qqqqqqAndhra Bank
+/india/stockpricequote/constructioncontractinghousing/ansalpropertiesinfrastructure/API07 4150493032qqqqqqAnsal Properties & Infrastructure Limited
+/india/stockpricequote/hospitalsmedicalservices/apollohospitalsenterprises/AHE 414845qqqqqqApollo Hospitals Enterprise Limited
+/india/stockpricequote/tyres/apollotyres/AT14 4154qqqqqqApollo Tyres Limited
+/india/stockpricequote/computerssoftwaretraining/aptech/A11 41543134qqqqqqAptech Limited
+/india/stockpricequote/textilesdenim/arvind/A18 414dqqqqqqArvind Limited
+/india/stockpricequote/glassglassproducts/asahiindiaglass/AIG01 414953qqqqqqAsahi India Glass Limited
+/india/stockpricequote/autolcvshcvs/ashokleyland/AL 414cqqqqqqAshok Leyland Limited
+/india/stockpricequote/paintsvarnishes/asianpaints/AP31 415049qqqqqqAsian Paints Limited
+/india/stockpricequote/pharmaceuticals/astrazenecapharma/AZP 414944qqqqqqAstraZeneca Pharma India Limited
+/india/stockpricequote/dyespigments/atul/A06 413036qqqqqqAtul Limited
+/india/stockpricequote/pharmaceuticals/aurobindopharma/AP 4150qqqqqqAurobindo Pharma Limited
+/india/stockpricequote/autoancillaries/automotiveaxles/AA06 41413036qqqqqqAutomotive Axles Limited
+/india/stockpricequote/banksprivatesector/axisbank/AB16 5554493130qqqqqqAxis Bank Limited
+/india/stockpricequote/auto23wheelers/bajajauto/BA10 42413036qqqqqqBajaj Auto Limited
+/india/stockpricequote/domesticappliances/bajajelectricals/BE 4245qqqqqqBajaj Electricals Limited
+/india/stockpricequote/financeleasinghirepurchase/bajajfinance/BAF 424146qqqqqqBajaj Finance Limited
+/india/stockpricequote/financeinvestments/bajajfinserv/BF04 42463034qqqqqqBajaj Finserv Limited
+/india/stockpricequote/sugar/bajajhindusthan/BH06 4248qqqqqqBajaj Hindusthan Limited
+/india/stockpricequote/financeinvestments/bajajholdingsinvestment/BHI 4241qqqqqqBajaj Holdings & Investment Limited
+/india/stockpricequote/tyres/balkrishnaindustries/BI03 42493033qqqqqqBalkrishna Industries Limited
+/india/stockpricequote/paper/ballarpurindustries/BI12 42493132qqqqqqBallarpur Industries Limited
+/india/stockpricequote/packaging/balmerlawriecompany/BLC 424c43qqqqqqBalmer Lawrie & Company Limited
+/india/stockpricequote/sugar/balrampurchinimills/BCM 42434dqqqqqqBalrampur Chini Mills Limited
+/india/stockpricequote/bankspublicsector/bankofbaroda/BOB 424f42qqqqqqBank of Baroda
+/india/stockpricequote/bankspublicsector/bankofindia/BOI 424f49qqqqqqBank of India
+/india/stockpricequote/chemicals/basfindia/BAS 424153qqqqqqBASF India Limited
+/india/stockpricequote/leatherproducts/bataindia/BI01 42493031qqqqqqBata India Limited
+/india/stockpricequote/infrastructuregeneral/beml/BEM03 42454dqqqqqqBEML Limited
+/india/stockpricequote/paintsvarnishes/bergerpaintsindia/BPI02 4250493032qqqqqqBerger Paints (I) Limited
+/india/stockpricequote/powergenerationdistribution/bfutilities/BFU 424655qqqqqqBF Utilities Limited
+/india/stockpricequote/infrastructuregeneral/bgrenergysystems/BES 424553qqqqqqBGR Energy Systems Limited
+/india/stockpricequote/electricals/bharatelectronics/BE03 42453033qqqqqqBharat Electronics Limited
+/india/stockpricequote/castingsforgings/bharatforge/BF03 424643qqqqqqBharat Forge Limited
+/india/stockpricequote/telecommunicationsservice/bhartiairtel/BA08 425456qqqqqqBharti Airtel Limited
+/india/stockpricequote/telecommunicationsequipment/bhartiinfratel/BI14 42493236qqqqqqBharti Infratel Limited
+/india/stockpricequote/infrastructuregeneral/bharatheavyelectricals/BHE 424845qqqqqqBharat Heavy Electricals Limited
+/india/stockpricequote/steelcrhrstrips/bhushansteel/BS14 425353qqqqqqBhushan Steel Limited
+/india/stockpricequote/pharmaceuticals/biocon/BL03 424c3033qqqqqqBiocon Limited
+/india/stockpricequote/cementmajor/birlacorporation/BC07 42433037qqqqqqBirla Corporation Limited
+/india/stockpricequote/couriers/bluedartexpress/BDE 424445qqqqqqBlue Dart Express Limited
+/india/stockpricequote/consumergoodswhitegoods/bluestar/BS 4253qqqqqqBlue Star Limited
+/india/stockpricequote/plantationsteacoffee/bombayburmahtradingcorporation/BBT 424254qqqqqqBombay Burmah Trading Corporation Limited
+/india/stockpricequote/diversified/bombaydyeingmanufacturingcompany/BDM 42444dqqqqqqBombay Dyeing & Mfg Company Limited
+/india/stockpricequote/textilesgeneral/bombayrayonfashions/BRF 425246qqqqqqBombay Rayon Fashions Limited
+/india/stockpricequote/autoancillaries/bosch/B05 4d4943qqqqqqBosch Limited
+/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC 425043qqqqqqBharat Petroleum Corporation Limited
+/india/stockpricequote/constructioncontractingrealestate/brigadeenterprises/BE08 42453038qqqqqqBrigade Enterprises Limited
+/india/stockpricequote/foodprocessing/britanniaindustries/BI 4249qqqqqqBritannia Industries Limited
+/india/stockpricequote/pharmaceuticals/cadilahealthcare/CHC 434843qqqqqqCadila Healthcare Limited
+/india/stockpricequote/oildrillingandexploration/cairnindia/CI37 43493337qqqqqqCairn India Limited
+/india/stockpricequote/financehousing/canfinhomes/CFH 434648qqqqqqCan Fin Homes Limited
+/india/stockpricequote/bankspublicsector/canarabank/CB06 43423036qqqqqqCanara Bank
+/india/stockpricequote/financegeneral/capitalfirst/FCH 464348qqqqqqCapital First Limited
+/india/stockpricequote/abrasives/carborundumuniversal/CU 4355qqqqqqCarborundum Universal Limited
+/india/stockpricequote/lubricants/castrolindia/CI01 43493031qqqqqqCastrol India Limited
+/india/stockpricequote/bankspublicsector/centralbankindia/CBO01 43424f3031qqqqqqCentral Bank of India
+/india/stockpricequote/diversified/centurytextilesindustries/CTI 435449qqqqqqCentury Textiles & Industries Limited
+/india/stockpricequote/textilesmanmade/centuryenka/CE 4345qqqqqqCentury Enka Limited
+/india/stockpricequote/powergenerationdistribution/cesc/CES 434553qqqqqqCESC Limited
+/india/stockpricequote/fertilisers/chambalfertiliserschemicals/CFC 434643qqqqqqChambal Fertilizers & Chemicals Limited
+/india/stockpricequote/refineries/chennaipetroleumcorporation/CPC02 4d52qqqqqqChennai Petroleum Corporation Limited
+/india/stockpricequote/financeleasinghirepurchase/cholamandalaminvestmentfinancecompany/CDB 4349463031qqqqqqCholamandalam Investment and Finance Company Limited
+/india/stockpricequote/pharmaceuticals/cipla/C 43qqqqqqCipla Limited
+/india/stockpricequote/banksprivatesector/cityunionbank/CUB 435542qqqqqqCity Union Bank Limited
+/india/stockpricequote/dyespigments/clariantchemicalsindia/CCI08 4343qqqqqqClariant Chemicals (India) Limited
+/india/stockpricequote/computershardware/cmc/CMC 434d43qqqqqqCMC Limited
+/india/stockpricequote/miningminerals/coalindia/CI11 43493239qqqqqqCoal India Limited
+/india/stockpricequote/personalcare/colgatepalmoliveindia/CPI 435049qqqqqqColgate Palmolive (India) Limited
+/india/stockpricequote/transportlogistics/containercorporationindia/CCI 434349qqqqqqContainer Corporation of India Limited
+/india/stockpricequote/computerssoftwaretraining/coreeducationtechnologies/CPT 435054qqqqqqCORE Education & Technologies Limited
+/india/stockpricequote/fertilisers/coromandelinternational/CI45 43463036qqqqqqCoromandel International Limited
+/india/stockpricequote/bankspublicsector/corporationbank/CB 4342qqqqqqCorporation Bank
+/india/stockpricequote/miscellaneous/coxkings/CK 434bqqqqqqCox & Kings Limited
+/india/stockpricequote/miscellaneous/crisil/CRI 435249qqqqqqCRISIL Limited
+/india/stockpricequote/electricequipment/cromptongreaves/CG 4347qqqqqqCrompton  Greaves Limited
+/india/stockpricequote/engines/cumminsindia/CI02 43493032qqqqqqCummins India Limited
+/india/stockpricequote/computerssoftware/cyient/IE07 49453037qqqqqqCyient Limited
+/india/stockpricequote/personalcare/daburindia/DI 4449qqqqqqDabur India Limited
+/india/stockpricequote/mediaentertainment/dbcorp/C13 433133qqqqqqD.B.Corp Limited
+/india/stockpricequote/constructioncontractingrealestate/dbrealty/DR 4452qqqqqqD B Realty Limited
+/india/stockpricequote/banksprivatesector/dcbbank/DCB01 4443423031qqqqqqDCB BANK LIMITED
+/india/stockpricequote/diversified/dcmshriram/DCM02 44434d3032qqqqqqDCM Shriram Limited
+/india/stockpricequote/petrochemicals/dcw/DCW 444357qqqqqqDCW Limited
+/india/stockpricequote/fertilisers/deepakfertilizerspetrochemicalscoprn/DFP 444650qqqqqqDeepak Fertilizers and Petrochemicals Corporation Limited
+/india/stockpricequote/financegeneral/deltacorp/DC11 4157qqqqqqDelta Corp Limited
+/india/stockpricequote/mediaentertainment/dennetworks/DN02 444e3032qqqqqqDen Networks Limited
+/india/stockpricequote/bankspublicsector/denabank/DB 4442qqqqqqDena Bank
+/india/stockpricequote/financehousing/dewanhousingfinancecorporation/DHF 444846qqqqqqDewan Housing Finance Corporation Limited
+/india/stockpricequote/banksprivatesector/dhanlaxmibank/DB01 44423031qqqqqqDhanlaxmi Bank Limited
+/india/stockpricequote/pharmaceuticals/dishmanpharmaceuticalschemicals/DPC02 4450433032qqqqqqDishman Pharmaceuticals and Chemicals Limited
+/india/stockpricequote/pharmaceuticals/divislaboratories/DL03 444c3033qqqqqqDivi's Laboratories Limited
+/india/stockpricequote/constructioncontractingrealestate/dlf/D04 443034qqqqqqDLF Limited
+/india/stockpricequote/pharmaceuticals/drdatsonlabs/AL02 414c3135qqqqqqDr. Datson's Labs Limited
+/india/stockpricequote/pharmaceuticals/drreddyslaboratories/DRL 44524cqqqqqqDr. Reddy's Laboratories Limited
+/india/stockpricequote/miscellaneous/dredgingcorporationindia/DCI 444349qqqqqqDredging Corporation of India Limited
+/india/stockpricequote/pumps/dynamatictechnologies/DT05 44543035qqqqqqDynamatic Technologies Limited
+/india/stockpricequote/computerssoftwaremediumsmall/eclerxservices/eS06 45533037qqqqqqeClerx Services Limited
+/india/stockpricequote/financegeneral/edelweissfinancialservices/EC01 45433036qqqqqqEdelweiss Financial Services Limited
+/india/stockpricequote/computerssoftwaretraining/educompsolutions/ES8 455338qqqqqqEducomp Solutions Limited
+/india/stockpricequote/autolcvshcvs/eichermotors/EM 454dqqqqqqEicher Motors Limited
+/india/stockpricequote/sugar/eidparryindia/EID 454944qqqqqqEID Parry India Limited
+/india/stockpricequote/hotels/eih/EIH 454948qqqqqqEIH Limited
+/india/stockpricequote/pharmaceuticals/elderpharmaceuticals/EP9 455039qqqqqqElder Pharmaceuticals Limited
+/india/stockpricequote/castingsforgings/electrosteelcastings/EC02 45433032qqqqqqElectrosteel Castings Limited
+/india/stockpricequote/compressors/elgiequipments/EE01 45453031qqqqqqElgi Equipments Limited
+/india/stockpricequote/personalcare/emami/E06 453035qqqqqqEmami Limited
+/india/stockpricequote/infrastructuregeneral/engineersindia/EI14 45493134qqqqqqEngineers India Limited
+/india/stockpricequote/mediaentertainment/entertainmentnetworkindia/ENI 454e49qqqqqqEntertainment Network (India) Limited
+/india/stockpricequote/infrastructuregeneral/erainfraengineering/EIE01 4543493031qqqqqqEra Infra Engineering Limited
+/india/stockpricequote/mediaentertainment/erosinternationalmedia/EIM 45494dqqqqqqEros International Media Limited
+/india/stockpricequote/electrodesgraphite/esabindia/EI06 45493036qqqqqqEsab India Limited
+/india/stockpricequote/autotractors/escorts/E 45qqqqqqEscorts Limited
+/india/stockpricequote/packaging/essdeealuminium/ESS02 4553533032qqqqqqEss Dee Aluminium Limited
+/india/stockpricequote/refineries/essaroil/EO01 454f3031qqqqqqEssar Oil Limited
+/india/stockpricequote/packaging/esselpropack/EP11 4550qqqqqqEssel Propack Limited
+/india/stockpricequote/autoancillaries/exideindustries/EI 4549qqqqqqExide Industries Limited
+/india/stockpricequote/bearings/fagbearingsindia/FAG 465042qqqqqqFAG Bearings India Limited
+/india/stockpricequote/pharmaceuticals/fdc/FDC 464443qqqqqqFDC Limited
+/india/stockpricequote/banksprivatesector/federalbank/FB 4642qqqqqqThe Federal Bank  Limited
+/india/stockpricequote/autoancillaries/federalmogulgoetze/FMG 47493039qqqqqqFederal-Mogul Goetze (India) Limited.
+/india/stockpricequote/computerssoftware/financialtechnologies/FT02 57543031qqqqqqFinancial Technologies (India) Limited
+/india/stockpricequote/cablestelephone/finolexcables/FC01 46433031qqqqqqFinolex Cables Limited
+/india/stockpricequote/petrochemicals/finolexindustries/FI 4649qqqqqqFinolex Industries Limited
+/india/stockpricequote/computerssoftwaremediumsmall/firstsourcesolutions/FS07 46533037qqqqqqFirstsource Solutions Limited
+/india/stockpricequote/packaging/flexituffinternational/FI08 46493139qqqqqqFlexituff International Limited
+/india/stockpricequote/hospitalsmedicalservices/fortishealthcare/FH 4648qqqqqqFortis Healthcare Limited
+/india/stockpricequote/retail/futureretail/PR03 504649qqqqqqFuture Retail Limited
+/india/stockpricequote/autoancillaries/gabrielindia/GI02 47493032qqqqqqGabriel India Limited
+/india/stockpricequote/oildrillingandexploration/gailindia/GAI 474149qqqqqqGAIL (India) Limited
+/india/stockpricequote/constructioncontractingcivil/gammonindia/GI03 47493033qqqqqqGammon India Limited
+/india/stockpricequote/constructioncontractingcivil/gammoninfrastructureprojects/GIP01 4749503031qqqqqqGammon Infrastructure Projects Limited
+/india/stockpricequote/miscellaneous/gatewaydistriparks/GD01 47443031qqqqqqGateway Distriparks Limited
+/india/stockpricequote/couriers/gati/G04 47433138qqqqqqGATI Limited
+/india/stockpricequote/shipping/greateasternshippingcompany/GES 474553qqqqqqThe Great Eastern Shipping Company Limited
+/india/stockpricequote/financegeneral/geojitbnpparibasfinancialservices/GBN01 47533132qqqqqqGeojit BNP Paribas Financial Services Limited
+/india/stockpricequote/computerssoftware/geometric/G03 475353qqqqqqGeometric Limited
+/india/stockpricequote/personalcare/gilletteindia/GI22 495350qqqqqqGillette India Limited
+/india/stockpricequote/diamondcuttingpreciousmetalsjewellery/gitanjaligems/GG03 47473033qqqqqqGitanjali Gems Limited
+/india/stockpricequote/foodprocessing/glaxosmithklineconsumerhealthcare/GSC04 5342qqqqqqGlaxoSmithKline Consumer Healthcare Limited
+/india/stockpricequote/pharmaceuticals/glaxosmithklinepharmaceuticals/GSK 4749qqqqqqGlaxoSmithKline Pharmaceuticals Limited
+/india/stockpricequote/pharmaceuticals/glenmarkpharma/GP08 47503038qqqqqqGlenmark Pharmaceuticals Limited
+/india/stockpricequote/infrastructuregeneral/gmrinfrastructure/GI27 47493237qqqqqqGMR Infrastructure Limited
+/india/stockpricequote/fertilisers/gujaratnarmadavalleyfertilizerschemicals/GNV 474e56qqqqqqGujarat Narmada Valley Fertilizers and Chemicals Limited
+/india/stockpricequote/cigarettes/godfreyphillipsindia/GPI 475049qqqqqqGodfrey Phillips India Limited
+/india/stockpricequote/personalcare/godrejconsumerproducts/GCP 474350qqqqqqGodrej Consumer Products Limited
+/india/stockpricequote/personalcare/godrejindustries/GI23 4753qqqqqqGodrej Industries Limited
+/india/stockpricequote/constructioncontractingrealestate/godrejproperties/GP11 47503131qqqqqqGodrej Properties Limited
+/india/stockpricequote/shipping/goloffshore/GO 474fqqqqqqGOL Offshore Limited
+/india/stockpricequote/electrodesgraphite/graphiteindia/GI13 47493133qqqqqqGraphite India Limited
+/india/stockpricequote/diversified/grasimindustries/GI01 47493031qqqqqqGrasim Industries Limited
+/india/stockpricequote/engines/greavescotton/GC20 47qqqqqqGreaves Cotton Limited
+/india/stockpricequote/financehousing/gruhfinance/GRU 475255qqqqqqGruh Finance Limited
+/india/stockpricequote/fertilisers/gujaratstatefertilizerschemicals/GSF 475346qqqqqqGujarat State Fertilizers & Chemicals Limited
+/india/stockpricequote/telecommunicationsequipment/gtlinfrastructure/GTL02 47544c3031qqqqqqGTL Infrastructure Limited
+/india/stockpricequote/chemicals/gujaratalkalieschemicals/GAC01 4741433031qqqqqqGujarat Alkalies and Chemicals Limited
+/india/stockpricequote/chemicals/gujaratfluorochemicals/GF07 47463037qqqqqqGujarat Fluorochemicals Limited
+/india/stockpricequote/oildrillingandexploration/gujaratgascompany/GGC 474743qqqqqqGujarat Gas Company Limited
+/india/stockpricequote/chemicals/gujaratheavychemicals/GHC 474843qqqqqqGHCL Limited
+/india/stockpricequote/powergenerationdistribution/gujaratindustriespowerco/GIP 474950qqqqqqGujarat Industries Power Company Limited
+/india/stockpricequote/miningminerals/gujaratmineraldevelopmentcorporation/GMD 474d44qqqqqqGujarat Mineral Development Corporation Limited
+/india/stockpricequote/miscellaneous/gujaratnrecoke/GNR 474e52qqqqqqGujarat NRE Coke Limited
+/india/stockpricequote/oildrillingandexploration/gujaratstatepetronet/GSP02 4753503032qqqqqqGujarat State Petronet Limited
+/india/stockpricequote/shipping/gujaratpipavavport/GPP03 4750503033qqqqqqGujarat Pipavav Port Limited
+/india/stockpricequote/powergenerationdistribution/gvkpowerinfrastructure/GVK 47564bqqqqqqGVK Power & Infrastructure Limited
+/india/stockpricequote/mediaentertainment/hathwaycabledatacom/HCD 484344qqqqqqHathway Cable & Datacom Limited
+/india/stockpricequote/electricequipment/havellsindia/HI01 48493031qqqqqqHavells India Limited
+/india/stockpricequote/computershardware/hclinfosystems/HCL 48434cqqqqqqHCL Infosystems Limited
+/india/stockpricequote/computerssoftware/hcltechnologies/HCL02 48434c3032qqqqqqHCL Technologies Limited
+/india/stockpricequote/financehousing/housingdevelopmentfinancecorporation/HDF 484446qqqqqqHousing Development Finance Corporation Limited
+/india/stockpricequote/banksprivatesector/hdfcbank/HDF01 4844463031qqqqqqHDFC Bank Limited
+/india/stockpricequote/constructioncontractingrealestate/housingdevelopmentinfrastructure/HDI 484449qqqqqqHousing Development and Infrastructure Limited
+/india/stockpricequote/electrodesgraphite/heg/HEG 484547qqqqqqHEG Limited
+/india/stockpricequote/foodprocessing/heritagefoods/HFI 484649qqqqqqHeritage Foods Limited
+/india/stockpricequote/auto23wheelers/heromotocorp/HHM 48484dqqqqqqHero MotoCorp Limited
+/india/stockpricequote/computerssoftware/hexawaretechnologies/HT02 41qqqqqqHexaware Technologies Limited
+/india/stockpricequote/telecommunicationsequipment/himachalfuturisticcommunication/HFC 484643qqqqqqHimachal Futuristic Communications Limited
+/india/stockpricequote/textilessyntheticsilk/himatsingkaseide/HS 4853qqqqqqHimatsingka Seide Limited
+/india/stockpricequote/constructioncontractingcivil/hindustanconstructioncompany/HCC 484343qqqqqqHindustan Construction Company Limited
+/india/stockpricequote/metalsnonferrous/hindustancopper/HC07 48433037qqqqqqHindustan Copper Limited
+/india/stockpricequote/metalsnonferrous/hindustanzinc/HZ 485aqqqqqqHindustan Zinc Limited
+/india/stockpricequote/aluminium/hindalcoindustries/HI 48qqqqqqHindalco Industries Limited
+/india/stockpricequote/oildrillingandexploration/hindustanoilexplorationcompany/HOE01 484f453031qqqqqqHindustan Oil Exploration Company Limited
+/india/stockpricequote/telecommunicationsequipment/honeywellautomation/HA04 5448qqqqqqHoneywell Automation India Limited
+/india/stockpricequote/hotels/hotelleelaventure/HLV 484c56qqqqqqHotel Leela Venture Limited
+/india/stockpricequote/refineries/hindustanpetroleumcorporation/HPC 485043qqqqqqHindustan Petroleum Corporation Limited
+/india/stockpricequote/ceramicsgranite/hsil/HSI02 485349qqqqqqHSIL Limited
+/india/stockpricequote/mediaentertainment/htmedia/HT 4854qqqqqqHT Media Limited
+/india/stockpricequote/constructioncontractingrealestate/hubtown/AC24 414eqqqqqqHubtown Limited
+/india/stockpricequote/personalcare/hindustanunilever/HU 484cqqqqqqHindustan Unilever Limited
+/india/stockpricequote/banksprivatesector/icicibank/ICI02 4943493032qqqqqqICICI Bank Limited
+/india/stockpricequote/miscellaneous/icra/ICR 494352qqqqqqICRA Limited
+/india/stockpricequote/bankspublicsector/idbibank/IDB05 494442qqqqqqIDBI Bank Limited
+/india/stockpricequote/telecommunicationsservice/ideacellular/IC8 494338qqqqqqIdea Cellular Limited
+/india/stockpricequote/financetermlendinginstitutions/idfc/IDF 494446qqqqqqIDFC Limited
+/india/stockpricequote/financetermlendinginstitutions/ifci/IFC02 494643qqqqqqIFCI Limited
+/india/stockpricequote/oildrillingandexploration/indraprasthagas/IG04 49473034qqqqqqIndraprastha Gas Limited
+/india/stockpricequote/financegeneral/iiflholdings/II15 49493135qqqqqqIIFL Holdings Limited
+/india/stockpricequote/constructioncontractingcivil/ilandfsengineeringconstructioncompany/MI50 4d493335qqqqqqIL&FS Engineering and Construction Company Limited
+/india/stockpricequote/infrastructuregeneral/ilandfstransportationnetworks/ITN 49544eqqqqqqIL&FS Transportation Networks Limited
+/india/stockpricequote/cementmajor/indiacements/IC 4943qqqqqqThe India Cements Limited
+/india/stockpricequote/chemicals/indiaglycols/IG 4947qqqqqqIndia Glycols Limited
+/india/stockpricequote/powergenerationdistribution/indiabullspower/IP09 49503038qqqqqqIndiabulls Power Limited
+/india/stockpricequote/constructioncontractingrealestate/indiabullsrealestate/IRE01 4952453031qqqqqqIndiabulls Real Estate Limited
+/india/stockpricequote/financeinvestments/indiabullssecurities/IS13 49533038qqqqqqIndiabulls Securities Limited
+/india/stockpricequote/bankspublicsector/indianbank/IB04 49423034qqqqqqIndian Bank
+/india/stockpricequote/hotels/indianhotelscompany/IHC 494843qqqqqqThe Indian Hotels Company Limited
+/india/stockpricequote/miningminerals/indianmetalsferroalloys/IMF01 494d463031qqqqqqIndian Metals & Ferro Alloys Limited
+/india/stockpricequote/hospitalsmedicalservices/indraprasthamedicalcorporation/IMC03 494d433033qqqqqqIndraprastha Medical Corporation Limited
+/india/stockpricequote/banksprivatesector/indusindbank/IIB 494942qqqqqqIndusInd Bank Limited
+/india/stockpricequote/computerssoftware/infinitecomputersolutionsindia/ICS01 494353qqqqqqInfinite Computer Solutions (India) Limited
+/india/stockpricequote/miscellaneous/infoedgeindia/IEI01 4945493031qqqqqqInfo Edge (India) Limited
+/india/stockpricequote/computerssoftware/infosys/IT 4954qqqqqqInfosys Limited
+/india/stockpricequote/banksprivatesector/ingvysyabank/ING 56423032qqqqqqING Vysya Bank Limited
+/india/stockpricequote/compressors/ingersollrandindia/IRI01 4952493031qqqqqqIngersoll Rand (India) Limited
+/india/stockpricequote/steeltubespipes/innoventiveindustries/II02 49493138qqqqqqInnoventive Industries Limited
+/india/stockpricequote/bankspublicsector/indianoverseasbank/IOB 494f42qqqqqqIndian Overseas Bank
+/india/stockpricequote/refineries/indianoilcorporation/IOC 494f43qqqqqqIndian Oil Corporation Limited
+/india/stockpricequote/pharmaceuticals/ipcalaboratories/IL 494cqqqqqqIPCA Laboratories Limited
+/india/stockpricequote/infrastructuregeneral/irbinfrastructuredevelopers/IID01 4949443031qqqqqqIRB Infrastructure Developers Limited
+/india/stockpricequote/cigarettes/itc/ITC 495443qqqqqqITC Limited
+/india/stockpricequote/constructioncontractingcivil/ivrcl/IVR 495652qqqqqqIVRCL Limited
+/india/stockpricequote/constructioncontractingcivil/jkumarinfraprojects/KI01 4b493139qqqqqqJ.Kumar Infraprojects Limited
+/india/stockpricequote/mediaentertainment/jagranprakashan/JP12 4a503132qqqqqqJagran Prakashan Limited
+/india/stockpricequote/steelgpgcsheets/jaicorp/JC08 4a433031qqqqqqJai Corp Limited
+/india/stockpricequote/plastics/jainirrigationsystems/JIS02 4a49533032qqqqqqJain Irrigation Systems Limited
+/india/stockpricequote/infrastructuregeneral/jaiprakashassociates/JA02 4a413032qqqqqqJaiprakash Associates Limited
+/india/stockpricequote/powergenerationdistribution/jaiprakashpowerventures/JHP01 4a48503031qqqqqqJaiprakash Power Ventures Limited
+/india/stockpricequote/infrastructuregeneral/jaypeeinfratech/JI09 4a493037qqqqqqJaypee Infratech Limited
+/india/stockpricequote/pharmaceuticals/jbchemicalspharmaceuticals/JBC01 4a4243qqqqqqJB Chemicals & Pharmaceuticals Limited
+/india/stockpricequote/textilesmanmade/jbfindustries/JBF 4a4246qqqqqqJBF Industries Limited
+/india/stockpricequote/steeltubespipes/jindalsaw/JS08 53503039qqqqqqJindal Saw Limited
+/india/stockpricequote/steelmediumsmall/jindalstainless/JSL01 4a533037qqqqqqJindal Stainless Limited
+/india/stockpricequote/steelspongeiron/jindalsteelpower/JSP 4a5350qqqqqqJindal Steel & Power Limited
+/india/stockpricequote/banksprivatesector/jammukashmirbank/JKB 4a4b42qqqqqqThe Jammu & Kashmir Bank Limited
+/india/stockpricequote/cementmajor/jklakshmicement/JKL01 4a4b43qqqqqqJK Lakshmi Cement Limited
+/india/stockpricequote/tyres/jktyreindustries/JKT01 4a4b49qqqqqqJK Tyre & Industries Limited
+/india/stockpricequote/financeinvestments/jmfinancial/JMF 4a4d53qqqqqqJM Financial Limited
+/india/stockpricequote/powergenerationdistribution/jswenergy/JE01 4a453032qqqqqqJSW Energy Limited
+/india/stockpricequote/financeinvestments/jswholdings/JSW 4a5357qqqqqqJSW Holdings Limited
+/india/stockpricequote/steellarge/jswsteel/JSW01 4a5653qqqqqqJSW Steel Limited
+/india/stockpricequote/miscellaneous/jubilantfoodworks/JF04 4a463034qqqqqqJubilant Foodworks Limited
+/india/stockpricequote/pharmaceuticals/jubilantlifesciences/JO03 564f43qqqqqqJubilant Life Sciences Limited
+/india/stockpricequote/powertransmissionequipment/jyotistructures/JS03 4a533033qqqqqqJyoti Structures Limited
+/india/stockpricequote/ceramicsgranite/kajariaceramics/KC06 4b433036qqqqqqKajaria Ceramics Limited
+/india/stockpricequote/powertransmissionequipment/kalpatarupowertransmission/KPT 4b5054qqqqqqKalpataru Power Transmission Limited
+/india/stockpricequote/paintsvarnishes/kansainerolacpaints/KNP 474e50qqqqqqKansai Nerolac Paints Limited
+/india/stockpricequote/banksprivatesector/karnatakabank/KB04 4b423034qqqqqqThe Karnataka Bank Limited
+/india/stockpricequote/banksprivatesector/karurvysyabank/KVB 4b5642qqqqqqKarur Vysya Bank Limited
+/india/stockpricequote/miscellaneous/karuturiglobal/KG03 4b463130qqqqqqKaruturi Global Limited
+/india/stockpricequote/miscellaneous/kaveriseedcompany/KSC01 4b53433031qqqqqqKaveri Seed Company Limited
+/india/stockpricequote/cementmajor/kcp/KCP 4b4350qqqqqqKCP Limited
+/india/stockpricequote/powertransmissionequipment/kecinternational/KEC04 4b45433033qqqqqqKEC International Limited
+/india/stockpricequote/diversified/kesoramindustries/KI08 4b493038qqqqqqKesoram Industries Limited
+/india/stockpricequote/retail/kewalkiranclothing/KKC02 4b4b433032qqqqqqKewal Kiran Clothing Limited
+/india/stockpricequote/constructioncontractingrealestate/koltepatildevelopers/KD07 4b443037qqqqqqKolte - Patil Developers Limited
+/india/stockpricequote/banksprivatesector/kotakmahindrabank/KMB 4b4d46qqqqqqKotak Mahindra Bank Limited
+/india/stockpricequote/computerssoftwaremediumsmall/kpittechnologies/KPI02 4b50493031qqqqqqKPIT Technologies Limited
+/india/stockpricequote/pumps/ksbpumps/KSB 4b5342qqqqqqKSB Pumps Limited
+/india/stockpricequote/powergenerationdistribution/kskenergyventures/KEV 4b4556qqqqqqKSK Energy Ventures Limited
+/india/stockpricequote/financeinvestments/ltfinanceholdings/LFH 4c4648qqqqqqL&T Finance Holdings Limited
+/india/stockpricequote/textilesmachinery/lakshmimachineworks/LMW 4c4d57qqqqqqLakshmi Machine Works Limited
+/india/stockpricequote/banksprivatesector/lakshmivilasbank/LVB 4c5642qqqqqqLakshmi Vilas Bank Limited
+/india/stockpricequote/infrastructuregeneral/lancoinfratech/LI10 4c493130qqqqqqLanco Infratech Limited
+/india/stockpricequote/infrastructuregeneral/larsentoubro/LT 4c54qqqqqqLarsen & Toubro Limited
+/india/stockpricequote/financehousing/lichousingfinance/LIC 4c4943qqqqqqLIC Housing Finance Limited
+/india/stockpricequote/chemicals/lindeindia/BOC 424f43qqqqqqLinde India Limited
+/india/stockpricequote/textilesreadymadeapparels/lovablelingerie/LL04 4c4c3035qqqqqqLovable Lingerie Limited
+/india/stockpricequote/pharmaceuticals/lupin/L 4c433033qqqqqqLupin Limited
+/india/stockpricequote/autocarsjeeps/mahindramahindra/MM 4d4dqqqqqqMahindra & Mahindra Limited
+/india/stockpricequote/financeleasinghirepurchase/mahindramahindrafinancialservices/MMF04 4d4d463034qqqqqqMahindra & Mahindra Financial Services Limited
+/india/stockpricequote/financeleasinghirepurchase/magmafincorp/MF20 4d4c3037qqqqqqMagma Fincorp Limited
+/india/stockpricequote/auto23wheelers/maharashtrascooters/MS01 4d533031qqqqqqMaharashtra Scooters Limited
+/india/stockpricequote/steeltubespipes/maharashtraseamless/MS02 4d533032qqqqqqMaharashtra Seamless Limited
+/india/stockpricequote/hotels/mahindraholidaysresortsindia/MHR 4d4852qqqqqqMahindra Holidays & Resorts India Limited
+/india/stockpricequote/constructioncontractingcivil/mahindralifespacedevelopers/MLD 47433136qqqqqqMahindra Lifespace Developers Limited
+/india/stockpricequote/steeltubespipes/manindustriesindia/MII 4d4949qqqqqqMan Industries (India) Limited
+/india/stockpricequote/constructioncontractingcivil/maninfraconstruction/MI37 4d493337qqqqqqMan Infraconstruction Limited
+/india/stockpricequote/textilesgeneral/mandhanaindustries/MI24 4d493338qqqqqqMandhana Industries Limited
+/india/stockpricequote/fertilisers/mangalorechemicalsfertilisers/MCF01 4d43463031qqqqqqMangalore Chemicals & Fertilizers Limited
+/india/stockpricequote/autocarsjeeps/marutisuzukiindia/MS24 4d553031qqqqqqMaruti Suzuki India Limited
+/india/stockpricequote/computerssoftware/mastek/M 4dqqqqqqMastek Limited
+/india/stockpricequote/packaging/maxindia/MI 4d49qqqqqqMax India Limited
+/india/stockpricequote/plantationsteacoffee/mcleodrusselindia/MRI02 4d52493032qqqqqqMcleod Russel India Limited
+/india/stockpricequote/shipping/mercator/ML02 4d4c3032qqqqqqMercator Limited
+/india/stockpricequote/pharmaceuticals/merck/M12 454d49qqqqqqMerck Limited
+/india/stockpricequote/computerssoftware/mindtree/MT13 4d433230qqqqqqMindTree Limited
+/india/stockpricequote/trading/mmtc/MMT 4d4d54qqqqqqMMTC Limited
+/india/stockpricequote/miningminerals/moil/M18 4d3131qqqqqqMOIL Limited
+/india/stockpricequote/steelspongeiron/monnetispat/MI16 4d493136qqqqqqMonnet Ispat and Energy Limited
+/india/stockpricequote/pesticidesagrochemicals/monsantoindia/MI39 4d43493031qqqqqqMonsanto India Limited
+/india/stockpricequote/autoancillaries/mothersonsumisystems/MSS01 4d53533031qqqqqqMotherson Sumi Systems Limited
+/india/stockpricequote/financegeneral/motilaloswalfinancialservices/MOF01 4d4f463031qqqqqqMotilal Oswal Financial Services Limited
+/india/stockpricequote/computerssoftware/mphasis/MB02 42464cqqqqqqMphasiS Limited
+/india/stockpricequote/tyres/mrf/MRF 4d5246qqqqqqMRF Limited
+/india/stockpricequote/refineries/mangalorerefinerypetrochemicals/MRP 4d5250qqqqqqMangalore Refinery and Petrochemicals Limited
+/india/stockpricequote/computerssoftwaretraining/mteducare/ME14 4d453136qqqqqqMT Educare Limited
+/india/stockpricequote/telecommunicationsservice/mahanagartelephonenigam/MTN 4d544eqqqqqqMahanagar Telephone Nigam Limited
+/india/stockpricequote/financeinvestments/muthootfinance/MF10 4d463139qqqqqqMuthoot Finance Limited
+/india/stockpricequote/aluminium/nationalaluminiumcompany/NAC 4e4143qqqqqqNational Aluminium Company Limited
+/india/stockpricequote/diversified/navabharatventures/NBV 4e42463031qqqqqqNava Bharat Ventures Limited
+/india/stockpricequote/printingstationery/navneeteducation/NP01 4e50qqqqqqNavneet Education Limited
+/india/stockpricequote/constructioncontractingcivil/ncc/NCC01 4e43433031qqqqqqNCC Limited
+/india/stockpricequote/mediaentertainment/newdelhitelevision/NDT01 4e44543031qqqqqqNew Delhi Television Limited
+/india/stockpricequote/financegeneral/network18mediainvestments/NMI 4e463037qqqqqqNetwork18 Media & Investments Limited
+/india/stockpricequote/powergenerationdistribution/neyvelilignitecorporation/NLC 4e4c43qqqqqqNeyveli Lignite Corporation Limited
+/india/stockpricequote/powergenerationdistribution/nhpc/N07 4e3037qqqqqqNHPC Limited
+/india/stockpricequote/computerssoftwaretraining/niit/NII 4e4949qqqqqqNIIT Limited
+/india/stockpricequote/computerssoftware/niittechnologies/NII02 4e49493032qqqqqqNIIT Technologies Limited
+/india/stockpricequote/miningminerals/nmdc/NMD02 4e4d443031qqqqqqNMDC Limited
+/india/stockpricequote/constructioncontractingcivil/noidatollbridgecompany/NTB 4e5442qqqqqqNoida Toll Bridge Company Limited
+/india/stockpricequote/powergenerationdistribution/ntpc/NTP 4e5450qqqqqqNTPC Limited
+/india/stockpricequote/constructioncontractingrealestate/oberoirealty/OR 4f52qqqqqqOberoi Realty Limited
+/india/stockpricequote/oildrillingandexploration/oilindia/OI13 4f493133qqqqqqOil India Limited
+/india/stockpricequote/constructioncontractingrealestate/omaxe/O02 4f3032qqqqqqOmaxe Limited
+/india/stockpricequote/oildrillingandexploration/oilnaturalgascorporation/ONG 4f4e47qqqqqqOil & Natural Gas Corporation Limited
+/india/stockpricequote/hospitalsmedicalservices/optocircuitsindia/OCI01 4f43493031qqqqqqOpto Circuits (India) Limited
+/india/stockpricequote/computerssoftware/oraclefinancialservicessoftware/OFS01 533131qqqqqqOracle Financial Services Software Limited
+/india/stockpricequote/constructioncontractingrealestate/orbitcorporation/OC09 4f433039qqqqqqOrbit Corporation Limited
+/india/stockpricequote/pharmaceuticals/orchidchemicalspharmaceuticals/OCP 4f4350qqqqqqOrchid Chemicals & Pharmaceuticals Limited
+/india/stockpricequote/bankspublicsector/orientalbankcommerce/OBC 4f4243qqqqqqOriental Bank of Commerce
+/india/stockpricequote/miningminerals/orissamineralsdevelopmentcompany/OMD 4f4d44qqqqqqThe Orissa Minerals Development Company Limited
+/india/stockpricequote/fertilisers/oswalchemicalsfertilisers/OCF 4f4346qqqqqqOswal Chemicals & Fertilizers Limited
+/india/stockpricequote/personalcare/proctergamblehygienehealthcare/PGH 504749qqqqqqProcter & Gamble Hygiene and Health Care Limited
+/india/stockpricequote/textilesreadymadeapparels/pageindustries/PI35 50493335qqqqqqPage Industries Limited
+/india/stockpricequote/constructioncontractingrealestate/parsvnathdevelopers/PD05 50443035qqqqqqParsvnath Developers Limited
+/india/stockpricequote/constructioncontractingcivil/patelengineeringcompany/PEC 504543qqqqqqPatel Engineering Limited
+/india/stockpricequote/constructioncontractinghousing/peninsulaland/PL10 4d4753qqqqqqPeninsula Land Limited
+/india/stockpricequote/computerssoftware/persistentsystems/PS15 50533135qqqqqqPersistent Systems Limited
+/india/stockpricequote/oildrillingandexploration/petronetlng/PLN 504c4eqqqqqqPetronet LNG Limited
+/india/stockpricequote/pharmaceuticals/pfizer/P 50qqqqqqPfizer Limited
+/india/stockpricequote/textilesspinningcottonblended/phoenixmills/PM02 504d3032qqqqqqThe Phoenix Mills Limited
+/india/stockpricequote/chemicals/pidiliteindustries/PI11 50493131qqqqqqPidilite Industries Limited
+/india/stockpricequote/shipping/pipavavdefenceoffshoreengineeringcompany/PS04 50533134qqqqqqPipavav Defence and Offshore Engineering Company Limited
+/india/stockpricequote/pharmaceuticals/piramalenterprises/PH05 4e503037qqqqqqPiramal Enterprises Limited
+/india/stockpricequote/bankspublicsector/punjabnationalbank/PNB05 504e423035qqqqqqPunjab National Bank
+/india/stockpricequote/computerssoftware/polarisfinancialtechnology/PSL01 50534c3031qqqqqqPolaris Financial Technology Limited
+/india/stockpricequote/financetermlendinginstitutions/powerfinancecorporation/PFC02 5046433032qqqqqqPower Finance Corporation Limited
+/india/stockpricequote/powergenerationdistribution/powergridcorporationindia/PGC 504743qqqqqqPower Grid Corporation of India Limited
+/india/stockpricequote/engineeringheavy/prajindustries/PI17 50493137qqqqqqPraj Industries Limited
+/india/stockpricequote/diversified/prakashindustries/PI18 50493138qqqqqqPrakash Industries Limited
+/india/stockpricequote/constructioncontractingrealestate/prestigeestatesprojects/PEP02 5045503032qqqqqqPrestige Estates Projects Limited
+/india/stockpricequote/mediaentertainment/primefocus/PF13 50463133qqqqqqPrime Focus Limited
+/india/stockpricequote/cementmajor/prismcement/PC 5043qqqqqqPrism Cement Limited
+/india/stockpricequote/steeltubespipes/psl/PSL 50534cqqqqqqPSL Limited
+/india/stockpricequote/trading/ptcindia/PTC02 5054433031qqqqqqPTC India Limited
+/india/stockpricequote/infrastructuregeneral/punjlloyd/PL9 504c39qqqqqqPunj Lloyd Limited
+/india/stockpricequote/constructioncontractingrealestate/puravankaraprojects/PP01 50503237qqqqqqPuravankara Projects Limited
+/india/stockpricequote/mediaentertainment/pvr/PVR 505652qqqqqqPVR Limited
+/india/stockpricequote/breweriesdistilleries/radicokhaitan/RK01 524b3031qqqqqqRadico Khaitan Limited
+/india/stockpricequote/mediaentertainment/rajtelevisionnetwork/RTN 52544eqqqqqqRaj Television Network Limited
+/india/stockpricequote/diamondcuttingpreciousmetalsjewellery/rajeshexports/RE07 52453037qqqqqqRajesh Exports Limited
+/india/stockpricequote/pesticidesagrochemicals/rallisindia/RI03 52493033qqqqqqRallis India Limited
+/india/stockpricequote/cementmajor/theramcocements/MC 4d43qqqqqqThe Ramco Cements Limited
+/india/stockpricequote/cementproductsbuildingmaterials/ramcoindustries/RI26 52493236qqqqqqRamco Industries Limited
+/india/stockpricequote/pharmaceuticals/ranbaxylaboratories/RL 524cqqqqqqRanbaxy Laboratories Limited
+/india/stockpricequote/fertilisers/rashtriyachemicalsfertilisers/RCF01 5243463031qqqqqqRashtriya Chemicals and Fertilizers Limited
+/india/stockpricequote/edibleoilssolventextraction/rasoyaproteins/RP22 4d53493038qqqqqqRasoya Proteins Limited
+/india/stockpricequote/textileswoollenworsted/raymond/R 52qqqqqqRaymond Limited
+/india/stockpricequote/financetermlendinginstitutions/ruralelectrificationcorporation/REC02 5245433032qqqqqqRural Electrification Corporation Limited
+/india/stockpricequote/computershardware/redingtonindia/RI37 52493337qqqqqqRedington (India) Limited
+/india/stockpricequote/foodprocessing/reiagro/RA06 52413036qqqqqqRei Agro Limited
+/india/stockpricequote/financeinvestments/reliancecapital/RC 524346qqqqqqReliance Capital Limited
+/india/stockpricequote/infrastructuregeneral/relianceindustrialinfrastructure/RII 524949qqqqqqReliance Industrial Infrastructure Limited
+/india/stockpricequote/refineries/relianceindustries/RI 5249qqqqqqReliance Industries Limited
+/india/stockpricequote/telecommunicationsservice/reliancecommunications/RC13 5243563032qqqqqqReliance Communications Limited
+/india/stockpricequote/powergenerationdistribution/relianceinfrastructure/RI38 425345qqqqqqReliance Infrastructure Limited
+/india/stockpricequote/powergenerationdistribution/reliancepower/RP 5250qqqqqqReliance Power Limited
+/india/stockpricequote/financeinvestments/religareenterprises/RE09 52453039qqqqqqReligare Enterprises Limited
+/india/stockpricequote/computerssoftware/roltaindia/RI15 52493135qqqqqqRolta India Limited
+/india/stockpricequote/edibleoilssolventextraction/ruchisoyaindustries/RSI 525349qqqqqqRuchi Soya Industries Limited
+/india/stockpricequote/textilessyntheticsilk/skumarsnationwide/SKN 534b53qqqqqqS. Kumars Nationwide Limited
+/india/stockpricequote/infrastructuregeneral/sadbhavengineering/SE19 53453139qqqqqqSadbhav Engineering Limited
+/india/stockpricequote/steellarge/steelauthorityindia/SAI 534149qqqqqqSteel Authority of India Limited
+/india/stockpricequote/pharmaceuticals/sanofiindia/AP26 484d52qqqqqqSanofi India Limited
+/india/stockpricequote/bankspublicsector/statebankindia/SBI 534249qqqqqqState Bank of India
+/india/stockpricequote/financeinvestments/seinvestments/SEI03 5345493033qqqqqqS.E. Investments Limited
+/india/stockpricequote/miningminerals/sesasterlite/SG 5347qqqqqqSesa Sterlite Limited
+/india/stockpricequote/engineering/shanthigears/SG04 53473034qqqqqqShanthi Gears Limited
+/india/stockpricequote/pharmaceuticals/shasunpharmaceuticals/SCD 534344qqqqqqShasun Pharmaceuticals Limited
+/india/stockpricequote/shipping/shippingcorporationindia/SCI 534349qqqqqqShipping Corporation Of India Limited
+/india/stockpricequote/retail/shoppersstop/SS51 53533531qqqqqqShoppers Stop Limited
+/india/stockpricequote/cementmajor/shreecements/SC12 53433132qqqqqqShree Cements Limited
+/india/stockpricequote/sugar/shreerenukasugars/SRS03 5352533033qqqqqqShree Renuka Sugars Limited
+/india/stockpricequote/diamondcuttingpreciousmetalsjewellery/shrenujcompany/SC13 53433133qqqqqqShrenuj & Company Limited
+/india/stockpricequote/financeleasinghirepurchase/shriramcityunionfinance/SCU 534355qqqqqqShriram City Union Finance Limited
+/india/stockpricequote/financeleasinghirepurchase/shriramtransportfinancecorporation/STF 535446qqqqqqShriram Transport Finance Company Limited
+/india/stockpricequote/infrastructuregeneral/siemens/S 53qqqqqqSiemens Limited
+/india/stockpricequote/constructioncontractingcivil/simplexinfrastructures/SI82 534350qqqqqqSimplex Infrastructures Limited
+/india/stockpricequote/diversified/sintexindustries/SI27 53493237qqqqqqSintex Industries Limited
+/india/stockpricequote/bearings/skfindia/SKF01 534b46qqqqqqSKF India Limited
+/india/stockpricequote/financegeneral/sksmicrofinance/SM11 534d3135qqqqqqSKS Microfinance Limited
+/india/stockpricequote/constructioncontractingrealestate/sobhadevelopers/SD6 534436qqqqqqSobha Developers Limited
+/india/stockpricequote/computerssoftwaremediumsmall/sonatasoftware/SS42 53533432qqqqqqSonata Software Limited
+/india/stockpricequote/banksprivatesector/southindianbank/SIB 534942qqqqqqThe South Indian Bank Limited
+/india/stockpricequote/financeleasinghirepurchase/sreiinfrastructurefinance/SRE02 535245qqqqqqSREI Infrastructure Finance Limited
+/india/stockpricequote/textilesmanmade/srf/SRF 535246qqqqqqSRF Limited
+/india/stockpricequote/bankspublicsector/statebankbikanerjaipur/SBB02 5342423031qqqqqqState Bank of Bikaner and Jaipur
+/india/stockpricequote/bankspublicsector/statebanktravancore/SBT 534254qqqqqqState Bank of Travancore
+/india/stockpricequote/cablestelephone/sterlitetechnologies/ST20 534f3033qqqqqqSterlite Technologies Limited
+/india/stockpricequote/pharmaceuticals/stridesarcolab/SA10 53413130qqqqqqStrides Arcolab Limited
+/india/stockpricequote/pharmaceuticals/sunpharmaceuticalindustries/SPI 535049qqqqqqSun Pharmaceuticals Industries Limited
+/india/stockpricequote/mediaentertainment/suntvnetwork/STN01 5354563031qqqqqqSun TV Network Limited
+/india/stockpricequote/financeleasinghirepurchase/sundaramfinance/SF20 53463230qqqqqqSundaram Finance Limited
+/india/stockpricequote/fasteners/sundramfasteners/SF23 5346qqqqqqSundram Fasteners Limited
+/india/stockpricequote/constructioncontractingrealestate/sunteckrealty/SR05 49453036qqqqqqSunteck Realty Limited
+/india/stockpricequote/plastics/supremeindustries/SI48 53493438qqqqqqSupreme Industries Limited
+/india/stockpricequote/constructioncontractingcivil/supremeinfrastructureindia/SII03 5349493033qqqqqqSupreme Infrastructure India Limited
+/india/stockpricequote/petrochemicals/supremepetrochem/SP 5350qqqqqqSupreme Petrochem Limited
+/india/stockpricequote/powergenerationdistribution/suzlonenergy/SE17 53453137qqqqqqSuzlon Energy Limited
+/india/stockpricequote/trading/swanenergy/SM09 534d3039qqqqqqSwan Energy Limited
+/india/stockpricequote/engines/swarajengines/SE 5345qqqqqqSwaraj Engines Limited
+/india/stockpricequote/bankspublicsector/syndicatebank/SB9 534239qqqqqqSyndicate Bank
+/india/stockpricequote/paper/tamilnadunewsprintpapers/TNN 544e50qqqqqqTamil Nadu Newsprint & Papers Limited
+/india/stockpricequote/chemicals/tatachemicals/TC 5443qqqqqqTata Chemicals Limited
+/india/stockpricequote/plantationsteacoffee/tatacoffee/TC14 43433233qqqqqqTata Coffee Limited
+/india/stockpricequote/telecommunicationsservice/tatacommunications/TC17 56534eqqqqqqTata Communications Limited
+/india/stockpricequote/computerssoftware/tataelxsi/TE 544549qqqqqqTata Elxsi Limited
+/india/stockpricequote/plantationsteacoffee/tataglobalbeverage/TT 5454qqqqqqTata Global Beverages Limited
+/india/stockpricequote/financeinvestments/tatainvestmentcorporation/TIC 544943qqqqqqTata Investment Corporation Limited
+/india/stockpricequote/autolcvshcvs/tatamotors/TM03 54454cqqqqqqTata Motors Limited
+/india/stockpricequote/powergenerationdistribution/tatapowercompany/TPC 545043qqqqqqTata Power Company Limited
+/india/stockpricequote/steelspongeiron/tataspongeiron/TSI 545349qqqqqqTata Sponge Iron Limited
+/india/stockpricequote/steellarge/tatasteel/TIS 544953qqqqqqTata Steel Limited
+/india/stockpricequote/computerssoftware/tataconsultancyservices/TCS 544353qqqqqqTata Consultancy Services Limited
+/india/stockpricequote/engineeringheavy/tdpowersystems/TPS01 545053qqqqqqTD Power Systems Limited
+/india/stockpricequote/computerssoftware/techmahindra/TM4 544d34qqqqqqTech Mahindra Limited
+/india/stockpricequote/electricequipment/technoelectricengineeringcompany/TEE 544545qqqqqqTechno Electric & Engineering Company Limited
+/india/stockpricequote/infrastructuregeneral/thermax/T 54qqqqqqThermax Limited
+/india/stockpricequote/miscellaneous/thomascookindia/TCI 544349qqqqqqThomas Cook  (India)  Limited
+/india/stockpricequote/metalsnonferrous/tinplatecompanyindia/TCI02 5443493032qqqqqqThe Tinplate Company of India Limited
+/india/stockpricequote/miscellaneous/titancompany/TI01 54493031qqqqqqTitan Company Limited
+/india/stockpricequote/pharmaceuticals/torrentpharmaceuticals/TP06 54503036qqqqqqTorrent Pharmaceuticals Limited
+/india/stockpricequote/powergenerationdistribution/torrentpower/TP14 54503133qqqqqqTorrent Power Limited
+/india/stockpricequote/computerssoftwaretraining/treehouseeducationaccessories/THE01 5448453031qqqqqqTree House Education & Accessories Limited
+/india/stockpricequote/retail/trent/T04 4cqqqqqqTrent Limited
+/india/stockpricequote/diamondcuttingpreciousmetalsjewellery/tribhovandasbhimjizaveri/TBZ 54425aqqqqqqTribhovandas Bhimji Zaveri Limited
+/india/stockpricequote/domesticappliances/ttkprestige/TTK02 54544b3032qqqqqqTTK Prestige Limited
+/india/stockpricequote/miscellaneous/tubeinvestmentsindia/TII 544949qqqqqqTube Investments of India Limited
+/india/stockpricequote/telecommunicationsservice/tuliptelecom/TT13 544954qqqqqqTulip Telecom Limited
+/india/stockpricequote/mediaentertainment/tv18broadcast/IBN 47424eqqqqqqTV18 Broadcast Limited
+/india/stockpricequote/auto23wheelers/tvsmotorcompany/TVS 545653qqqqqqTVS Motor Company Limited
+/india/stockpricequote/trading/unitedbreweriesholdings/UBH 5542qqqqqqUnited Breweries (Holdings) Limited
+/india/stockpricequote/bankspublicsector/ucobank/UCO 55434fqqqqqqUCO Bank
+/india/stockpricequote/packaging/uflex/U01 46493038qqqqqqUFLEX Limited
+/india/stockpricequote/cementmajor/ultratechcement/UTC01 555443qqqqqqUltraTech Cement Limited
+/india/stockpricequote/pharmaceuticals/unichemlaboratories/UL02 554c3032qqqqqqUnichem Laboratories Limited
+/india/stockpricequote/bankspublicsector/unionbankindia/UBI01 5542493031qqqqqqUnion Bank of India
+/india/stockpricequote/constructioncontractingcivil/unitech/U 55qqqqqqUnitech Limited
+/india/stockpricequote/breweriesdistilleries/unitedbreweries/UB02 554242qqqqqqUnited Breweries (Holdings) Limited
+/india/stockpricequote/breweriesdistilleries/unitedspirits/US 4d433038qqqqqqUnited Spirits Limited
+/india/stockpricequote/chemicals/upl/UP04 53493130qqqqqqUPL Limited
+/india/stockpricequote/steelmediumsmall/ushamartin/UM01 55423031qqqqqqUsha Martin Limited
+/india/stockpricequote/steelgpgcsheets/uttamgalvasteel/UGS01 55533031qqqqqqUttam Galva Steels Limited
+/india/stockpricequote/computerssoftwaremediumsmall/vakrangee/VS 56493032qqqqqqVakrangee Softwares Limited
+/india/stockpricequote/textilesspinningcottonblended/vardhmantextiles/VT10 4d534dqqqqqqVardhman Textiles Limited
+/india/stockpricequote/miscellaneous/venkys/V03 57483031qqqqqqVenky's (India) Limited
+/india/stockpricequote/cementproductsbuildingmaterials/vesuviusindia/VI06 56493036qqqqqqVesuvius India Limited
+/india/stockpricequote/consumergoodselectronic/videoconindustries/VLF 564c46qqqqqqVideocon Industries Limited
+/india/stockpricequote/bankspublicsector/vijayabank/VB03 56423033qqqqqqVijaya Bank
+/india/stockpricequote/plastics/vipindustries/VIP 564950qqqqqqVIP Industries Limited
+/india/stockpricequote/diversified/voltas/V 56qqqqqqVoltas Limited
+/india/stockpricequote/cigarettes/vstindustries/VST 565354qqqqqqVST Industries Limited
+/india/stockpricequote/autoancillaries/wabcoindia/WAB 574142qqqqqqWABCO India Limited
+/india/stockpricequote/textilesweaving/welspunindia/WI03 57493033qqqqqqWelspun India Limited
+/india/stockpricequote/paper/westcoastpapermills/WCP 574350qqqqqqWest Coast Paper Mills Limited
+/india/stockpricequote/consumergoodswhitegoods/whirlpoolindia/WI 5749qqqqqqWhirlpool of India Limited
+/india/stockpricequote/computerssoftware/wipro/W 57qqqqqqWipro Limited
+/india/stockpricequote/pharmaceuticals/wockhardt/W05 573035qqqqqqWockhardt Limited
+/india/stockpricequote/pharmaceuticals/wyeth/W11 43493139qqqqqqWyeth Limited
+/india/stockpricequote/banksprivatesector/yesbank/YB 5942qqqqqqYes Bank Limited
+/india/stockpricequote/mediaentertainment/zeeentertainmententerprises/ZEE 5a54qqqqqqZee Entertainment Enterprises Limited
+/india/stockpricequote/computerssoftware/zensartechnologies/ZT02 464943qqqqqqZensar Technologies Limited
+/india/stockpricequote/textilesreadymadeapparels/zodiacclothingcompany/ZCC 5a4343qqqqqqZodiac Clothing Company Limited
+/india/stockpricequote/vanaspatioils/zyduswellness/ZW01 434e41qqqqqqZydus Wellness Limited

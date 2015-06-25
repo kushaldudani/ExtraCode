@@ -1,0 +1,4 @@
+MM	1268.95	1318.5	1262.1	/india/stockpricequote/autocarsjeeps/mahindramahindra/MM 4d4d
+MANGCHEFER	95	95.5	94.1	/india/stockpricequote/fertilisers/mangalorechemicalsfertilisers/MCF01 4d43463031
+SHILPI	65.85	67	65.85	/india/stockpricequote/cablestelephone/shilpicabletechnologies/SCT02 5343543032
+AMRUTANJAN	265.2	270.5	260	/india/stockpricequote/pharmaceuticals/amrutanjanhealthcare/AHC01 413038
